@@ -1,0 +1,202 @@
+[
+  {
+    "id": "stark",
+    "name": {
+      "ru": "Старки",
+      "en": "House Stark"
+    },
+    "words": {
+      "ru": "Зима близко",
+      "en": "Winter Is Coming"
+    },
+    "sigil": {
+      "image": "placeholders/sigil.svg",
+      "description": {
+        "ru": "Серый лютоволк на белом поле",
+        "en": "A grey direwolf on a white field"
+      }
+    },
+    "seat": {
+      "ru": "Винтерфелл",
+      "en": "Winterfell"
+    }
+  },
+  {
+    "id": "lannister",
+    "name": {
+      "ru": "Ланнистеры",
+      "en": "House Lannister"
+    },
+    "words": {
+      "ru": "Услышь мой рёв!",
+      "en": "Hear Me Roar!"
+    },
+    "sigil": {
+      "image": "placeholders/sigil.svg"
+    },
+    "seat": {
+      "ru": "Утёс Кастерли",
+      "en": "Casterly Rock"
+    }
+  },
+  {
+    "id": "baratheon",
+    "name": {
+      "ru": "Баратеоны",
+      "en": "House Baratheon"
+    },
+    "words": {
+      "ru": "Нам ярость!",
+      "en": "Ours Is the Fury"
+    },
+    "sigil": {
+      "image": "placeholders/sigil.svg"
+    },
+    "seat": {
+      "ru": "Штормовой Предел",
+      "en": "Storm's End"
+    }
+  },
+  {
+    "id": "greyjoy",
+    "name": {
+      "ru": "Грейджои",
+      "en": "House Greyjoy"
+    },
+    "words": {
+      "ru": "Мы не сеем",
+      "en": "We Do Not Sow"
+    },
+    "sigil": {
+      "image": "placeholders/sigil.svg"
+    },
+    "seat": {
+      "ru": "Пайк",
+      "en": "Pyke"
+    }
+  },
+  {
+    "id": "tyrell",
+    "name": {
+      "ru": "Тиреллы",
+      "en": "House Tyrell"
+    },
+    "words": {
+      "ru": "Вырастая — крепнем",
+      "en": "Growing Strong"
+    },
+    "sigil": {
+      "image": "placeholders/sigil.svg"
+    },
+    "seat": {
+      "ru": "Хайгарден",
+      "en": "Highgarden"
+    }
+  },
+  {
+    "id": "martell",
+    "name": {
+      "ru": "Мартеллы",
+      "en": "House Martell"
+    },
+    "words": {
+      "ru": "Непреклонные, несгибаемые, несломленные",
+      "en": "Unbowed, Unbent, Unbroken"
+    },
+    "sigil": {
+      "image": "placeholders/sigil.svg"
+    },
+    "seat": {
+      "ru": "Солнечное Копьё",
+      "en": "Sunspear"
+    }
+  },
+  {
+    "id": "targaryen",
+    "name": {
+      "ru": "Таргариены",
+      "en": "House Targaryen"
+    },
+    "words": {
+      "ru": "Пламя и кровь",
+      "en": "Fire and Blood"
+    },
+    "sigil": {
+      "image": "placeholders/sigil.svg"
+    },
+    "seat": {
+      "ru": "Драконий Камень",
+      "en": "Dragonstone"
+    }
+  },
+  {
+    "id": "tarly",
+    "name": {
+      "ru": "Тарли",
+      "en": "House Tarly"
+    },
+    "words": {
+      "ru": "Первые в битве",
+      "en": "First in Battle"
+    },
+    "sigil": {
+      "image": "placeholders/sigil.svg"
+    },
+    "seat": {
+      "ru": "Рогов Холм",
+      "en": "Horn Hill"
+    }
+  },
+  {
+    "id": "clegane",
+    "name": {
+      "ru": "Клиганы",
+      "en": "House Clegane"
+    },
+    "sigil": {
+      "image": "placeholders/sigil.svg"
+    }
+  },
+  {
+    "id": "tarth",
+    "name": {
+      "ru": "Тарты",
+      "en": "House Tarth"
+    },
+    "sigil": {
+      "image": "placeholders/sigil.svg"
+    },
+    "seat": {
+      "ru": "Вечерний Чертог",
+      "en": "Evenfall Hall"
+    }
+  },
+  {
+    "id": "connington",
+    "name": {
+      "ru": "Коннингтоны",
+      "en": "House Connington"
+    },
+    "sigil": {
+      "image": "placeholders/sigil.svg"
+    },
+    "seat": {
+      "ru": "Гнездо Грифонов",
+      "en": "Griffin's Roost"
+    }
+  },
+  {
+    "id": "nights-watch",
+    "name": {
+      "ru": "Ночной Дозор",
+      "en": "Night's Watch"
+    },
+    "sigil": {
+      "image": "placeholders/sigil.svg"
+    },
+    "seat": {
+      "ru": "Чёрный Замок",
+      "en": "Castle Black"
+    }
+  }
+]

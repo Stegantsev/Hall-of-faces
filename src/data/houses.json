@@ -1,0 +1,1330 @@
+[
+  {
+    "id": "arryn",
+    "name": {
+      "ru": "Аррены",
+      "en": "House Arryn"
+    },
+    "sigil": {
+      "image": "sigils/arryn.png"
+    },
+    "words": {
+      "ru": "Высокий как честь",
+      "en": "As High as Honor"
+    },
+    "seat": {
+      "ru": "Орлиное Гнездо",
+      "en": "the Eyrie"
+    }
+  },
+  {
+    "id": "baelish",
+    "name": {
+      "ru": "Бейлиши",
+      "en": "House Baelish"
+    },
+    "sigil": {
+      "image": "sigils/baelish.png"
+    }
+  },
+  {
+    "id": "baratheon",
+    "name": {
+      "ru": "Баратеоны",
+      "en": "House Baratheon"
+    },
+    "words": {
+      "ru": "Нам ярость",
+      "en": "Ours Is the Fury"
+    },
+    "sigil": {
+      "description": {
+        "ru": "Чёрный коронованный олень на золотом поле",
+        "en": "A crowned black stag on a gold field"
+      },
+      "image": "sigils/baratheon.png"
+    },
+    "seat": {
+      "ru": "Штормовой Предел",
+      "en": "Storm’s End"
+    }
+  },
+  {
+    "id": "blackfyre",
+    "name": {
+      "ru": "Блэкфайры",
+      "en": "House Blackfyre"
+    },
+    "sigil": {
+      "image": "sigils/blackfyre.png"
+    }
+  },
+  {
+    "id": "blackwood",
+    "name": {
+      "ru": "Блэквуды",
+      "en": "House Blackwood"
+    },
+    "sigil": {
+      "image": "sigils/blackwood.png"
+    }
+  },
+  {
+    "id": "blount",
+    "name": {
+      "ru": "Блаунты",
+      "en": "House Blount"
+    },
+    "sigil": {
+      "image": "sigils/blount.png"
+    }
+  },
+  {
+    "id": "bolton",
+    "name": {
+      "ru": "Болтоны",
+      "en": "House Bolton"
+    },
+    "sigil": {
+      "image": "sigils/bolton.png"
+    },
+    "words": {
+      "ru": "Наши ножи остры",
+      "en": "Our Blades are Sharp"
+    },
+    "seat": {
+      "ru": "Дредфорт",
+      "en": "the Dreadfort"
+    }
+  },
+  {
+    "id": "botley",
+    "name": {
+      "ru": "Ботли",
+      "en": "House Botley"
+    },
+    "sigil": {
+      "image": "sigils/botley.png"
+    }
+  },
+  {
+    "id": "bracken",
+    "name": {
+      "ru": "Бракены",
+      "en": "House Bracken"
+    },
+    "sigil": {
+      "image": "sigils/bracken.png"
+    }
+  },
+  {
+    "id": "brune",
+    "name": {
+      "ru": "Брюны из Бурой Лощины",
+      "en": "House Brune of Brownhollow"
+    },
+    "sigil": {
+      "image": "sigils/brune.png"
+    }
+  },
+  {
+    "id": "bywater",
+    "name": {
+      "ru": "Байуотеры",
+      "en": "House Bywater"
+    },
+    "sigil": {
+      "image": "sigils/bywater.png"
+    }
+  },
+  {
+    "id": "caron",
+    "name": {
+      "ru": "Кароны",
+      "en": "House Caron"
+    },
+    "sigil": {
+      "image": "sigils/caron.png"
+    },
+    "words": {
+      "ru": "Нет песни слаще",
+      "en": "No Song So Sweet"
+    }
+  },
+  {
+    "id": "cassel",
+    "name": {
+      "ru": "Кассели",
+      "en": "House Cassel"
+    },
+    "sigil": {
+      "image": "sigils/cassel.png"
+    }
+  },
+  {
+    "id": "clegane",
+    "name": {
+      "ru": "Клиганы",
+      "en": "House Clegane"
+    },
+    "sigil": {
+      "image": "sigils/clegane.png"
+    }
+  },
+  {
+    "id": "connington",
+    "name": {
+      "ru": "Коннингтоны",
+      "en": "House Connington"
+    },
+    "sigil": {
+      "image": "sigils/connington.png"
+    },
+    "words": {
+      "ru": "Мы — буря",
+      "en": "We are the Storm // ; Лютый враг, верный друг / Ein grimmiger Feind, ein treuer Freund"
+    }
+  },
+  {
+    "id": "corbray",
+    "name": {
+      "ru": "Корбреи",
+      "en": "House Corbray"
+    },
+    "sigil": {
+      "image": "sigils/corbray.png"
+    }
+  },
+  {
+    "id": "crabb",
+    "name": {
+      "ru": "Крэббы",
+      "en": "House Crabb"
+    },
+    "sigil": {}
+  },
+  {
+    "id": "crakehall",
+    "name": {
+      "ru": "Крейкхоллы",
+      "en": "House Crakehall"
+    },
+    "sigil": {
+      "image": "sigils/crakehall.png"
+    },
+    "words": {
+      "ru": "Никто столь не свиреп",
+      "en": "None So Fierce"
+    }
+  },
+  {
+    "id": "crane",
+    "name": {
+      "ru": "Крейны",
+      "en": "House Crane"
+    },
+    "sigil": {
+      "image": "sigils/crane.png"
+    }
+  },
+  {
+    "id": "cuy",
+    "name": {
+      "ru": "Кью",
+      "en": "House Cuy"
+    },
+    "sigil": {
+      "image": "sigils/cuy.png"
+    }
+  },
+  {
+    "id": "dayne",
+    "name": {
+      "ru": "Дейны",
+      "en": "House Dayne"
+    },
+    "sigil": {
+      "image": "sigils/dayne.png"
+    },
+    "seat": {
+      "ru": "Звездопад",
+      "en": "Starfall"
+    }
+  },
+  {
+    "id": "dondarrion",
+    "name": {
+      "ru": "Дондаррионы",
+      "en": "House Dondarrion"
+    },
+    "sigil": {
+      "image": "sigils/dondarrion.png"
+    },
+    "seat": {
+      "ru": "Чёрный Приют",
+      "en": "Blackhaven"
+    }
+  },
+  {
+    "id": "drinkwater",
+    "name": {
+      "ru": "Дринкуотеры",
+      "en": "House Drinkwater"
+    },
+    "sigil": {}
+  },
+  {
+    "id": "drumm",
+    "name": {
+      "ru": "Драммы",
+      "en": "House Drumm"
+    },
+    "sigil": {
+      "image": "sigils/drumm.png"
+    }
+  },
+  {
+    "id": "dustin",
+    "name": {
+      "ru": "Дастины",
+      "en": "House Dustin"
+    },
+    "sigil": {
+      "image": "sigils/dustin.png"
+    }
+  },
+  {
+    "id": "egen",
+    "name": {
+      "ru": "Игены",
+      "en": "House Egen"
+    },
+    "sigil": {
+      "image": "sigils/egen.png"
+    },
+    "words": {
+      "ru": "Днём или ночью",
+      "en": "By Day or Night"
+    }
+  },
+  {
+    "id": "estermont",
+    "name": {
+      "ru": "Эстермонты",
+      "en": "House Estermont"
+    },
+    "sigil": {
+      "image": "sigils/estermont.png"
+    }
+  },
+  {
+    "id": "farring",
+    "name": {
+      "ru": "Фарринги",
+      "en": "House Farring"
+    },
+    "sigil": {
+      "image": "sigils/farring.png"
+    }
+  },
+  {
+    "id": "farwynd-of-lonely-light",
+    "name": {
+      "ru": "Фарвинды с Одинокого Света",
+      "en": "House Farwynd of the Lonely Light"
+    },
+    "sigil": {
+      "image": "sigils/farwynd-of-lonely-light.png"
+    }
+  },
+  {
+    "id": "florent",
+    "name": {
+      "ru": "Флоренты",
+      "en": "House Florent"
+    },
+    "sigil": {
+      "image": "sigils/florent.png"
+    }
+  },
+  {
+    "id": "frey",
+    "name": {
+      "ru": "Фреи",
+      "en": "House Frey"
+    },
+    "sigil": {
+      "image": "sigils/frey.png"
+    },
+    "words": {
+      "ru": "Стоим плечом к плечу",
+      "en": "We Stand Together"
+    },
+    "seat": {
+      "ru": "Близнецы",
+      "en": "the Twins"
+    }
+  },
+  {
+    "id": "galare",
+    "name": {
+      "ru": "Галары",
+      "en": "House Galare"
+    },
+    "sigil": {}
+  },
+  {
+    "id": "glover",
+    "name": {
+      "ru": "Гловеры",
+      "en": "House Glover"
+    },
+    "sigil": {
+      "image": "sigils/glover.png"
+    }
+  },
+  {
+    "id": "greenfield",
+    "name": {
+      "ru": "Гринфилды",
+      "en": "House Greenfield"
+    },
+    "sigil": {
+      "image": "sigils/greenfield.png"
+    }
+  },
+  {
+    "id": "greyjoy",
+    "name": {
+      "ru": "Грейджои",
+      "en": "House Greyjoy"
+    },
+    "words": {
+      "ru": "Мы не сеем",
+      "en": "We Do Not Sow"
+    },
+    "sigil": {
+      "description": {
+        "ru": "Золотой кракен на чёрном поле",
+        "en": "A golden kraken on a black field"
+      },
+      "image": "sigils/greyjoy.png"
+    },
+    "seat": {
+      "ru": "Пайк",
+      "en": "Pyke"
+    }
+  },
+  {
+    "id": "hardyng",
+    "name": {
+      "ru": "Хардинги",
+      "en": "House Hardyng"
+    },
+    "sigil": {
+      "image": "sigils/hardyng.png"
+    }
+  },
+  {
+    "id": "harlaw",
+    "name": {
+      "ru": "Харлоу",
+      "en": "House Harlaw"
+    },
+    "sigil": {
+      "image": "sigils/harlaw.png"
+    }
+  },
+  {
+    "id": "hasty",
+    "name": {
+      "ru": "Хасти",
+      "en": "House Hasty"
+    },
+    "sigil": {
+      "image": "sigils/hasty.png"
+    }
+  },
+  {
+    "id": "hightower",
+    "name": {
+      "ru": "Хайтауэры",
+      "en": "House Hightower"
+    },
+    "sigil": {
+      "image": "sigils/hightower.png"
+    },
+    "words": {
+      "ru": "Мы освещаем путь",
+      "en": "We Light the Way"
+    }
+  },
+  {
+    "id": "hoare",
+    "name": {
+      "ru": "Хоары",
+      "en": "House Hoare"
+    },
+    "sigil": {
+      "image": "sigils/hoare.png"
+    }
+  },
+  {
+    "id": "hollard",
+    "name": {
+      "ru": "Холларды",
+      "en": "House Hollard"
+    },
+    "sigil": {
+      "image": "sigils/hollard.png"
+    }
+  },
+  {
+    "id": "hunt",
+    "name": {
+      "ru": "Ханты",
+      "en": "House Hunt"
+    },
+    "sigil": {
+      "image": "sigils/hunt.png"
+    }
+  },
+  {
+    "id": "ironmaker",
+    "name": {
+      "ru": "Айронмейкеры",
+      "en": "House Ironmaker"
+    },
+    "sigil": {}
+  },
+  {
+    "id": "kandaq",
+    "name": {
+      "ru": "Кандаки",
+      "en": "House Kandaq"
+    },
+    "sigil": {}
+  },
+  {
+    "id": "karstark",
+    "name": {
+      "ru": "Карстарки",
+      "en": "House Karstark"
+    },
+    "sigil": {
+      "image": "sigils/karstark.png"
+    },
+    "words": {
+      "ru": "Солнце зимы",
+      "en": "The Sun of Winter"
+    },
+    "seat": {
+      "ru": "Кархолд",
+      "en": "Karhold"
+    }
+  },
+  {
+    "id": "kettleblack",
+    "name": {
+      "ru": "Кеттлблэки",
+      "en": "House Kettleblack"
+    },
+    "sigil": {
+      "image": "sigils/kettleblack.png"
+    }
+  },
+  {
+    "id": "lannister",
+    "name": {
+      "ru": "Ланнистеры",
+      "en": "House Lannister"
+    },
+    "words": {
+      "ru": "Услышь мой рёв!",
+      "en": "Hear Me Roar!"
+    },
+    "sigil": {
+      "description": {
+        "ru": "Золотой лев на алом поле",
+        "en": "A golden lion on a red field"
+      },
+      "image": "sigils/lannister.png"
+    },
+    "seat": {
+      "ru": "Утёс Кастерли",
+      "en": "Casterly Rock"
+    }
+  },
+  {
+    "id": "long",
+    "name": {
+      "ru": "Лонги",
+      "en": "House Long"
+    },
+    "sigil": {}
+  },
+  {
+    "id": "loraq",
+    "name": {
+      "ru": "Лораки",
+      "en": "House Loraq"
+    },
+    "sigil": {
+      "image": "sigils/loraq.png"
+    }
+  },
+  {
+    "id": "lorch",
+    "name": {
+      "ru": "Лорхи",
+      "en": "House Lorch"
+    },
+    "sigil": {
+      "image": "sigils/lorch.png"
+    }
+  },
+  {
+    "id": "mallister",
+    "name": {
+      "ru": "Маллистеры",
+      "en": "House Mallister"
+    },
+    "sigil": {
+      "image": "sigils/mallister.png"
+    },
+    "words": {
+      "ru": "Над прочими",
+      "en": "Above the Rest"
+    }
+  },
+  {
+    "id": "manderly",
+    "name": {
+      "ru": "Мандерли",
+      "en": "House Manderly"
+    },
+    "sigil": {
+      "image": "sigils/manderly.png"
+    }
+  },
+  {
+    "id": "marbrand",
+    "name": {
+      "ru": "Марбранды",
+      "en": "House Marbrand"
+    },
+    "sigil": {
+      "image": "sigils/marbrand.png"
+    },
+    "words": {
+      "ru": "Горю ярко",
+      "en": "Burning Bright"
+    }
+  },
+  {
+    "id": "marsh",
+    "name": {
+      "ru": "Марши",
+      "en": "House Marsh"
+    },
+    "sigil": {
+      "image": "sigils/marsh.png"
+    }
+  },
+  {
+    "id": "martell",
+    "name": {
+      "ru": "Мартеллы",
+      "en": "House Martell"
+    },
+    "sigil": {
+      "image": "sigils/martell.png"
+    },
+    "words": {
+      "ru": "Непреклонные, несгибаемые, несдающиеся",
+      "en": "; Unbowed, Unbent, Unbroken"
+    },
+    "seat": {
+      "ru": "Солнечное Копьё",
+      "en": "Sunspear"
+    }
+  },
+  {
+    "id": "massey",
+    "name": {
+      "ru": "Масси",
+      "en": "House Massey"
+    },
+    "sigil": {
+      "image": "sigils/massey.png"
+    }
+  },
+  {
+    "id": "merryweather",
+    "name": {
+      "ru": "Мерривезеры",
+      "en": "House Merryweather"
+    },
+    "sigil": {
+      "image": "sigils/merryweather.png"
+    },
+    "words": {
+      "ru": "Узрите нашу щедрость",
+      "en": "Behold Our Bounty"
+    }
+  },
+  {
+    "id": "moore",
+    "name": {
+      "ru": "Муры",
+      "en": "House Moore"
+    },
+    "sigil": {
+      "image": "sigils/moore.png"
+    }
+  },
+  {
+    "id": "mormont",
+    "name": {
+      "ru": "Мормонты",
+      "en": "House Mormont"
+    },
+    "sigil": {
+      "image": "sigils/mormont.png"
+    },
+    "words": {
+      "ru": "Здесь стоим",
+      "en": "Here We Stand"
+    }
+  },
+  {
+    "id": "morrigen",
+    "name": {
+      "ru": "Морригены",
+      "en": "House Morrigen"
+    },
+    "sigil": {
+      "image": "sigils/morrigen.png"
+    }
+  },
+  {
+    "id": "mullendore",
+    "name": {
+      "ru": "Маллендоры",
+      "en": "House Mullendore"
+    },
+    "sigil": {
+      "image": "sigils/mullendore.png"
+    }
+  },
+  {
+    "id": "nakloz",
+    "name": {
+      "ru": "Наклозы",
+      "en": "House Nakloz"
+    },
+    "sigil": {}
+  },
+  {
+    "id": "oakheart",
+    "name": {
+      "ru": "Окхарты",
+      "en": "House Oakheart"
+    },
+    "sigil": {
+      "image": "sigils/oakheart.png"
+    },
+    "words": {
+      "ru": "Наши корни глубоки",
+      "en": "Our Roots Go Deep"
+    }
+  },
+  {
+    "id": "payne",
+    "name": {
+      "ru": "Пейны",
+      "en": "House Payne"
+    },
+    "sigil": {
+      "image": "sigils/payne.png"
+    }
+  },
+  {
+    "id": "peake",
+    "name": {
+      "ru": "Пики",
+      "en": "House Peake"
+    },
+    "sigil": {
+      "image": "sigils/peake.png"
+    }
+  },
+  {
+    "id": "peckledon",
+    "name": {
+      "ru": "Пеклдоны",
+      "en": "House Peckledon"
+    },
+    "sigil": {
+      "image": "sigils/peckledon.png"
+    },
+    "words": {
+      "ru": "Непоколебимые",
+      "en": "Unfliching"
+    }
+  },
+  {
+    "id": "penrose",
+    "name": {
+      "ru": "Пенрозы",
+      "en": "House Penrose"
+    },
+    "sigil": {
+      "image": "sigils/penrose.png"
+    },
+    "words": {
+      "ru": "Запишем наши деяния",
+      "en": "Set Down Our Deeds"
+    }
+  },
+  {
+    "id": "piper",
+    "name": {
+      "ru": "Пайперы",
+      "en": "House Piper"
+    },
+    "sigil": {
+      "image": "sigils/piper.png"
+    },
+    "words": {
+      "ru": "Храбры и прекрасны",
+      "en": "Brave and Beautiful"
+    }
+  },
+  {
+    "id": "plumm",
+    "name": {
+      "ru": "Пламмы",
+      "en": "House Plumm"
+    },
+    "sigil": {
+      "image": "sigils/plumm.png"
+    },
+    "words": {
+      "ru": "Попробуй меня",
+      "en": "Come Try Me"
+    }
+  },
+  {
+    "id": "poole",
+    "name": {
+      "ru": "Пули",
+      "en": "House Poole"
+    },
+    "sigil": {
+      "image": "sigils/poole.png"
+    }
+  },
+  {
+    "id": "qaggaz",
+    "name": {
+      "ru": "Каггазы",
+      "en": "House Qaggaz"
+    },
+    "sigil": {}
+  },
+  {
+    "id": "redwyne",
+    "name": {
+      "ru": "Редвины",
+      "en": "House Redwyne"
+    },
+    "sigil": {
+      "image": "sigils/redwyne.png"
+    }
+  },
+  {
+    "id": "reed",
+    "name": {
+      "ru": "Риды",
+      "en": "House Reed"
+    },
+    "sigil": {
+      "image": "sigils/reed.png"
+    }
+  },
+  {
+    "id": "reznak",
+    "name": {
+      "ru": "Резнаки",
+      "en": "House Reznak"
+    },
+    "sigil": {}
+  },
+  {
+    "id": "rosby",
+    "name": {
+      "ru": "Росби",
+      "en": "House Rosby"
+    },
+    "sigil": {
+      "image": "sigils/rosby.png"
+    }
+  },
+  {
+    "id": "rowan",
+    "name": {
+      "ru": "Рованы",
+      "en": "House Rowan"
+    },
+    "sigil": {
+      "image": "sigils/rowan.png"
+    }
+  },
+  {
+    "id": "royce",
+    "name": {
+      "ru": "Ройсы из Рунного Камня",
+      "en": "House Royce of Runestone"
+    },
+    "sigil": {
+      "image": "sigils/royce.png"
+    },
+    "words": {
+      "ru": "Мы помним",
+      "en": "We Remember"
+    }
+  },
+  {
+    "id": "royce-of-the-gates-of-the-moon",
+    "name": {
+      "ru": "Ройсы из Лунных Врат",
+      "en": "House Royce of the Gates of the Moon"
+    },
+    "sigil": {
+      "image": "sigils/royce-of-the-gates-of-the-moon.png"
+    }
+  },
+  {
+    "id": "ryswell",
+    "name": {
+      "ru": "Рисвеллы",
+      "en": "House Ryswell"
+    },
+    "sigil": {
+      "image": "sigils/ryswell.png"
+    }
+  },
+  {
+    "id": "saan",
+    "name": {
+      "ru": "Сааны",
+      "en": "House Saan"
+    },
+    "sigil": {}
+  },
+  {
+    "id": "santagar",
+    "name": {
+      "ru": "Сантагары",
+      "en": "House Santagar"
+    },
+    "sigil": {
+      "image": "sigils/santagar.png"
+    }
+  },
+  {
+    "id": "seaworth",
+    "name": {
+      "ru": "Сиворты",
+      "en": "House Seaworth"
+    },
+    "sigil": {
+      "image": "sigils/seaworth.png"
+    }
+  },
+  {
+    "id": "selmy",
+    "name": {
+      "ru": "Селми",
+      "en": "House Selmy"
+    },
+    "sigil": {
+      "image": "sigils/selmy.png"
+    },
+    "seat": {
+      "ru": "Дом Урожая",
+      "en": "Harvest Hall"
+    }
+  },
+  {
+    "id": "slynt",
+    "name": {
+      "ru": "Слинты",
+      "en": "House Slynt"
+    },
+    "sigil": {
+      "image": "sigils/slynt.png"
+    }
+  },
+  {
+    "id": "smallwood",
+    "name": {
+      "ru": "Смоллвуды",
+      "en": "House Smallwood"
+    },
+    "sigil": {
+      "image": "sigils/smallwood.png"
+    },
+    "words": {
+      "ru": "С этих начал",
+      "en": "From These Beginnings"
+    }
+  },
+  {
+    "id": "spicer",
+    "name": {
+      "ru": "Спайсеры",
+      "en": "House Spicer"
+    },
+    "sigil": {
+      "image": "sigils/spicer.png"
+    }
+  },
+  {
+    "id": "stark",
+    "name": {
+      "ru": "Старки",
+      "en": "House Stark"
+    },
+    "words": {
+      "ru": "Зима близко",
+      "en": "Winter is Coming"
+    },
+    "sigil": {
+      "description": {
+        "ru": "Серый лютоволк, бегущий по снежно-белому полю",
+        "en": "A grey direwolf running across a white field"
+      },
+      "image": "sigils/stark.png"
+    },
+    "seat": {
+      "ru": "Винтерфелл",
+      "en": "Winterfell"
+    }
+  },
+  {
+    "id": "stilwood",
+    "name": {
+      "ru": "Стилвуды",
+      "en": "House Stilwood"
+    },
+    "sigil": {}
+  },
+  {
+    "id": "stokeworth",
+    "name": {
+      "ru": "Стокворты",
+      "en": "House Stokeworth"
+    },
+    "sigil": {
+      "image": "sigils/stokeworth.png"
+    },
+    "words": {
+      "ru": "Гордимся преданностью",
+      "en": "Proud to be Faithful"
+    }
+  },
+  {
+    "id": "strickland",
+    "name": {
+      "ru": "Стрикленды",
+      "en": "House Strickland"
+    },
+    "sigil": {}
+  },
+  {
+    "id": "swann",
+    "name": {
+      "ru": "Сванны",
+      "en": "House Swann"
+    },
+    "sigil": {
+      "image": "sigils/swann.png"
+    }
+  },
+  {
+    "id": "swyft",
+    "name": {
+      "ru": "Свифты",
+      "en": "House Swyft"
+    },
+    "sigil": {
+      "image": "sigils/swyft.png"
+    },
+    "words": {
+      "ru": "Проснитесь! Проснитесь!",
+      "en": "Awake! Awake!"
+    }
+  },
+  {
+    "id": "targaryen",
+    "name": {
+      "ru": "Таргариены",
+      "en": "House Targaryen"
+    },
+    "words": {
+      "ru": "Пламя и кровь",
+      "en": "Fire and Blood"
+    },
+    "sigil": {
+      "description": {
+        "ru": "Красный трёхглавый дракон на чёрном поле",
+        "en": "A red three-headed dragon on a black field"
+      },
+      "image": "sigils/targaryen.png"
+    },
+    "seat": {
+      "ru": "Великая пирамида Миэрина",
+      "en": "Great Pyramid of Meereen"
+    }
+  },
+  {
+    "id": "tarly",
+    "name": {
+      "ru": "Тарли",
+      "en": "House Tarly"
+    },
+    "sigil": {
+      "image": "sigils/tarly.png"
+    },
+    "words": {
+      "ru": "Первые в битве",
+      "en": "First In Battle"
+    },
+    "seat": {
+      "ru": "Рогов Холм",
+      "en": "Horn Hill"
+    }
+  },
+  {
+    "id": "tarth",
+    "name": {
+      "ru": "Тарты",
+      "en": "House Tarth"
+    },
+    "sigil": {
+      "image": "sigils/tarth.png"
+    }
+  },
+  {
+    "id": "thenn",
+    "name": {
+      "ru": "Тенны",
+      "en": "House Thenn"
+    },
+    "sigil": {
+      "image": "sigils/thenn.png"
+    }
+  },
+  {
+    "id": "thorne",
+    "name": {
+      "ru": "Торны",
+      "en": "House Thorne"
+    },
+    "sigil": {
+      "image": "sigils/thorne.png"
+    }
+  },
+  {
+    "id": "tollett",
+    "name": {
+      "ru": "Толлетты",
+      "en": "House Tollett"
+    },
+    "sigil": {
+      "image": "sigils/tollett.png"
+    },
+    "words": {
+      "ru": "В самый тёмный час",
+      "en": "When All is Darkest"
+    }
+  },
+  {
+    "id": "toyne",
+    "name": {
+      "ru": "Тойны",
+      "en": "House Toyne"
+    },
+    "sigil": {
+      "image": "sigils/toyne.png"
+    },
+    "words": {
+      "ru": "Лети высоко, лети далеко",
+      "en": "Fly High, Fly Far"
+    }
+  },
+  {
+    "id": "trant",
+    "name": {
+      "ru": "Транты",
+      "en": "House Trant"
+    },
+    "sigil": {
+      "image": "sigils/trant.png"
+    },
+    "words": {
+      "ru": "Так заканчивают наши враги",
+      "en": "So End Our Foes"
+    }
+  },
+  {
+    "id": "tully",
+    "name": {
+      "ru": "Талли",
+      "en": "House Tully"
+    },
+    "sigil": {
+      "image": "sigils/tully.png"
+    },
+    "words": {
+      "ru": "Семья, долг, честь",
+      "en": "Family, Duty, Honor"
+    },
+    "seat": {
+      "ru": "Риверран",
+      "en": "Riverrun"
+    }
+  },
+  {
+    "id": "tyrell",
+    "name": {
+      "ru": "Тиреллы",
+      "en": "House Tyrell"
+    },
+    "sigil": {
+      "image": "sigils/tyrell.png"
+    },
+    "words": {
+      "ru": "Вырастая — крепнем",
+      "en": "Growing Strong"
+    },
+    "seat": {
+      "ru": "Хайгарден",
+      "en": "Highgarden"
+    }
+  },
+  {
+    "id": "uller",
+    "name": {
+      "ru": "Уллеры",
+      "en": "House Uller"
+    },
+    "sigil": {
+      "image": "sigils/uller.png"
+    }
+  },
+  {
+    "id": "umber",
+    "name": {
+      "ru": "Амберы",
+      "en": "House Umber"
+    },
+    "sigil": {
+      "image": "sigils/umber.png"
+    },
+    "words": {
+      "ru": "Смерть лучше цепей",
+      "en": "Death Before Chains"
+    },
+    "seat": {
+      "ru": "Последний Очаг",
+      "en": "Last Hearth"
+    }
+  },
+  {
+    "id": "velaryon",
+    "name": {
+      "ru": "Веларионы",
+      "en": "House Velaryon"
+    },
+    "sigil": {
+      "image": "sigils/velaryon.png"
+    },
+    "words": {
+      "ru": "Старый, верный, отважный",
+      "en": "The Old, the True, the Brave"
+    }
+  },
+  {
+    "id": "westerling",
+    "name": {
+      "ru": "Вестерлинги",
+      "en": "House Westerling"
+    },
+    "sigil": {
+      "image": "sigils/westerling.png"
+    },
+    "words": {
+      "ru": "Честь, а не поУдарениечести",
+      "en": "Honor, Not Honors"
+    }
+  },
+  {
+    "id": "whent",
+    "name": {
+      "ru": "Уэнты",
+      "en": "House Whent"
+    },
+    "sigil": {
+      "image": "sigils/whent.png"
+    },
+    "seat": {
+      "ru": "Харренхолл",
+      "en": "Harrenhal"
+    }
+  },
+  {
+    "id": "wull",
+    "name": {
+      "ru": "Вуллы",
+      "en": "House Wull"
+    },
+    "sigil": {
+      "image": "sigils/wull.png"
+    }
+  },
+  {
+    "id": "xho",
+    "name": {
+      "ru": "Ксо",
+      "en": "House Xho"
+    },
+    "sigil": {}
+  },
+  {
+    "id": "yarwyck",
+    "name": {
+      "ru": "Ярвики",
+      "en": "House Yarwyck"
+    },
+    "sigil": {
+      "image": "sigils/yarwyck.png"
+    }
+  },
+  {
+    "id": "yronwood",
+    "name": {
+      "ru": "Айронвуды",
+      "en": "House Yronwood"
+    },
+    "sigil": {
+      "image": "sigils/yronwood.png"
+    },
+    "words": {
+      "ru": "Мы храним путь",
+      "en": "We Guard the Way"
+    }
+  }
+]

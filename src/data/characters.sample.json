@@ -1,0 +1,1122 @@
+[
+  {
+    "id": "hodor",
+    "level": "show",
+    "race": "northman",
+    "name": {
+      "ru": "Ходор",
+      "en": "Hodor"
+    },
+    "gender": "m",
+    "serves": "stark",
+    "facts": [
+      {
+        "ru": "Конюх Винтерфелла, способный произнести лишь одно слово.",
+        "en": "A Winterfell stableboy who can say only one word."
+      }
+    ],
+    "portrait": "placeholders/human-m.svg",
+    "wiki": {
+      "ru": "https://7kingdoms.ru/wiki/Ходор",
+      "en": "https://awoiaf.westeros.org/index.php/Hodor"
+    }
+  },
+  {
+    "id": "hot-pie",
+    "level": "show",
+    "race": "andal",
+    "name": {
+      "ru": "Пирожок",
+      "en": "Hot Pie"
+    },
+    "gender": "m",
+    "facts": [
+      {
+        "ru": "Сирота из Королевской Гавани, мечтающий печь хлеб.",
+        "en": "An orphan from King's Landing whose passion is baking."
+      }
+    ],
+    "portrait": "placeholders/human-m.svg",
+    "wiki": {
+      "ru": "https://7kingdoms.ru/wiki/Пирожок",
+      "en": "https://awoiaf.westeros.org/index.php/Hot_Pie"
+    }
+  },
+  {
+    "id": "grenn",
+    "level": "show",
+    "race": "andal",
+    "name": {
+      "ru": "Гренн",
+      "en": "Grenn"
+    },
+    "nickname": {
+      "ru": "Зубр",
+      "en": "Aurochs"
+    },
+    "gender": "m",
+    "serves": "nights-watch",
+    "facts": [
+      {
+        "ru": "Брат Ночного Дозора, сильный, но небыстрый умом.",
+        "en": "A sworn brother of the Night's Watch, strong but slow-witted."
+      }
+    ],
+    "portrait": "placeholders/human-m.svg",
+    "wiki": {
+      "ru": "https://7kingdoms.ru/wiki/Гренн",
+      "en": "https://awoiaf.westeros.org/index.php/Grenn"
+    }
+  },
+  {
+    "id": "dontos-hollard",
+    "level": "show",
+    "race": "andal",
+    "name": {
+      "ru": "Донтос Холлард",
+      "en": "Dontos Hollard"
+    },
+    "gender": "m",
+    "facts": [
+      {
+        "ru": "Пьяный рыцарь, ставший королевским шутом.",
+        "en": "A drunken knight turned royal fool."
+      }
+    ],
+    "portrait": "placeholders/human-m.svg",
+    "wiki": {
+      "ru": "https://7kingdoms.ru/wiki/Донтос_Холлард",
+      "en": "https://awoiaf.westeros.org/index.php/Dontos_Hollard"
+    }
+  },
+  {
+    "id": "janos-slynt",
+    "level": "show",
+    "race": "andal",
+    "name": {
+      "ru": "Янос Слинт",
+      "en": "Janos Slynt"
+    },
+    "gender": "m",
+    "facts": [
+      {
+        "ru": "Командир Городской стражи, сын мясника.",
+        "en": "Commander of the City Watch and a butcher's son."
+      }
+    ],
+    "portrait": "placeholders/human-m.svg",
+    "wiki": {
+      "ru": "https://7kingdoms.ru/wiki/Янос_Слинт",
+      "en": "https://awoiaf.westeros.org/index.php/Janos_Slynt"
+    }
+  },
+  {
+    "id": "lancel-lannister",
+    "level": "show",
+    "race": "andal",
+    "name": {
+      "ru": "Лансель Ланнистер",
+      "en": "Lancel Lannister"
+    },
+    "gender": "m",
+    "house": "lannister",
+    "facts": [
+      {
+        "ru": "Оруженосец короля, позже — фанатичный последователь Веры.",
+        "en": "A king's squire who later turned zealot of the Faith."
+      }
+    ],
+    "portrait": "placeholders/human-m.svg",
+    "wiki": {
+      "ru": "https://7kingdoms.ru/wiki/Лансель_Ланнистер",
+      "en": "https://awoiaf.westeros.org/index.php/Lancel_Lannister"
+    }
+  },
+  {
+    "id": "joffrey-baratheon",
+    "level": "show",
+    "race": "andal",
+    "name": {
+      "ru": "Джоффри Баратеон",
+      "en": "Joffrey Baratheon"
+    },
+    "gender": "m",
+    "house": "baratheon",
+    "facts": [
+      {
+        "ru": "Юный король, известный жестокостью и любовью к арбалетам.",
+        "en": "A young king known for cruelty and his love of crossbows."
+      }
+    ],
+    "portrait": "placeholders/human-m.svg",
+    "wiki": {
+      "ru": "https://7kingdoms.ru/wiki/Джоффри_Баратеон",
+      "en": "https://awoiaf.westeros.org/index.php/Joffrey_Baratheon"
+    }
+  },
+  {
+    "id": "theon-greyjoy",
+    "level": "show",
+    "race": "ironborn",
+    "name": {
+      "ru": "Теон Грейджой",
+      "en": "Theon Greyjoy"
+    },
+    "gender": "m",
+    "house": "greyjoy",
+    "serves": "stark",
+    "facts": [
+      {
+        "ru": "Воспитанник Винтерфелла, взятый в заложники ещё ребёнком.",
+        "en": "A ward of Winterfell, taken hostage as a boy."
+      }
+    ],
+    "portrait": "placeholders/human-m.svg",
+    "wiki": {
+      "ru": "https://7kingdoms.ru/wiki/Теон_Грейджой",
+      "en": "https://awoiaf.westeros.org/index.php/Theon_Greyjoy"
+    }
+  },
+  {
+    "id": "podrick-payne",
+    "level": "show",
+    "race": "andal",
+    "name": {
+      "ru": "Подрик Пейн",
+      "en": "Podrick Payne"
+    },
+    "gender": "m",
+    "serves": "lannister",
+    "facts": [
+      {
+        "ru": "Застенчивый оруженосец с неожиданными талантами.",
+        "en": "A shy squire with unexpected talents."
+      }
+    ],
+    "portrait": "placeholders/human-m.svg",
+    "wiki": {
+      "ru": "https://7kingdoms.ru/wiki/Подрик_Пейн",
+      "en": "https://awoiaf.westeros.org/index.php/Podrick_Payne"
+    }
+  },
+  {
+    "id": "gendry",
+    "level": "show",
+    "race": "andal",
+    "name": {
+      "ru": "Джендри",
+      "en": "Gendry"
+    },
+    "gender": "m",
+    "facts": [
+      {
+        "ru": "Ученик кузнеца с Блошиного Конца.",
+        "en": "A blacksmith's apprentice from Flea Bottom."
+      }
+    ],
+    "portrait": "placeholders/human-m.svg",
+    "wiki": {
+      "ru": "https://7kingdoms.ru/wiki/Джендри",
+      "en": "https://awoiaf.westeros.org/index.php/Gendry"
+    }
+  },
+  {
+    "id": "tormund",
+    "level": "show",
+    "race": "free_folk",
+    "name": {
+      "ru": "Тормунд",
+      "en": "Tormund"
+    },
+    "gender": "m",
+    "facts": [
+      {
+        "ru": "Одичалый вождь, обожающий рассказывать о себе небылицы.",
+        "en": "A wildling chief who loves telling tall tales about himself."
+      }
+    ],
+    "portrait": "placeholders/human-m.svg",
+    "wiki": {
+      "ru": "https://7kingdoms.ru/wiki/Тормунд",
+      "en": "https://awoiaf.westeros.org/index.php/Tormund"
+    }
+  },
+  {
+    "id": "davos-seaworth",
+    "level": "show",
+    "race": "andal",
+    "name": {
+      "ru": "Давос Сиворт",
+      "en": "Davos Seaworth"
+    },
+    "gender": "m",
+    "serves": "baratheon",
+    "facts": [
+      {
+        "ru": "Бывший контрабандист, лишившийся фаланг пальцев.",
+        "en": "A former smuggler who lost the ends of his fingers."
+      }
+    ],
+    "portrait": "placeholders/human-m.svg",
+    "wiki": {
+      "ru": "https://7kingdoms.ru/wiki/Давос_Сиворт",
+      "en": "https://awoiaf.westeros.org/index.php/Davos_Seaworth"
+    }
+  },
+  {
+    "id": "bronn",
+    "level": "show",
+    "race": "andal",
+    "name": {
+      "ru": "Бронн",
+      "en": "Bronn"
+    },
+    "gender": "m",
+    "facts": [
+      {
+        "ru": "Наёмник, готовый драться за кого угодно за звонкую монету.",
+        "en": "A sellsword who will fight for anyone with coin."
+      }
+    ],
+    "portrait": "placeholders/human-m.svg",
+    "wiki": {
+      "ru": "https://7kingdoms.ru/wiki/Бронн",
+      "en": "https://awoiaf.westeros.org/index.php/Bronn"
+    }
+  },
+  {
+    "id": "sandor-clegane",
+    "level": "show",
+    "race": "andal",
+    "name": {
+      "ru": "Сандор Клиган",
+      "en": "Sandor Clegane"
+    },
+    "gender": "m",
+    "house": "clegane",
+    "serves": "lannister",
+    "facts": [
+      {
+        "ru": "Боится огня с тех пор, как брат обжёг ему лицо.",
+        "en": "Fears fire ever since his brother burned his face."
+      }
+    ],
+    "portrait": "placeholders/human-m.svg",
+    "wiki": {
+      "ru": "https://7kingdoms.ru/wiki/Сандор_Клиган",
+      "en": "https://awoiaf.westeros.org/index.php/Sandor_Clegane"
+    }
+  },
+  {
+    "id": "brienne-of-tarth",
+    "level": "show",
+    "race": "andal",
+    "name": {
+      "ru": "Бриенна Тарт",
+      "en": "Brienne of Tarth"
+    },
+    "gender": "f",
+    "house": "tarth",
+    "facts": [
+      {
+        "ru": "Высокая воительница, мечтающая о рыцарском звании.",
+        "en": "A towering warrior who dreams of knighthood."
+      }
+    ],
+    "portrait": "placeholders/human-f.svg",
+    "wiki": {
+      "ru": "https://7kingdoms.ru/wiki/Бриенна_Тарт",
+      "en": "https://awoiaf.westeros.org/index.php/Brienne_of_Tarth"
+    }
+  },
+  {
+    "id": "samwell-tarly",
+    "level": "show",
+    "race": "andal",
+    "name": {
+      "ru": "Сэмвелл Тарли",
+      "en": "Samwell Tarly"
+    },
+    "gender": "m",
+    "house": "tarly",
+    "serves": "nights-watch",
+    "facts": [
+      {
+        "ru": "Книжник, которого отец отправил на Стену.",
+        "en": "A bookish youth sent to the Wall by his father."
+      }
+    ],
+    "portrait": "placeholders/human-m.svg",
+    "wiki": {
+      "ru": "https://7kingdoms.ru/wiki/Сэмвелл_Тарли",
+      "en": "https://awoiaf.westeros.org/index.php/Samwell_Tarly"
+    }
+  },
+  {
+    "id": "olenna-redwyne",
+    "level": "show",
+    "race": "andal",
+    "name": {
+      "ru": "Оленна Редвин",
+      "en": "Olenna Redwyne"
+    },
+    "nickname": {
+      "ru": "Королева Шипов",
+      "en": "Queen of Thorns"
+    },
+    "gender": "f",
+    "house": "tyrell",
+    "facts": [
+      {
+        "ru": "Острая на язык бабушка из Простора.",
+        "en": "A sharp-tongued grandmother from the Reach."
+      }
+    ],
+    "portrait": "placeholders/human-f.svg",
+    "wiki": {
+      "ru": "https://7kingdoms.ru/wiki/Оленна_Редвин",
+      "en": "https://awoiaf.westeros.org/index.php/Olenna_Redwyne"
+    }
+  },
+  {
+    "id": "sansa-stark",
+    "level": "show",
+    "race": "northman",
+    "name": {
+      "ru": "Санса Старк",
+      "en": "Sansa Stark"
+    },
+    "gender": "f",
+    "house": "stark",
+    "facts": [
+      {
+        "ru": "Мечтала выйти замуж за принца и жить на юге.",
+        "en": "Dreamed of marrying a prince and living in the south."
+      }
+    ],
+    "portrait": "placeholders/human-f.svg",
+    "wiki": {
+      "ru": "https://7kingdoms.ru/wiki/Санса_Старк",
+      "en": "https://awoiaf.westeros.org/index.php/Sansa_Stark"
+    }
+  },
+  {
+    "id": "jaime-lannister",
+    "level": "show",
+    "race": "andal",
+    "name": {
+      "ru": "Джейме Ланнистер",
+      "en": "Jaime Lannister"
+    },
+    "gender": "m",
+    "house": "lannister",
+    "facts": [
+      {
+        "ru": "Рыцарь Королевской гвардии, убивший короля, которого клялся защищать.",
+        "en": "A Kingsguard knight who slew the king he swore to protect."
+      }
+    ],
+    "portrait": "placeholders/human-m.svg",
+    "wiki": {
+      "ru": "https://7kingdoms.ru/wiki/Джейме_Ланнистер",
+      "en": "https://awoiaf.westeros.org/index.php/Jaime_Lannister"
+    }
+  },
+  {
+    "id": "cersei-lannister",
+    "level": "show",
+    "race": "andal",
+    "name": {
+      "ru": "Серсея Ланнистер",
+      "en": "Cersei Lannister"
+    },
+    "gender": "f",
+    "house": "lannister",
+    "facts": [
+      {
+        "ru": "Королева, готовая на всё ради своих детей.",
+        "en": "A queen who would do anything for her children."
+      }
+    ],
+    "portrait": "placeholders/human-f.svg",
+    "wiki": {
+      "ru": "https://7kingdoms.ru/wiki/Серсея_Ланнистер",
+      "en": "https://awoiaf.westeros.org/index.php/Cersei_Lannister"
+    }
+  },
+  {
+    "id": "petyr-baelish",
+    "level": "show",
+    "race": "andal",
+    "name": {
+      "ru": "Петир Бейлиш",
+      "en": "Petyr Baelish"
+    },
+    "nickname": {
+      "ru": "Мизинец",
+      "en": "Littlefinger"
+    },
+    "gender": "m",
+    "facts": [
+      {
+        "ru": "Мастер над монетой, носящий брошь-пересмешника.",
+        "en": "A master of coin who wears a mockingbird pin."
+      }
+    ],
+    "portrait": "placeholders/human-m.svg",
+    "wiki": {
+      "ru": "https://7kingdoms.ru/wiki/Петир_Бейлиш",
+      "en": "https://awoiaf.westeros.org/index.php/Petyr_Baelish"
+    }
+  },
+  {
+    "id": "varys",
+    "level": "show",
+    "race": "free_cities",
+    "name": {
+      "ru": "Варис",
+      "en": "Varys"
+    },
+    "nickname": {
+      "ru": "Паук",
+      "en": "The Spider"
+    },
+    "gender": "m",
+    "facts": [
+      {
+        "ru": "Евнух с целой сетью «пташек»-осведомителей.",
+        "en": "A eunuch with a network of \"little birds\"."
+      }
+    ],
+    "portrait": "placeholders/human-m.svg",
+    "wiki": {
+      "ru": "https://7kingdoms.ru/wiki/Варис",
+      "en": "https://awoiaf.westeros.org/index.php/Varys"
+    }
+  },
+  {
+    "id": "arya-stark",
+    "level": "show",
+    "race": "northman",
+    "name": {
+      "ru": "Арья Старк",
+      "en": "Arya Stark"
+    },
+    "gender": "f",
+    "house": "stark",
+    "facts": [
+      {
+        "ru": "Учится фехтованию у браавосского учителя танцев.",
+        "en": "Learns swordplay from a Braavosi dancing master."
+      },
+      {
+        "ru": "Держит при себе меч по имени Игла.",
+        "en": "Carries a sword she calls Needle."
+      }
+    ],
+    "portrait": "placeholders/human-f.svg",
+    "wiki": {
+      "ru": "https://7kingdoms.ru/wiki/Арья_Старк",
+      "en": "https://awoiaf.westeros.org/index.php/Arya_Stark"
+    },
+    "extraPortraits": [
+      {
+        "src": "placeholders/creature.svg",
+        "caption": {
+          "ru": "В Браавосе",
+          "en": "In Braavos"
+        }
+      }
+    ]
+  },
+  {
+    "id": "jon-snow",
+    "level": "show",
+    "race": "northman",
+    "name": {
+      "ru": "Джон Сноу",
+      "en": "Jon Snow"
+    },
+    "gender": "m",
+    "house": "stark",
+    "serves": "nights-watch",
+    "facts": [
+      {
+        "ru": "Бастард из Винтерфелла, вступивший в Ночной Дозор.",
+        "en": "A bastard of Winterfell who joined the Night's Watch."
+      }
+    ],
+    "portrait": "placeholders/human-m.svg",
+    "wiki": {
+      "ru": "https://7kingdoms.ru/wiki/Джон_Сноу",
+      "en": "https://awoiaf.westeros.org/index.php/Jon_Snow"
+    }
+  },
+  {
+    "id": "tyrion-lannister",
+    "level": "show",
+    "race": "andal",
+    "name": {
+      "ru": "Тирион Ланнистер",
+      "en": "Tyrion Lannister"
+    },
+    "nickname": {
+      "ru": "Бес",
+      "en": "The Imp"
+    },
+    "gender": "m",
+    "house": "lannister",
+    "facts": [
+      {
+        "ru": "Известен остроумием и любовью к вину и книгам.",
+        "en": "Known for his wit and his love of wine and books."
+      }
+    ],
+    "portrait": "placeholders/human-m.svg",
+    "sigils": [
+      {
+        "kind": "house",
+        "image": "placeholders/sigil.svg",
+        "house": "lannister"
+      },
+      {
+        "kind": "personal",
+        "image": "placeholders/sigil.svg"
+      }
+    ],
+    "screen": [
+      "got"
+    ],
+    "wiki": {
+      "ru": "https://7kingdoms.ru/wiki/Тирион_Ланнистер",
+      "en": "https://awoiaf.westeros.org/index.php/Tyrion_Lannister"
+    }
+  },
+  {
+    "id": "daenerys-targaryen",
+    "level": "show",
+    "race": "valyrian",
+    "name": {
+      "ru": "Дейенерис Таргариен",
+      "en": "Daenerys Targaryen"
+    },
+    "nickname": {
+      "ru": "Бурерождённая",
+      "en": "Stormborn"
+    },
+    "gender": "f",
+    "house": "targaryen",
+    "facts": [
+      {
+        "ru": "Родилась во время бури на Драконьем Камне.",
+        "en": "Born during a storm on Dragonstone."
+      }
+    ],
+    "portrait": "placeholders/human-f.svg",
+    "wiki": {
+      "ru": "https://7kingdoms.ru/wiki/Дейенерис_Таргариен",
+      "en": "https://awoiaf.westeros.org/index.php/Daenerys_Targaryen"
+    }
+  },
+  {
+    "id": "bran-stark",
+    "level": "show",
+    "race": "northman",
+    "name": {
+      "ru": "Бран Старк",
+      "en": "Bran Stark"
+    },
+    "gender": "m",
+    "house": "stark",
+    "facts": [
+      {
+        "ru": "Упал с башни и видит вещие сны.",
+        "en": "Fell from a tower and dreams prophetic dreams."
+      }
+    ],
+    "portrait": "placeholders/human-m.svg",
+    "wiki": {
+      "ru": "https://7kingdoms.ru/wiki/Бран_Старк",
+      "en": "https://awoiaf.westeros.org/index.php/Bran_Stark"
+    }
+  },
+  {
+    "id": "victarion-greyjoy",
+    "level": "book",
+    "race": "ironborn",
+    "name": {
+      "ru": "Виктарион Грейджой",
+      "en": "Victarion Greyjoy"
+    },
+    "gender": "m",
+    "house": "greyjoy",
+    "facts": [
+      {
+        "ru": "Лорд-капитан Железного флота с обожжённой рукой.",
+        "en": "Lord Captain of the Iron Fleet with a burned arm."
+      }
+    ],
+    "portrait": "placeholders/human-m.svg",
+    "wiki": {
+      "ru": "https://7kingdoms.ru/wiki/Виктарион_Грейджой",
+      "en": "https://awoiaf.westeros.org/index.php/Victarion_Greyjoy"
+    }
+  },
+  {
+    "id": "arianne-martell",
+    "level": "book",
+    "race": "dornish",
+    "name": {
+      "ru": "Арианна Мартелл",
+      "en": "Arianne Martell"
+    },
+    "gender": "f",
+    "house": "martell",
+    "facts": [
+      {
+        "ru": "Наследница Дорна, затеявшая заговор ради принцессы.",
+        "en": "Heir to Dorne who plotted on behalf of a princess."
+      }
+    ],
+    "portrait": "placeholders/human-f.svg",
+    "wiki": {
+      "ru": "https://7kingdoms.ru/wiki/Арианна_Мартелл",
+      "en": "https://awoiaf.westeros.org/index.php/Arianne_Martell"
+    }
+  },
+  {
+    "id": "quentyn-martell",
+    "level": "book",
+    "race": "dornish",
+    "name": {
+      "ru": "Квентин Мартелл",
+      "en": "Quentyn Martell"
+    },
+    "gender": "m",
+    "house": "martell",
+    "facts": [
+      {
+        "ru": "Принц, отправившийся в Миэрин свататься.",
+        "en": "A prince who travelled to Meereen to woo a queen."
+      }
+    ],
+    "portrait": "placeholders/human-m.svg",
+    "wiki": {
+      "ru": "https://7kingdoms.ru/wiki/Квентин_Мартелл",
+      "en": "https://awoiaf.westeros.org/index.php/Quentyn_Martell"
+    }
+  },
+  {
+    "id": "strong-belwas",
+    "level": "book",
+    "race": "ghiscari",
+    "name": {
+      "ru": "Силач Бельвас",
+      "en": "Strong Belwas"
+    },
+    "gender": "m",
+    "serves": "targaryen",
+    "facts": [
+      {
+        "ru": "Бывший бойцовый раб, обожающий медовую саранчу.",
+        "en": "A former pit fighter who adores honeyed locusts."
+      }
+    ],
+    "portrait": "placeholders/human-m.svg",
+    "wiki": {
+      "ru": "https://7kingdoms.ru/wiki/Силач_Бельвас",
+      "en": "https://awoiaf.westeros.org/index.php/Strong_Belwas"
+    }
+  },
+  {
+    "id": "jon-connington",
+    "level": "book",
+    "race": "andal",
+    "name": {
+      "ru": "Джон Коннингтон",
+      "en": "Jon Connington"
+    },
+    "gender": "m",
+    "house": "connington",
+    "facts": [
+      {
+        "ru": "Изгнанный лорд, когда-то бывший десницей короля.",
+        "en": "An exiled lord who once served as Hand of the King."
+      }
+    ],
+    "portrait": "placeholders/human-m.svg",
+    "wiki": {
+      "ru": "https://7kingdoms.ru/wiki/Джон_Коннингтон",
+      "en": "https://awoiaf.westeros.org/index.php/Jon_Connington"
+    }
+  },
+  {
+    "id": "young-griff",
+    "level": "book",
+    "race": "valyrian",
+    "name": {
+      "ru": "Молодой Гриф",
+      "en": "Young Griff"
+    },
+    "gender": "m",
+    "house": "targaryen",
+    "facts": [
+      {
+        "ru": "Юноша, выросший в изгнании под чужим именем.",
+        "en": "A youth raised in exile under a false name."
+      }
+    ],
+    "portrait": "placeholders/human-m.svg",
+    "wiki": {
+      "ru": "https://7kingdoms.ru/wiki/Молодой_Гриф",
+      "en": "https://awoiaf.westeros.org/index.php/Young_Griff"
+    }
+  },
+  {
+    "id": "lady-stoneheart",
+    "level": "book",
+    "race": "northman",
+    "name": {
+      "ru": "Леди Бессердечная",
+      "en": "Lady Stoneheart"
+    },
+    "gender": "f",
+    "facts": [
+      {
+        "ru": "Безмолвная предводительница братства разбойников.",
+        "en": "The silent leader of a band of outlaws."
+      }
+    ],
+    "portrait": "placeholders/human-f.svg",
+    "wiki": {
+      "ru": "https://7kingdoms.ru/wiki/Леди_Бессердечная",
+      "en": "https://awoiaf.westeros.org/index.php/Lady_Stoneheart"
+    }
+  },
+  {
+    "id": "penny",
+    "level": "book",
+    "race": "andal",
+    "name": {
+      "ru": "Пенни",
+      "en": "Penny"
+    },
+    "gender": "f",
+    "facts": [
+      {
+        "ru": "Карлица-скоморох, выступающая верхом на свинье.",
+        "en": "A dwarf mummer who performs riding a pig."
+      }
+    ],
+    "portrait": "placeholders/human-f.svg",
+    "wiki": {
+      "ru": "https://7kingdoms.ru/wiki/Пенни",
+      "en": "https://awoiaf.westeros.org/index.php/Penny"
+    }
+  },
+  {
+    "id": "moqorro",
+    "level": "book",
+    "race": "other_essos",
+    "name": {
+      "ru": "Мокорро",
+      "en": "Moqorro"
+    },
+    "gender": "m",
+    "facts": [
+      {
+        "ru": "Красный жрец из Волантиса, спасённый в море.",
+        "en": "A red priest from Volantis rescued at sea."
+      }
+    ],
+    "portrait": "placeholders/human-m.svg",
+    "wiki": {
+      "ru": "https://7kingdoms.ru/wiki/Мокорро",
+      "en": "https://awoiaf.westeros.org/index.php/Moqorro"
+    }
+  },
+  {
+    "id": "aeron-greyjoy",
+    "level": "book",
+    "race": "ironborn",
+    "name": {
+      "ru": "Эйерон Грейджой",
+      "en": "Aeron Greyjoy"
+    },
+    "nickname": {
+      "ru": "Мокроголовый",
+      "en": "Damphair"
+    },
+    "gender": "m",
+    "house": "greyjoy",
+    "facts": [
+      {
+        "ru": "Жрец Утонувшего бога.",
+        "en": "A priest of the Drowned God."
+      }
+    ],
+    "portrait": "placeholders/human-m.svg",
+    "wiki": {
+      "ru": "https://7kingdoms.ru/wiki/Эйерон_Грейджой",
+      "en": "https://awoiaf.westeros.org/index.php/Aeron_Greyjoy"
+    }
+  },
+  {
+    "id": "patchface",
+    "level": "book",
+    "race": "andal",
+    "name": {
+      "ru": "Пестряк",
+      "en": "Patchface"
+    },
+    "gender": "m",
+    "serves": "baratheon",
+    "facts": [
+      {
+        "ru": "Шут Драконьего Камня, поющий странные песни.",
+        "en": "The fool of Dragonstone who sings strange songs."
+      }
+    ],
+    "portrait": "placeholders/human-m.svg",
+    "wiki": {
+      "ru": "https://7kingdoms.ru/wiki/Пестряк",
+      "en": "https://awoiaf.westeros.org/index.php/Patchface"
+    }
+  },
+  {
+    "id": "drogon",
+    "level": "fanfic",
+    "race": "dragon",
+    "name": {
+      "ru": "Дрогон",
+      "en": "Drogon"
+    },
+    "gender": "-",
+    "facts": [
+      {
+        "ru": "Самый крупный и своенравный из трёх драконов королевы.",
+        "en": "The largest and wildest of the queen's three dragons."
+      }
+    ],
+    "portrait": "placeholders/dragon.svg",
+    "wiki": {
+      "ru": "https://7kingdoms.ru/wiki/Дрогон",
+      "en": "https://awoiaf.westeros.org/index.php/Drogon"
+    }
+  },
+  {
+    "id": "rhaegal",
+    "level": "fanfic",
+    "race": "dragon",
+    "name": {
+      "ru": "Рейегаль",
+      "en": "Rhaegal"
+    },
+    "gender": "-",
+    "facts": [
+      {
+        "ru": "Зелёно-бронзовый дракон.",
+        "en": "A green and bronze dragon."
+      }
+    ],
+    "portrait": "placeholders/dragon.svg",
+    "wiki": {
+      "ru": "https://7kingdoms.ru/wiki/Рейегаль",
+      "en": "https://awoiaf.westeros.org/index.php/Rhaegal"
+    }
+  },
+  {
+    "id": "viserion",
+    "level": "fanfic",
+    "race": "dragon",
+    "name": {
+      "ru": "Визерион",
+      "en": "Viserion"
+    },
+    "gender": "-",
+    "facts": [
+      {
+        "ru": "Кремово-золотой дракон.",
+        "en": "A cream and gold dragon."
+      }
+    ],
+    "portrait": "placeholders/dragon.svg",
+    "wiki": {
+      "ru": "https://7kingdoms.ru/wiki/Визерион",
+      "en": "https://awoiaf.westeros.org/index.php/Viserion"
+    }
+  },
+  {
+    "id": "balerion",
+    "level": "fanfic",
+    "race": "dragon",
+    "name": {
+      "ru": "Балерион",
+      "en": "Balerion"
+    },
+    "nickname": {
+      "ru": "Чёрный Ужас",
+      "en": "The Black Dread"
+    },
+    "gender": "-",
+    "facts": [
+      {
+        "ru": "Чёрный дракон, на котором Эйгон завоевал Вестерос.",
+        "en": "The black dragon Aegon rode to conquer Westeros."
+      }
+    ],
+    "portrait": "placeholders/dragon.svg",
+    "wiki": {
+      "ru": "https://7kingdoms.ru/wiki/Балерион",
+      "en": "https://awoiaf.westeros.org/index.php/Balerion"
+    }
+  },
+  {
+    "id": "ghost",
+    "level": "fanfic",
+    "race": "direwolf",
+    "name": {
+      "ru": "Призрак",
+      "en": "Ghost"
+    },
+    "gender": "-",
+    "facts": [
+      {
+        "ru": "Белый лютоволк-альбинос, который никогда не воет.",
+        "en": "A white albino direwolf who never howls."
+      }
+    ],
+    "portrait": "placeholders/direwolf.svg",
+    "wiki": {
+      "ru": "https://7kingdoms.ru/wiki/Призрак",
+      "en": "https://awoiaf.westeros.org/index.php/Ghost"
+    }
+  },
+  {
+    "id": "nymeria",
+    "level": "fanfic",
+    "race": "direwolf",
+    "name": {
+      "ru": "Нимерия",
+      "en": "Nymeria"
+    },
+    "gender": "-",
+    "facts": [
+      {
+        "ru": "Лютоволчица, возглавившая огромную стаю.",
+        "en": "A direwolf who leads a vast wolf pack."
+      }
+    ],
+    "portrait": "placeholders/direwolf.svg",
+    "wiki": {
+      "ru": "https://7kingdoms.ru/wiki/Нимерия",
+      "en": "https://awoiaf.westeros.org/index.php/Nymeria"
+    }
+  },
+  {
+    "id": "summer",
+    "level": "fanfic",
+    "race": "direwolf",
+    "name": {
+      "ru": "Лето",
+      "en": "Summer"
+    },
+    "gender": "-",
+    "facts": [
+      {
+        "ru": "Серый лютоволк, спасший хозяина от убийцы.",
+        "en": "A grey direwolf who saved his master from an assassin."
+      }
+    ],
+    "portrait": "placeholders/direwolf.svg",
+    "wiki": {
+      "ru": "https://7kingdoms.ru/wiki/Лето",
+      "en": "https://awoiaf.westeros.org/index.php/Summer"
+    }
+  },
+  {
+    "id": "grey-wind",
+    "level": "fanfic",
+    "race": "direwolf",
+    "name": {
+      "ru": "Серый Ветер",
+      "en": "Grey Wind"
+    },
+    "gender": "-",
+    "facts": [
+      {
+        "ru": "Лютоволк, наводивший ужас на врагов в бою.",
+        "en": "A direwolf who terrified enemies in battle."
+      }
+    ],
+    "portrait": "placeholders/direwolf.svg",
+    "wiki": {
+      "ru": "https://7kingdoms.ru/wiki/Серый_Ветер",
+      "en": "https://awoiaf.westeros.org/index.php/Grey_Wind"
+    }
+  },
+  {
+    "id": "shaggydog",
+    "level": "fanfic",
+    "race": "direwolf",
+    "name": {
+      "ru": "Лохматый Пёс",
+      "en": "Shaggydog"
+    },
+    "gender": "-",
+    "facts": [
+      {
+        "ru": "Чёрный и самый дикий лютоволк помёта.",
+        "en": "The black and wildest direwolf of the litter."
+      }
+    ],
+    "portrait": "placeholders/direwolf.svg",
+    "wiki": {
+      "ru": "https://7kingdoms.ru/wiki/Лохматый_Пёс",
+      "en": "https://awoiaf.westeros.org/index.php/Shaggydog"
+    }
+  },
+  {
+    "id": "leaf",
+    "level": "fanfic",
+    "race": "child_of_the_forest",
+    "name": {
+      "ru": "Листок",
+      "en": "Leaf"
+    },
+    "gender": "f",
+    "facts": [
+      {
+        "ru": "Одна из детей леса, встретившая путников у пещеры за Стеной.",
+        "en": "One of the children of the forest who met travellers at a cave beyond the Wall."
+      }
+    ],
+    "portrait": "placeholders/creature.svg",
+    "wiki": {
+      "ru": "https://7kingdoms.ru/wiki/Листок",
+      "en": "https://awoiaf.westeros.org/index.php/Leaf"
+    }
+  },
+  {
+    "id": "night-king",
+    "level": "fanfic",
+    "race": "first_men",
+    "name": {
+      "ru": "Король Ночи",
+      "en": "Night's King"
+    },
+    "gender": "m",
+    "serves": "nights-watch",
+    "facts": [
+      {
+        "ru": "Легендарный тринадцатый лорд-командующий Ночного Дозора.",
+        "en": "The legendary thirteenth Lord Commander of the Night's Watch."
+      }
+    ],
+    "portrait": "placeholders/human-m.svg",
+    "wiki": {
+      "ru": "https://7kingdoms.ru/wiki/Король_Ночи",
+      "en": "https://awoiaf.westeros.org/index.php/Night_King"
+    }
+  }
+]

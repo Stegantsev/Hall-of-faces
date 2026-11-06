@@ -1,0 +1,320 @@
+[
+  {
+    "score": 0,
+    "characterId": "hodor",
+    "captions": [
+      {
+        "ru": "Ходор.",
+        "en": "Hodor."
+      },
+      {
+        "ru": "Держи дверь! Хотя бы её.",
+        "en": "Hold the door! At least that."
+      }
+    ]
+  },
+  {
+    "score": 1,
+    "characterId": "hot-pie",
+    "captions": [
+      {
+        "ru": "Зато пирожки у тебя отличные.",
+        "en": "But your pies are excellent."
+      }
+    ]
+  },
+  {
+    "score": 2,
+    "characterId": "grenn",
+    "captions": [
+      {
+        "ru": "Упрям как зубр — и примерно так же начитан.",
+        "en": "Stubborn as an aurochs, and about as well-read."
+      }
+    ]
+  },
+  {
+    "score": 3,
+    "characterId": "dontos-hollard",
+    "captions": [
+      {
+        "ru": "Рыцарь-шут: вином пахнет сильнее, чем знаниями.",
+        "en": "A fool knight: more wine than wisdom."
+      }
+    ]
+  },
+  {
+    "score": 4,
+    "characterId": "janos-slynt",
+    "captions": [
+      {
+        "ru": "Знания тебе продали за золото — и обманули.",
+        "en": "Someone sold you knowledge for gold, and cheated you."
+      }
+    ]
+  },
+  {
+    "score": 5,
+    "characterId": "lancel-lannister",
+    "captions": [
+      {
+        "ru": "Где-то слышал, но точно не запомнил.",
+        "en": "Heard it somewhere, never quite remembered."
+      }
+    ]
+  },
+  {
+    "score": 6,
+    "characterId": "joffrey-baratheon",
+    "captions": [
+      {
+        "ru": "Уверенности много, знаний мало. Очень по-королевски.",
+        "en": "Plenty of confidence, little knowledge. Very royal."
+      }
+    ]
+  },
+  {
+    "score": 7,
+    "characterId": "theon-greyjoy",
+    "captions": [
+      {
+        "ru": "Своё имя помнишь? Уже неплохо.",
+        "en": "Do you remember your own name? That is a start."
+      }
+    ]
+  },
+  {
+    "score": 8,
+    "characterId": "podrick-payne",
+    "captions": [
+      {
+        "ru": "Скромно, но с неожиданными талантами.",
+        "en": "Modest, but with unexpected talents."
+      }
+    ]
+  },
+  {
+    "score": 9,
+    "characterId": "gendry",
+    "captions": [
+      {
+        "ru": "Ковать получается лучше, чем угадывать.",
+        "en": "Better at forging than at guessing."
+      }
+    ]
+  },
+  {
+    "score": 10,
+    "characterId": "tormund",
+    "captions": [
+      {
+        "ru": "Половина ответов — правда, половина — байки.",
+        "en": "Half of it true, half of it tall tales."
+      }
+    ]
+  },
+  {
+    "score": 11,
+    "characterId": "davos-seaworth",
+    "captions": [
+      {
+        "ru": "Честно и без пафоса. Ошибки пересчитаешь на пальцах. Почти.",
+        "en": "Honest and humble. You could count your mistakes on your fingers. Almost."
+      }
+    ]
+  },
+  {
+    "score": 12,
+    "characterId": "bronn",
+    "captions": [
+      {
+        "ru": "Знаешь ровно столько, сколько тебе заплатили.",
+        "en": "You know exactly as much as you were paid to."
+      }
+    ]
+  },
+  {
+    "score": 13,
+    "characterId": "sandor-clegane",
+    "captions": [
+      {
+        "ru": "Неплохо. Пёс одобрительно рычит.",
+        "en": "Not bad. The Hound growls approvingly."
+      }
+    ]
+  },
+  {
+    "score": 14,
+    "characterId": "brienne-of-tarth",
+    "captions": [
+      {
+        "ru": "Честно и упорно — истинный рыцарь.",
+        "en": "Honest and stubborn: a true knight."
+      }
+    ]
+  },
+  {
+    "score": 15,
+    "characterId": "samwell-tarly",
+    "captions": [
+      {
+        "ru": "Читал много, но до Цитадели ещё далеко.",
+        "en": "You have read a lot, but the Citadel is still far away."
+      }
+    ]
+  },
+  {
+    "score": 16,
+    "characterId": "olenna-redwyne",
+    "captions": [
+      {
+        "ru": "Остро, ядовито и почти безошибочно.",
+        "en": "Sharp, poisonous and nearly flawless."
+      }
+    ]
+  },
+  {
+    "score": 17,
+    "characterId": "sansa-stark",
+    "captions": [
+      {
+        "ru": "Учился у лучших лжецов Вестероса — и это заметно.",
+        "en": "You learned from the best liars in Westeros, and it shows."
+      }
+    ]
+  },
+  {
+    "score": 18,
+    "characterId": "jaime-lannister",
+    "captions": [
+      {
+        "ru": "Ловко и с блеском. Одной руки хватило.",
+        "en": "Deft and dashing. One hand was enough."
+      }
+    ]
+  },
+  {
+    "score": 19,
+    "characterId": "cersei-lannister",
+    "captions": [
+      {
+        "ru": "Играешь в престолы — и побеждаешь.",
+        "en": "You play the game of thrones, and you win."
+      }
+    ]
+  },
+  {
+    "score": 20,
+    "characterId": "petyr-baelish",
+    "captions": [
+      {
+        "ru": "Хаос — это лестница. И ты почти наверху.",
+        "en": "Chaos is a ladder, and you are near the top."
+      }
+    ]
+  },
+  {
+    "score": 21,
+    "characterId": "varys",
+    "captions": [
+      {
+        "ru": "Пташки нашептали тебе почти все ответы.",
+        "en": "Little birds whispered almost every answer to you."
+      }
+    ]
+  },
+  {
+    "score": 22,
+    "characterId": "arya-stark",
+    "captions": [
+      {
+        "ru": "У тебя целый список, и ты никого не забыл.",
+        "en": "You keep a list, and you forgot no one."
+      }
+    ]
+  },
+  {
+    "score": 23,
+    "characterId": "jon-snow",
+    "captions": [
+      {
+        "ru": "Ничего ты не знаешь, Джон Сноу.",
+        "en": "You know nothing, Jon Snow."
+      }
+    ],
+    "fixedCaption": {
+      "ru": "Ничего ты не знаешь, Джон Сноу.",
+      "en": "You know nothing, Jon Snow."
+    }
+  },
+  {
+    "score": 24,
+    "characterId": "tyrion-lannister",
+    "captions": [
+      {
+        "ru": "Я пью и я знаю всё.",
+        "en": "I drink and I know things."
+      }
+    ]
+  },
+  {
+    "score": 25,
+    "characterId": "daenerys-targaryen",
+    "captions": [
+      {
+        "ru": "Неопалимая и почти безупречная.",
+        "en": "Unburnt, and nearly flawless."
+      }
+    ]
+  },
+  {
+    "score": 26,
+    "characterId": "drogon",
+    "captions": [
+      {
+        "ru": "Дракарис! Вопросы сгорели дотла.",
+        "en": "Dracarys! The questions burned to ash."
+      }
+    ]
+  },
+  {
+    "score": 27,
+    "characterId": "leaf",
+    "captions": [
+      {
+        "ru": "Ты помнишь то, что люди давно забыли.",
+        "en": "You remember what men have long forgotten."
+      }
+    ]
+  },
+  {
+    "score": 28,
+    "characterId": "night-king",
+    "captions": [
+      {
+        "ru": "Холодный расчёт, ни одной лишней ошибки.",
+        "en": "Cold calculation, not a single wasted mistake."
+      }
+    ]
+  },
+  {
+    "score": 29,
+    "characterId": "balerion",
+    "captions": [
+      {
+        "ru": "Чёрный Ужас: ты поглотил всю вики.",
+        "en": "The Black Dread: you devoured the whole wiki."
+      }
+    ]
+  },
+  {
+    "score": 30,
+    "characterId": "bran-stark",
+    "captions": [
+      {
+        "ru": "Ты знаешь всё. Ты видел всё. Ты — Трёхглазый ворон.",
+        "en": "You know everything. You have seen everything. You are the Three-Eyed Raven."
+      }
+    ]
+  }
+]
