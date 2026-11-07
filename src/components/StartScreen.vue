@@ -7,8 +7,9 @@ import { assetUrl } from '../assets'
 const { t } = useI18n()
 const { start } = useGame()
 
-// Passed to CSS so the image URL respects the deploy base path.
-const backdrop = `url('${assetUrl('backgrounds/hall-of-faces.jpg')}')`
+// Absolute URL: a relative url() inside a CSS variable resolves against the built
+// stylesheet in assets/, not against the page, and would miss the image.
+const backdrop = `url('${new URL(assetUrl('backgrounds/hall-of-faces.jpg'), document.baseURI).href}')`
 </script>
 
 <template>
