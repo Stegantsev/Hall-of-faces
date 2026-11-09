@@ -3,6 +3,7 @@ import { LEVELS } from '../data/model'
 import { useGame } from '../game/useGame'
 import { useI18n, type MessageKey } from '../i18n/useI18n'
 import { assetUrl } from '../assets'
+import InstallButton from './InstallButton.vue'
 
 const { t } = useI18n()
 const { start } = useGame()
@@ -35,7 +36,10 @@ const backdrop = `url('${new URL(assetUrl('backgrounds/hall-of-faces.jpg'), docu
       </button>
     </div>
 
-    <a class="credits-link" href="#/credits">{{ t('start.credits') }}</a>
+    <nav class="links">
+      <InstallButton />
+      <a class="credits-link" href="#/credits">{{ t('start.credits') }}</a>
+    </nav>
   </section>
 </template>
 
@@ -125,10 +129,15 @@ h1 {
   font-size: 24px;
 }
 
-/* A quiet text link under the levels. */
-.credits-link {
-  align-self: center;
+/* Quiet text links under the levels, in one row so the start screen stays one screen tall on small phones. */
+.links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
   margin-top: -8px;
+}
+
+.credits-link {
   padding: 0 12px;
   color: var(--muted);
   font-size: 16px;

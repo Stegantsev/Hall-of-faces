@@ -39,12 +39,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/selmy.png",
+        "image": "sigils/selmy.webp",
         "house": "selmy"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/barristan-selmy--sigil-2.png"
+        "image": "sigils/aemon-targaryen--sigil-3.webp"
       }
     ],
     "serves": "targaryen",
@@ -102,7 +102,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/stark.png",
+        "image": "sigils/stark.webp",
         "house": "stark"
       }
     ],
@@ -146,12 +146,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/clegane.png",
+        "image": "sigils/clegane.webp",
         "house": "clegane"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/sandor-clegane--sigil-2.png"
+        "image": "sigils/aemon-targaryen--sigil-3.webp"
       }
     ],
     "screen": [
@@ -202,16 +202,16 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/lannister.png",
+        "image": "sigils/lannister.webp",
         "house": "lannister"
       },
       {
         "kind": "personal",
-        "image": "sigils/tyrion-lannister--sigil-2.png"
+        "image": "sigils/tyrion-lannister--sigil-2.webp"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/tyrion-lannister--sigil-3.png"
+        "image": "sigils/aegor-rivers--sigil-3.webp"
       }
     ],
     "screen": [
@@ -267,7 +267,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/targaryen.png",
+        "image": "sigils/targaryen.webp",
         "house": "targaryen"
       }
     ],
@@ -316,7 +316,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/clegane.png",
+        "image": "sigils/clegane.webp",
         "house": "clegane"
       }
     ],
@@ -365,12 +365,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/baratheon.png",
+        "image": "sigils/baratheon.webp",
         "house": "baratheon"
       },
       {
         "kind": "personal",
-        "image": "sigils/renly-baratheon--sigil-2.png"
+        "image": "sigils/renly-baratheon--sigil-2.webp"
       }
     ],
     "screen": [
@@ -417,12 +417,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/tully.png",
+        "image": "sigils/tully.webp",
         "house": "tully"
       },
       {
         "kind": "personal",
-        "image": "sigils/brynden-tully--sigil-2.png"
+        "image": "sigils/brynden-tully--sigil-2.webp"
       }
     ],
     "serves": "stark",
@@ -506,7 +506,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/umber.png",
+        "image": "sigils/umber.webp",
         "house": "umber"
       }
     ],
@@ -558,7 +558,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/dondarrion.png",
+        "image": "sigils/dondarrion.webp",
         "house": "dondarrion"
       }
     ],
@@ -610,7 +610,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/jon-snow--sigil-1.png"
+        "image": "sigils/aemon--sigil-2.webp"
       }
     ],
     "screen": [
@@ -657,12 +657,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/lannister.png",
+        "image": "sigils/lannister.webp",
         "house": "lannister"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/jaime-lannister--sigil-2.png"
+        "image": "sigils/aemon-targaryen--sigil-3.webp"
       }
     ],
     "screen": [
@@ -714,7 +714,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/targaryen.png",
+        "image": "sigils/targaryen.webp",
         "house": "targaryen"
       }
     ],
@@ -762,7 +762,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/lannister.png",
+        "image": "sigils/lannister.webp",
         "house": "lannister"
       }
     ],
@@ -814,7 +814,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/bolton.png",
+        "image": "sigils/bolton.webp",
         "house": "bolton"
       }
     ],
@@ -866,7 +866,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/frey.png",
+        "image": "sigils/frey.webp",
         "house": "frey"
       }
     ],
@@ -914,20 +914,20 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/loras-tyrell--sigil-1.png",
+        "image": "sigils/tyrell.webp",
         "house": "tyrell"
       },
       {
         "kind": "personal",
-        "image": "sigils/loras-tyrell--sigil-2.png"
+        "image": "sigils/loras-tyrell--sigil-2.webp"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/loras-tyrell--sigil-3.png"
+        "image": "sigils/brienne-of-tarth--sigil-2.webp"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/loras-tyrell--sigil-4.png"
+        "image": "sigils/aemon-targaryen--sigil-3.webp"
       }
     ],
     "screen": [
@@ -974,12 +974,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/oberyn-martell--sigil-1.png",
+        "image": "sigils/martell.webp",
         "house": "martell"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/oberyn-martell--sigil-2.png"
+        "image": "sigils/aegor-rivers--sigil-3.webp"
       }
     ],
     "screen": [
@@ -1026,7 +1026,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/petyr-baelish--sigil-1.png",
+        "image": "sigils/baelish.webp",
         "house": "baelish"
       }
     ],
@@ -1078,7 +1078,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/baratheon.png",
+        "image": "sigils/baratheon.webp",
         "house": "baratheon"
       }
     ],
@@ -1131,7 +1131,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/greyjoy.png",
+        "image": "sigils/greyjoy.webp",
         "house": "greyjoy"
       }
     ],
@@ -1184,12 +1184,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/mormont.png",
+        "image": "sigils/mormont.webp",
         "house": "mormont"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/jorah-mormont--sigil-2.png"
+        "image": "sigils/aegor-rivers--sigil-3.webp"
       }
     ],
     "serves": "targaryen",
@@ -1237,7 +1237,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/mormont.png",
+        "image": "sigils/mormont.webp",
         "house": "mormont"
       }
     ],
@@ -1324,7 +1324,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/greyjoy.png",
+        "image": "sigils/greyjoy.webp",
         "house": "greyjoy"
       }
     ]
@@ -1369,12 +1369,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/greyjoy.png",
+        "image": "sigils/greyjoy.webp",
         "house": "greyjoy"
       },
       {
         "kind": "personal",
-        "image": "sigils/euron-greyjoy--sigil-2.png"
+        "image": "sigils/euron-greyjoy--sigil-2.webp"
       }
     ],
     "screen": [
@@ -1455,12 +1455,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/dayne.png",
+        "image": "sigils/dayne.webp",
         "house": "dayne"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/arthur-dayne--sigil-2.png"
+        "image": "sigils/aemon-targaryen--sigil-3.webp"
       }
     ],
     "screen": [
@@ -1507,12 +1507,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/hightower.png",
+        "image": "sigils/hightower.webp",
         "house": "hightower"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/gerold-hightower--sigil-2.png"
+        "image": "sigils/aemon-targaryen--sigil-3.webp"
       }
     ],
     "screen": [
@@ -1555,12 +1555,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/whent.png",
+        "image": "sigils/whent.webp",
         "house": "whent"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/oswell-whent--sigil-2.png"
+        "image": "sigils/aemon-targaryen--sigil-3.webp"
       }
     ]
   },
@@ -1600,12 +1600,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/brienne-of-tarth--sigil-1.png",
+        "image": "sigils/tarth.webp",
         "house": "tarth"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/brienne-of-tarth--sigil-2.png"
+        "image": "sigils/brienne-of-tarth--sigil-2.webp"
       }
     ],
     "serves": "stark",
@@ -1653,12 +1653,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/mormont.png",
+        "image": "sigils/mormont.webp",
         "house": "mormont"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/jeor-mormont--sigil-2.png"
+        "image": "sigils/aemon--sigil-2.webp"
       }
     ],
     "screen": [
@@ -1701,7 +1701,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/payne.png",
+        "image": "sigils/payne.webp",
         "house": "payne"
       }
     ],
@@ -1749,12 +1749,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/baratheon.png",
+        "image": "sigils/baratheon.webp",
         "house": "baratheon"
       },
       {
         "kind": "personal",
-        "image": "sigils/stannis-baratheon--sigil-2.png"
+        "image": "sigils/selyse-florent--sigil-2.webp"
       }
     ],
     "screen": [
@@ -1835,7 +1835,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/cassel.png",
+        "image": "sigils/cassel.webp",
         "house": "cassel"
       }
     ],
@@ -1884,7 +1884,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/seaworth.png",
+        "image": "sigils/seaworth.webp",
         "house": "seaworth"
       }
     ],
@@ -1933,7 +1933,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/targaryen.png",
+        "image": "sigils/targaryen.webp",
         "house": "targaryen"
       }
     ],
@@ -2011,7 +2011,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/arryn.png",
+        "image": "sigils/arryn.webp",
         "house": "arryn"
       }
     ],
@@ -2063,7 +2063,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/stark.png",
+        "image": "sigils/stark.webp",
         "house": "stark"
       }
     ],
@@ -2111,7 +2111,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/stark.png",
+        "image": "sigils/stark.webp",
         "house": "stark"
       }
     ],
@@ -2163,12 +2163,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/stark.png",
+        "image": "sigils/stark.webp",
         "house": "stark"
       },
       {
         "kind": "house",
-        "image": "sigils/lannister.png",
+        "image": "sigils/lannister.webp",
         "house": "lannister"
       }
     ],
@@ -2216,7 +2216,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/stark.png",
+        "image": "sigils/stark.webp",
         "house": "stark"
       }
     ],
@@ -2264,12 +2264,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/stark.png",
+        "image": "sigils/stark.webp",
         "house": "stark"
       },
       {
         "kind": "personal",
-        "image": "sigils/robb-stark--sigil-2.png"
+        "image": "sigils/robb-stark--sigil-2.webp"
       }
     ],
     "castle": {
@@ -2325,12 +2325,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/tarly.png",
+        "image": "sigils/tarly.webp",
         "house": "tarly"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/samwell-tarly--sigil-2.png"
+        "image": "sigils/aemon--sigil-2.webp"
       }
     ],
     "screen": [
@@ -2376,7 +2376,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/mance-rayder--sigil-1.png"
+        "image": "sigils/aemon--sigil-2.webp"
       }
     ],
     "screen": [
@@ -2493,7 +2493,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/bolton.png",
+        "image": "sigils/bolton.webp",
         "house": "bolton"
       }
     ],
@@ -2700,12 +2700,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/baratheon.png",
+        "image": "sigils/baratheon.webp",
         "house": "baratheon"
       },
       {
         "kind": "personal",
-        "image": "sigils/joffrey-baratheon--sigil-2.png"
+        "image": "sigils/joffrey-baratheon--sigil-2.webp"
       }
     ],
     "screen": [
@@ -2751,7 +2751,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/qyburn--sigil-1.png"
+        "image": "sigils/biter--sigil-1.webp"
       }
     ],
     "serves": "cersei-lannister",
@@ -2837,12 +2837,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/targaryen.png",
+        "image": "sigils/targaryen.webp",
         "house": "targaryen"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/aemon--sigil-2.png"
+        "image": "sigils/aemon--sigil-2.webp"
       }
     ],
     "screen": [
@@ -2926,11 +2926,11 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/robert-strong--sigil-1.png"
+        "image": "sigils/denys-strong--sigil-1.webp"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/robert-strong--sigil-2.png"
+        "image": "sigils/aemon-targaryen--sigil-3.webp"
       }
     ],
     "screen": [
@@ -2973,12 +2973,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/lannister.png",
+        "image": "sigils/lannister.webp",
         "house": "lannister"
       },
       {
         "kind": "house",
-        "image": "sigils/baratheon.png",
+        "image": "sigils/baratheon.webp",
         "house": "baratheon"
       }
     ],
@@ -3029,11 +3029,11 @@
     "sigils": [
       {
         "kind": "personal",
-        "image": "sigils/bronn--sigil-1.png"
+        "image": "sigils/bronn--sigil-1.webp"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/bronn--sigil-2.png"
+        "image": "sigils/addam-marbrand--sigil-2.webp"
       }
     ],
     "serves": "lannister",
@@ -3078,12 +3078,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/moore.png",
+        "image": "sigils/moore.webp",
         "house": "moore"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/mandon-moore--sigil-2.png"
+        "image": "sigils/aemon-targaryen--sigil-3.webp"
       }
     ],
     "screen": [
@@ -3130,7 +3130,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/greyjoy.png",
+        "image": "sigils/greyjoy.webp",
         "house": "greyjoy"
       }
     ],
@@ -3178,7 +3178,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/greyjoy.png",
+        "image": "sigils/greyjoy.webp",
         "house": "greyjoy"
       }
     ],
@@ -3222,7 +3222,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/mullendore.png",
+        "image": "sigils/mullendore.webp",
         "house": "mullendore"
       }
     ]
@@ -3267,7 +3267,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/greyjoy.png",
+        "image": "sigils/greyjoy.webp",
         "house": "greyjoy"
       }
     ],
@@ -3311,12 +3311,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/royce.png",
+        "image": "sigils/royce.webp",
         "house": "royce"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/waymar-royce--sigil-2.png"
+        "image": "sigils/aemon--sigil-2.webp"
       }
     ],
     "screen": [
@@ -3354,7 +3354,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/qhorin-halfhand--sigil-1.png"
+        "image": "sigils/aemon--sigil-2.webp"
       }
     ],
     "screen": [
@@ -3392,7 +3392,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/yoren--sigil-1.png"
+        "image": "sigils/aemon--sigil-2.webp"
       }
     ],
     "screen": [
@@ -3477,12 +3477,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/tully.png",
+        "image": "sigils/tully.webp",
         "house": "tully"
       },
       {
         "kind": "house",
-        "image": "sigils/stark.png",
+        "image": "sigils/stark.webp",
         "house": "stark"
       }
     ],
@@ -3531,7 +3531,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/biter--sigil-1.png"
+        "image": "sigils/biter--sigil-1.webp"
       }
     ],
     "serves": "lorch",
@@ -3579,7 +3579,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/vargo-hoat--sigil-1.png"
+        "image": "sigils/biter--sigil-1.webp"
       }
     ],
     "castle": {
@@ -3622,7 +3622,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/rorge--sigil-1.png"
+        "image": "sigils/biter--sigil-1.webp"
       }
     ],
     "serves": "lorch",
@@ -3666,16 +3666,16 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/slynt.png",
+        "image": "sigils/slynt.webp",
         "house": "slynt"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/janos-slynt--sigil-2.png"
+        "image": "sigils/addam-marbrand--sigil-2.webp"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/janos-slynt--sigil-3.png"
+        "image": "sigils/aemon--sigil-2.webp"
       }
     ],
     "castle": {
@@ -3727,7 +3727,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/royce.png",
+        "image": "sigils/royce.webp",
         "house": "royce"
       }
     ],
@@ -3775,7 +3775,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/targaryen.png",
+        "image": "sigils/targaryen.webp",
         "house": "targaryen"
       }
     ],
@@ -3864,12 +3864,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/connington.png",
+        "image": "sigils/connington.webp",
         "house": "connington"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/jon-connington--sigil-2.png"
+        "image": "sigils/aegor-rivers--sigil-4.webp"
       }
     ],
     "serves": "targaryen"
@@ -3906,7 +3906,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/reed.png",
+        "image": "sigils/reed.webp",
         "house": "reed"
       }
     ],
@@ -3951,7 +3951,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/doran-martell--sigil-1.png",
+        "image": "sigils/martell.webp",
         "house": "martell"
       }
     ],
@@ -4217,21 +4217,21 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/blackwood.png",
+        "image": "sigils/blackwood.webp",
         "house": "blackwood"
       },
       {
         "kind": "house",
-        "image": "sigils/targaryen.png",
+        "image": "sigils/targaryen.webp",
         "house": "targaryen"
       },
       {
         "kind": "personal",
-        "image": "sigils/brynden-rivers--sigil-3.png"
+        "image": "sigils/brynden-rivers--sigil-3.webp"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/brynden-rivers--sigil-4.png"
+        "image": "sigils/aemon--sigil-2.webp"
       }
     ],
     "screen": [
@@ -4315,7 +4315,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/cassel.png",
+        "image": "sigils/cassel.webp",
         "house": "cassel"
       }
     ],
@@ -4360,7 +4360,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/lorch.png",
+        "image": "sigils/lorch.webp",
         "house": "lorch"
       }
     ],
@@ -4409,12 +4409,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/redwyne.png",
+        "image": "sigils/redwyne.webp",
         "house": "redwyne"
       },
       {
         "kind": "house",
-        "image": "sigils/olenna-redwyne--sigil-2.png",
+        "image": "sigils/tyrell.webp",
         "house": "tyrell"
       }
     ],
@@ -4499,12 +4499,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/stark.png",
+        "image": "sigils/stark.webp",
         "house": "stark"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/benjen-stark--sigil-2.png"
+        "image": "sigils/aemon--sigil-2.webp"
       }
     ],
     "screen": [
@@ -4618,7 +4618,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/manderly.png",
+        "image": "sigils/manderly.webp",
         "house": "manderly"
       }
     ],
@@ -4662,7 +4662,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/karstark.png",
+        "image": "sigils/karstark.webp",
         "house": "karstark"
       }
     ],
@@ -4714,7 +4714,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/targaryen.png",
+        "image": "sigils/targaryen.webp",
         "house": "targaryen"
       }
     ]
@@ -4755,7 +4755,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/payne.png",
+        "image": "sigils/payne.webp",
         "house": "payne"
       }
     ],
@@ -4804,12 +4804,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/blount.png",
+        "image": "sigils/blount.webp",
         "house": "blount"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/boros-blount--sigil-2.png"
+        "image": "sigils/aemon-targaryen--sigil-3.webp"
       }
     ],
     "screen": [
@@ -4851,7 +4851,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/daario-naharis--sigil-1.png"
+        "image": "sigils/daario-naharis--sigil-1.webp"
       }
     ],
     "serves": "targaryen",
@@ -4896,7 +4896,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/reed.png",
+        "image": "sigils/reed.webp",
         "house": "reed"
       }
     ],
@@ -4970,7 +4970,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/meris--sigil-1.png"
+        "image": "sigils/archibald-yronwood--sigil-2.webp"
       }
     ]
   },
@@ -5048,7 +5048,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/tully.png",
+        "image": "sigils/tully.webp",
         "house": "tully"
       }
     ],
@@ -5096,17 +5096,17 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/tully.png",
+        "image": "sigils/tully.webp",
         "house": "tully"
       },
       {
         "kind": "house",
-        "image": "sigils/arryn.png",
+        "image": "sigils/arryn.webp",
         "house": "arryn"
       },
       {
         "kind": "house",
-        "image": "sigils/lysa-tully--sigil-3.png",
+        "image": "sigils/baelish.webp",
         "house": "baelish"
       }
     ],
@@ -5155,7 +5155,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/egen.png",
+        "image": "sigils/egen.webp",
         "house": "egen"
       }
     ],
@@ -5238,7 +5238,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/corbray.png",
+        "image": "sigils/corbray.webp",
         "house": "corbray"
       }
     ]
@@ -5283,7 +5283,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/hardyng.png",
+        "image": "sigils/hardyng.webp",
         "house": "hardyng"
       }
     ],
@@ -5394,12 +5394,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/garlan-tyrell--sigil-1.png",
+        "image": "sigils/tyrell.webp",
         "house": "tyrell"
       },
       {
         "kind": "personal",
-        "image": "sigils/garlan-tyrell--sigil-2.png"
+        "image": "sigils/garlan-tyrell--sigil-2.webp"
       }
     ]
   },
@@ -5435,7 +5435,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/willas-tyrell--sigil-1.png",
+        "image": "sigils/tyrell.webp",
         "house": "tyrell"
       }
     ]
@@ -5480,17 +5480,17 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/margaery-tyrell--sigil-1.png",
+        "image": "sigils/tyrell.webp",
         "house": "tyrell"
       },
       {
         "kind": "house",
-        "image": "sigils/baratheon.png",
+        "image": "sigils/baratheon.webp",
         "house": "baratheon"
       },
       {
         "kind": "house",
-        "image": "sigils/margaery-tyrell--sigil-3.png",
+        "image": "sigils/joffrey-baratheon--sigil-2.webp",
         "house": "baratheon"
       }
     ],
@@ -5535,7 +5535,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/tarly.png",
+        "image": "sigils/tarly.webp",
         "house": "tarly"
       }
     ],
@@ -5583,7 +5583,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/targaryen.png",
+        "image": "sigils/targaryen.webp",
         "house": "targaryen"
       }
     ]
@@ -5624,7 +5624,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/targaryen.png",
+        "image": "sigils/targaryen.webp",
         "house": "targaryen"
       }
     ]
@@ -5664,7 +5664,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/shagwell--sigil-1.png"
+        "image": "sigils/biter--sigil-1.webp"
       }
     ]
   },
@@ -5703,7 +5703,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/utt--sigil-1.png"
+        "image": "sigils/biter--sigil-1.webp"
       }
     ]
   },
@@ -5738,7 +5738,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/zollo--sigil-1.png"
+        "image": "sigils/biter--sigil-1.webp"
       }
     ]
   },
@@ -5781,7 +5781,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/urswyck--sigil-1.png"
+        "image": "sigils/biter--sigil-1.webp"
       }
     ]
   },
@@ -5978,7 +5978,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/hasty.png",
+        "image": "sigils/hasty.webp",
         "house": "hasty"
       }
     ]
@@ -6063,7 +6063,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/hightower.png",
+        "image": "sigils/hightower.webp",
         "house": "hightower"
       }
     ]
@@ -6104,7 +6104,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/santagar.png",
+        "image": "sigils/santagar.webp",
         "house": "santagar"
       }
     ],
@@ -6152,7 +6152,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/lannister.png",
+        "image": "sigils/lannister.webp",
         "house": "lannister"
       }
     ]
@@ -6233,12 +6233,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/swann.png",
+        "image": "sigils/swann.webp",
         "house": "swann"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/balon-swann--sigil-2.png"
+        "image": "sigils/aemon-targaryen--sigil-3.webp"
       }
     ],
     "screen": [
@@ -6281,12 +6281,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/oakheart.png",
+        "image": "sigils/oakheart.webp",
         "house": "oakheart"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/arys-oakheart--sigil-2.png"
+        "image": "sigils/aemon-targaryen--sigil-3.webp"
       }
     ],
     "screen": [
@@ -6329,12 +6329,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/greenfield.png",
+        "image": "sigils/greenfield.webp",
         "house": "greenfield"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/preston-greenfield--sigil-2.png"
+        "image": "sigils/aemon-targaryen--sigil-3.webp"
       }
     ],
     "screen": [
@@ -6373,7 +6373,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/stark.png",
+        "image": "sigils/stark.webp",
         "house": "stark"
       }
     ],
@@ -6417,7 +6417,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/stark.png",
+        "image": "sigils/stark.webp",
         "house": "stark"
       }
     ]
@@ -6458,7 +6458,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/stark.png",
+        "image": "sigils/stark.webp",
         "house": "stark"
       }
     ],
@@ -6506,12 +6506,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/tollett.png",
+        "image": "sigils/tollett.webp",
         "house": "tollett"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/eddison-tollett--sigil-2.png"
+        "image": "sigils/aemon--sigil-2.webp"
       }
     ],
     "screen": [
@@ -6654,7 +6654,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/loraq.png",
+        "image": "sigils/loraq.webp",
         "house": "loraq"
       }
     ],
@@ -6735,12 +6735,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/trant.png",
+        "image": "sigils/trant.webp",
         "house": "trant"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/meryn-trant--sigil-2.png"
+        "image": "sigils/aemon-targaryen--sigil-3.webp"
       }
     ],
     "screen": [
@@ -7027,7 +7027,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/hoare.png",
+        "image": "sigils/hoare.webp",
         "house": "hoare"
       }
     ]
@@ -7104,7 +7104,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/blackfyre.png",
+        "image": "sigils/blackfyre.webp",
         "house": "blackfyre"
       }
     ]
@@ -7281,7 +7281,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/hollard.png",
+        "image": "sigils/hollard.webp",
         "house": "hollard"
       }
     ],
@@ -7356,7 +7356,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/shireen-baratheon--sigil-1.png",
+        "image": "sigils/selyse-florent--sigil-2.webp",
         "house": "baratheon"
       }
     ],
@@ -7400,7 +7400,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/lannister.png",
+        "image": "sigils/lannister.webp",
         "house": "lannister"
       }
     ],
@@ -7440,7 +7440,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/mormont.png",
+        "image": "sigils/mormont.webp",
         "house": "mormont"
       }
     ]
@@ -7545,7 +7545,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/glover.png",
+        "image": "sigils/glover.webp",
         "house": "glover"
       }
     ],
@@ -7630,12 +7630,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/thorne.png",
+        "image": "sigils/thorne.webp",
         "house": "thorne"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/alliser-thorne--sigil-2.png"
+        "image": "sigils/aemon--sigil-2.webp"
       }
     ],
     "screen": [
@@ -7678,16 +7678,16 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/lannister.png",
+        "image": "sigils/lannister.webp",
         "house": "lannister"
       },
       {
         "kind": "personal",
-        "image": "sigils/lancel-lannister--sigil-2.png"
+        "image": "sigils/lancel-lannister--sigil-2.webp"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/lancel-lannister--sigil-3.png"
+        "image": "sigils/lancel-lannister--sigil-3.webp"
       }
     ],
     "screen": [
@@ -7730,7 +7730,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/arianne-martell--sigil-1.png",
+        "image": "sigils/martell.webp",
         "house": "martell"
       }
     ]
@@ -7771,12 +7771,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/baratheon.png",
+        "image": "sigils/baratheon.webp",
         "house": "baratheon"
       },
       {
         "kind": "personal",
-        "image": "sigils/myrcella-baratheon--sigil-2.png"
+        "image": "sigils/joffrey-baratheon--sigil-2.webp"
       }
     ],
     "screen": [
@@ -7822,12 +7822,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/plumm.png",
+        "image": "sigils/plumm.webp",
         "house": "plumm"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/ben-plumm--sigil-2.png"
+        "image": "sigils/aegor-rivers--sigil-3.webp"
       }
     ],
     "house": "plumm"
@@ -7872,12 +7872,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/baratheon.png",
+        "image": "sigils/baratheon.webp",
         "house": "baratheon"
       },
       {
         "kind": "personal",
-        "image": "sigils/tommen-baratheon--sigil-2.png"
+        "image": "sigils/joffrey-baratheon--sigil-2.webp"
       }
     ],
     "screen": [
@@ -7956,7 +7956,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/reed.png",
+        "image": "sigils/reed.webp",
         "house": "reed"
       }
     ],
@@ -7996,7 +7996,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/cassel.png",
+        "image": "sigils/cassel.webp",
         "house": "cassel"
       }
     ]
@@ -8037,7 +8037,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/theo-wull--sigil-1.png"
+        "image": "sigils/wull.webp"
       }
     ]
   },
@@ -8077,7 +8077,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/dustin.png",
+        "image": "sigils/dustin.webp",
         "house": "dustin"
       }
     ]
@@ -8118,7 +8118,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/ryswell.png",
+        "image": "sigils/ryswell.webp",
         "house": "ryswell"
       }
     ]
@@ -8155,7 +8155,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/glover.png",
+        "image": "sigils/glover.webp",
         "house": "glover"
       }
     ]
@@ -8376,12 +8376,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/westerling.png",
+        "image": "sigils/westerling.webp",
         "house": "westerling"
       },
       {
         "kind": "house",
-        "image": "sigils/stark.png",
+        "image": "sigils/stark.webp",
         "house": "stark"
       }
     ],
@@ -8427,12 +8427,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/kettleblack.png",
+        "image": "sigils/kettleblack.webp",
         "house": "kettleblack"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/osmund-kettleblack--sigil-2.png"
+        "image": "sigils/aemon-targaryen--sigil-3.webp"
       }
     ],
     "screen": [
@@ -8479,7 +8479,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/mace-tyrell--sigil-1.png",
+        "image": "sigils/tyrell.webp",
         "house": "tyrell"
       }
     ],
@@ -8526,7 +8526,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/targaryen.png",
+        "image": "sigils/targaryen.webp",
         "house": "targaryen"
       }
     ]
@@ -8685,7 +8685,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/harry-strickland--sigil-2.png"
+        "image": "sigils/aegor-rivers--sigil-4.webp"
       }
     ],
     "screen": [
@@ -8732,12 +8732,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/blackfyre.png",
+        "image": "sigils/blackfyre.webp",
         "house": "blackfyre"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/maelys-blackfyre--sigil-2.png"
+        "image": "sigils/aegor-rivers--sigil-4.webp"
       }
     ]
   },
@@ -8781,20 +8781,20 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/targaryen.png",
+        "image": "sigils/targaryen.webp",
         "house": "targaryen"
       },
       {
         "kind": "personal",
-        "image": "sigils/aegor-rivers--sigil-2.png"
+        "image": "sigils/aegor-rivers--sigil-2.webp"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/aegor-rivers--sigil-3.png"
+        "image": "sigils/aegor-rivers--sigil-3.webp"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/aegor-rivers--sigil-4.png"
+        "image": "sigils/aegor-rivers--sigil-4.webp"
       }
     ],
     "serves": "blackfyre"
@@ -8933,7 +8933,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/targaryen.png",
+        "image": "sigils/targaryen.webp",
         "house": "targaryen"
       }
     ]
@@ -8973,7 +8973,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/pypar--sigil-1.png"
+        "image": "sigils/aemon--sigil-2.webp"
       }
     ],
     "screen": [
@@ -9011,7 +9011,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/donal-noye--sigil-1.png"
+        "image": "sigils/aemon--sigil-2.webp"
       }
     ]
   },
@@ -9050,7 +9050,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/grenn--sigil-1.png"
+        "image": "sigils/aemon--sigil-2.webp"
       }
     ],
     "screen": [
@@ -9097,12 +9097,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/quentyn-martell--sigil-1.png",
+        "image": "sigils/martell.webp",
         "house": "martell"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/quentyn-martell--sigil-2.png"
+        "image": "sigils/archibald-yronwood--sigil-2.webp"
       }
     ]
   },
@@ -9142,7 +9142,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/tully.png",
+        "image": "sigils/tully.webp",
         "house": "tully"
       }
     ],
@@ -9194,12 +9194,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/florent.png",
+        "image": "sigils/florent.webp",
         "house": "florent"
       },
       {
         "kind": "house",
-        "image": "sigils/selyse-florent--sigil-2.png",
+        "image": "sigils/selyse-florent--sigil-2.webp",
         "house": "baratheon"
       }
     ],
@@ -9280,7 +9280,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/mero--sigil-1.png"
+        "image": "sigils/aegor-rivers--sigil-3.webp"
       }
     ],
     "screen": [
@@ -9323,7 +9323,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/blackwood.png",
+        "image": "sigils/blackwood.webp",
         "house": "blackwood"
       }
     ]
@@ -9368,7 +9368,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/frey.png",
+        "image": "sigils/frey.webp",
         "house": "frey"
       }
     ]
@@ -9520,12 +9520,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/elia-martell--sigil-1.png",
+        "image": "sigils/martell.webp",
         "house": "martell"
       },
       {
         "kind": "house",
-        "image": "sigils/targaryen.png",
+        "image": "sigils/targaryen.webp",
         "house": "targaryen"
       }
     ],
@@ -9637,7 +9637,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/florent.png",
+        "image": "sigils/florent.webp",
         "house": "florent"
       }
     ],
@@ -9684,11 +9684,11 @@
     "sigils": [
       {
         "kind": "personal",
-        "image": "sigils/dunk--sigil-1.png"
+        "image": "sigils/dunk--sigil-1.webp"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/dunk--sigil-2.png"
+        "image": "sigils/aemon-targaryen--sigil-3.webp"
       }
     ],
     "serves": "targaryen",
@@ -9767,7 +9767,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/frey.png",
+        "image": "sigils/frey.webp",
         "house": "frey"
       }
     ],
@@ -9815,7 +9815,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/baratheon.png",
+        "image": "sigils/baratheon.webp",
         "house": "baratheon"
       }
     ]
@@ -9989,7 +9989,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/targaryen.png",
+        "image": "sigils/targaryen.webp",
         "house": "targaryen"
       }
     ]
@@ -10165,12 +10165,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/marsh.png",
+        "image": "sigils/marsh.webp",
         "house": "marsh"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/bowen-marsh--sigil-2.png"
+        "image": "sigils/aemon--sigil-2.webp"
       }
     ],
     "screen": [
@@ -10213,7 +10213,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/lannister.png",
+        "image": "sigils/lannister.webp",
         "house": "lannister"
       }
     ]
@@ -10258,7 +10258,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/frey.png",
+        "image": "sigils/frey.webp",
         "house": "frey"
       }
     ],
@@ -10304,7 +10304,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/lannister.png",
+        "image": "sigils/lannister.webp",
         "house": "lannister"
       }
     ],
@@ -10353,7 +10353,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/frey.png",
+        "image": "sigils/frey.webp",
         "house": "frey"
       }
     ],
@@ -10437,7 +10437,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/umber.png",
+        "image": "sigils/umber.webp",
         "house": "umber"
       }
     ]
@@ -10482,7 +10482,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/dayne.png",
+        "image": "sigils/dayne.webp",
         "house": "dayne"
       }
     ],
@@ -10522,7 +10522,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/timeon--sigil-1.png"
+        "image": "sigils/biter--sigil-1.webp"
       }
     ]
   },
@@ -10557,7 +10557,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/iggo--sigil-1.png"
+        "image": "sigils/biter--sigil-1.webp"
       }
     ]
   },
@@ -10592,7 +10592,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/pyg--sigil-1.png"
+        "image": "sigils/biter--sigil-1.webp"
       }
     ]
   },
@@ -10627,7 +10627,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/togg-joth--sigil-1.png"
+        "image": "sigils/biter--sigil-1.webp"
       }
     ]
   },
@@ -10662,7 +10662,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/three-toes--sigil-1.png"
+        "image": "sigils/biter--sigil-1.webp"
       }
     ]
   },
@@ -10933,7 +10933,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/manderly.png",
+        "image": "sigils/manderly.webp",
         "house": "manderly"
       }
     ],
@@ -10977,7 +10977,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/manderly.png",
+        "image": "sigils/manderly.webp",
         "house": "manderly"
       }
     ]
@@ -11013,7 +11013,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/balaq--sigil-1.png"
+        "image": "sigils/aegor-rivers--sigil-4.webp"
       }
     ]
   },
@@ -11057,12 +11057,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/toyne.png",
+        "image": "sigils/toyne.webp",
         "house": "toyne"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/myles-toyne--sigil-2.png"
+        "image": "sigils/aegor-rivers--sigil-4.webp"
       }
     ]
   },
@@ -11105,7 +11105,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/rolly-duckfield--sigil-1.png"
+        "image": "sigils/aegor-rivers--sigil-4.webp"
       }
     ],
     "serves": "targaryen",
@@ -11146,7 +11146,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/tristan-rivers--sigil-1.png"
+        "image": "sigils/aegor-rivers--sigil-4.webp"
       }
     ]
   },
@@ -11189,7 +11189,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/chains--sigil-1.png"
+        "image": "sigils/aegor-rivers--sigil-4.webp"
       }
     ]
   },
@@ -11228,7 +11228,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/brendel-byrne--sigil-1.png"
+        "image": "sigils/aegor-rivers--sigil-4.webp"
       }
     ]
   },
@@ -11267,11 +11267,11 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/dick-cole--sigil-1.png"
+        "image": "sigils/dick-cole--sigil-1.webp"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/dick-cole--sigil-2.png"
+        "image": "sigils/aegor-rivers--sigil-4.webp"
       }
     ]
   },
@@ -11310,11 +11310,11 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/will-cole--sigil-1.png"
+        "image": "sigils/dick-cole--sigil-1.webp"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/will-cole--sigil-2.png"
+        "image": "sigils/aegor-rivers--sigil-4.webp"
       }
     ]
   },
@@ -11357,7 +11357,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/franklyn-flowers--sigil-1.png"
+        "image": "sigils/aegor-rivers--sigil-4.webp"
       }
     ]
   },
@@ -11396,7 +11396,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/gorys-edoryen--sigil-1.png"
+        "image": "sigils/aegor-rivers--sigil-4.webp"
       }
     ]
   },
@@ -11435,7 +11435,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/caspor-hill--sigil-1.png"
+        "image": "sigils/aegor-rivers--sigil-4.webp"
       }
     ]
   },
@@ -11474,7 +11474,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/malo-jayn--sigil-1.png"
+        "image": "sigils/aegor-rivers--sigil-4.webp"
       }
     ]
   },
@@ -11513,11 +11513,11 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/jon-lothston--sigil-1.png"
+        "image": "sigils/jon-lothston--sigil-1.webp"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/jon-lothston--sigil-2.png"
+        "image": "sigils/aegor-rivers--sigil-4.webp"
       }
     ]
   },
@@ -11552,7 +11552,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/lysono-maar--sigil-1.png"
+        "image": "sigils/aegor-rivers--sigil-4.webp"
       }
     ]
   },
@@ -11591,7 +11591,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/marq-mandrake--sigil-2.png"
+        "image": "sigils/aegor-rivers--sigil-4.webp"
       }
     ]
   },
@@ -11630,11 +11630,11 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/lorimas-mudd--sigil-1.png"
+        "image": "sigils/john-mudd--sigil-1.webp"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/lorimas-mudd--sigil-2.png"
+        "image": "sigils/aegor-rivers--sigil-4.webp"
       }
     ]
   },
@@ -11677,11 +11677,11 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/john-mudd--sigil-1.png"
+        "image": "sigils/john-mudd--sigil-1.webp"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/john-mudd--sigil-2.png"
+        "image": "sigils/aegor-rivers--sigil-4.webp"
       }
     ]
   },
@@ -11721,12 +11721,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/peake.png",
+        "image": "sigils/peake.webp",
         "house": "peake"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/laswell-peake--sigil-2.png"
+        "image": "sigils/aegor-rivers--sigil-4.webp"
       }
     ]
   },
@@ -11765,11 +11765,11 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/duncan-strong--sigil-1.png"
+        "image": "sigils/denys-strong--sigil-1.webp"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/duncan-strong--sigil-2.png"
+        "image": "sigils/aegor-rivers--sigil-4.webp"
       }
     ]
   },
@@ -11808,11 +11808,11 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/denys-strong--sigil-1.png"
+        "image": "sigils/denys-strong--sigil-1.webp"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/denys-strong--sigil-2.png"
+        "image": "sigils/aegor-rivers--sigil-4.webp"
       }
     ]
   },
@@ -11847,7 +11847,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/watkyn--sigil-1.png"
+        "image": "sigils/aegor-rivers--sigil-4.webp"
       }
     ]
   },
@@ -11883,12 +11883,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/peake.png",
+        "image": "sigils/peake.webp",
         "house": "peake"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/torman-peake--sigil-2.png"
+        "image": "sigils/aegor-rivers--sigil-4.webp"
       }
     ]
   },
@@ -11928,12 +11928,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/peake.png",
+        "image": "sigils/peake.webp",
         "house": "peake"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/pykewood-peake--sigil-2.png"
+        "image": "sigils/aegor-rivers--sigil-4.webp"
       }
     ]
   },
@@ -11972,7 +11972,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/lymond-pease--sigil-1.png"
+        "image": "sigils/aegor-rivers--sigil-4.webp"
       }
     ]
   },
@@ -12011,7 +12011,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/humfrey-stone--sigil-1.png"
+        "image": "sigils/aegor-rivers--sigil-4.webp"
       }
     ]
   },
@@ -12051,7 +12051,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/merryweather.png",
+        "image": "sigils/merryweather.webp",
         "house": "merryweather"
       }
     ]
@@ -12228,12 +12228,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/harlaw.png",
+        "image": "sigils/harlaw.webp",
         "house": "harlaw"
       },
       {
         "kind": "house",
-        "image": "sigils/greyjoy.png",
+        "image": "sigils/greyjoy.webp",
         "house": "greyjoy"
       }
     ],
@@ -12275,7 +12275,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/spicer.png",
+        "image": "sigils/spicer.webp",
         "house": "spicer"
       }
     ],
@@ -12346,7 +12346,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/frey.png",
+        "image": "sigils/frey.webp",
         "house": "frey"
       }
     ]
@@ -12382,7 +12382,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/gared--sigil-1.png"
+        "image": "sigils/aemon--sigil-2.webp"
       }
     ],
     "screen": [
@@ -12453,7 +12453,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/will--sigil-1.png"
+        "image": "sigils/aemon--sigil-2.webp"
       }
     ],
     "screen": [
@@ -12983,7 +12983,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/gerris-drinkwater--sigil-2.png"
+        "image": "sigils/archibald-yronwood--sigil-2.webp"
       }
     ],
     "serves": "yronwood"
@@ -13019,7 +13019,7 @@
     "sigils": [
       {
         "kind": "personal",
-        "image": "sigils/patrek-of-king-s-mountain--sigil-1.png"
+        "image": "sigils/patrek-of-king-s-mountain--sigil-1.webp"
       }
     ],
     "house": "baratheon"
@@ -13056,7 +13056,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/umber.png",
+        "image": "sigils/umber.webp",
         "house": "umber"
       }
     ],
@@ -13128,7 +13128,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/bolton.png",
+        "image": "sigils/bolton.webp",
         "house": "bolton"
       }
     ]
@@ -13173,12 +13173,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/frey.png",
+        "image": "sigils/frey.webp",
         "house": "frey"
       },
       {
         "kind": "house",
-        "image": "sigils/bolton.png",
+        "image": "sigils/bolton.webp",
         "house": "bolton"
       }
     ],
@@ -13231,12 +13231,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/poole.png",
+        "image": "sigils/poole.webp",
         "house": "poole"
       },
       {
         "kind": "house",
-        "image": "sigils/bolton.png",
+        "image": "sigils/bolton.webp",
         "house": "bolton"
       }
     ],
@@ -13318,12 +13318,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/kettleblack.png",
+        "image": "sigils/kettleblack.webp",
         "house": "kettleblack"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/osfryd-kettleblack--sigil-2.png"
+        "image": "sigils/addam-marbrand--sigil-2.webp"
       }
     ],
     "serves": "lannister"
@@ -13364,7 +13364,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/kettleblack.png",
+        "image": "sigils/kettleblack.webp",
         "house": "kettleblack"
       }
     ]
@@ -13537,12 +13537,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/brune.png",
+        "image": "sigils/brune.webp",
         "house": "brune"
       },
       {
         "kind": "personal",
-        "image": "sigils/lothor-brune--sigil-2.png"
+        "image": "sigils/lothor-brune--sigil-2.webp"
       }
     ],
     "serves": "baelish",
@@ -13586,12 +13586,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/hightower.png",
+        "image": "sigils/hightower.webp",
         "house": "hightower"
       },
       {
         "kind": "house",
-        "image": "sigils/alerie-hightower--sigil-2.png",
+        "image": "sigils/tyrell.webp",
         "house": "tyrell"
       }
     ],
@@ -13671,7 +13671,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/hunt.png",
+        "image": "sigils/hunt.webp",
         "house": "hunt"
       }
     ]
@@ -13716,7 +13716,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/crakehall.png",
+        "image": "sigils/crakehall.webp",
         "house": "crakehall"
       }
     ]
@@ -13756,7 +13756,7 @@
     "sigils": [
       {
         "kind": "personal",
-        "image": "sigils/arlan-of-pennytree--sigil-1.png"
+        "image": "sigils/arlan-of-pennytree--sigil-1.webp"
       }
     ],
     "serves": "dondarrion",
@@ -13830,17 +13830,17 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/martell.png",
+        "image": "sigils/martell.webp",
         "house": "martell"
       },
       {
         "kind": "house",
-        "image": "sigils/uller.png",
+        "image": "sigils/uller.webp",
         "house": "uller"
       },
       {
         "kind": "house",
-        "image": "sigils/dayne.png",
+        "image": "sigils/dayne.webp",
         "house": "dayne"
       }
     ],
@@ -13881,12 +13881,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/frey.png",
+        "image": "sigils/frey.webp",
         "house": "frey"
       },
       {
         "kind": "house",
-        "image": "sigils/tully.png",
+        "image": "sigils/tully.webp",
         "house": "tully"
       }
     ],
@@ -13939,7 +13939,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/stark.png",
+        "image": "sigils/stark.webp",
         "house": "stark"
       }
     ]
@@ -14014,7 +14014,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/umber.png",
+        "image": "sigils/umber.webp",
         "house": "umber"
       }
     ]
@@ -14055,7 +14055,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/karstark.png",
+        "image": "sigils/karstark.webp",
         "house": "karstark"
       }
     ]
@@ -14139,12 +14139,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/yronwood.png",
+        "image": "sigils/yronwood.webp",
         "house": "yronwood"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/archibald-yronwood--sigil-2.png"
+        "image": "sigils/archibald-yronwood--sigil-2.webp"
       }
     ]
   },
@@ -14184,7 +14184,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/florent.png",
+        "image": "sigils/florent.webp",
         "house": "florent"
       }
     ],
@@ -14223,7 +14223,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/satin--sigil-1.png"
+        "image": "sigils/aemon--sigil-2.webp"
       }
     ]
   },
@@ -14263,7 +14263,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/merryweather.png"
+        "image": "sigils/merryweather.webp"
       }
     ]
   },
@@ -14332,7 +14332,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/bracken.png",
+        "image": "sigils/bracken.webp",
         "house": "bracken"
       }
     ],
@@ -14371,7 +14371,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/clydas--sigil-1.png"
+        "image": "sigils/aemon--sigil-2.webp"
       }
     ],
     "screen": [
@@ -14448,7 +14448,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/redwyne.png",
+        "image": "sigils/redwyne.webp",
         "house": "redwyne"
       }
     ]
@@ -14484,7 +14484,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/rat-cook--sigil-1.png"
+        "image": "sigils/aemon--sigil-2.webp"
       }
     ]
   },
@@ -14622,12 +14622,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/frey.png",
+        "image": "sigils/frey.webp",
         "house": "frey"
       },
       {
         "kind": "personal",
-        "image": "sigils/cleos-frey--sigil-2.png"
+        "image": "sigils/cleos-frey--sigil-2.webp"
       }
     ],
     "serves": "lannister",
@@ -14704,11 +14704,11 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/tattered-prince--sigil-1.png"
+        "image": "sigils/aegor-rivers--sigil-3.webp"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/tattered-prince--sigil-2.png"
+        "image": "sigils/archibald-yronwood--sigil-2.webp"
       }
     ]
   },
@@ -14752,16 +14752,16 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/targaryen.png",
+        "image": "sigils/targaryen.webp",
         "house": "targaryen"
       },
       {
         "kind": "personal",
-        "image": "sigils/aemon-targaryen--sigil-2.png"
+        "image": "sigils/aemon-targaryen--sigil-2.webp"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/aemon-targaryen--sigil-3.png"
+        "image": "sigils/aemon-targaryen--sigil-3.webp"
       }
     ]
   },
@@ -14805,7 +14805,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/targaryen.png",
+        "image": "sigils/targaryen.webp",
         "house": "targaryen"
       }
     ]
@@ -14850,12 +14850,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/targaryen.png",
+        "image": "sigils/targaryen.webp",
         "house": "targaryen"
       },
       {
         "kind": "personal",
-        "image": "sigils/maekar-i-targaryen--sigil-2.png"
+        "image": "sigils/maekar-i-targaryen--sigil-2.webp"
       }
     ]
   },
@@ -14967,12 +14967,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/hightower.png",
+        "image": "sigils/hightower.webp",
         "house": "hightower"
       },
       {
         "kind": "house",
-        "image": "sigils/mormont.png",
+        "image": "sigils/mormont.webp",
         "house": "mormont"
       }
     ],
@@ -15053,7 +15053,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/caggo--sigil-1.png"
+        "image": "sigils/archibald-yronwood--sigil-2.webp"
       }
     ]
   },
@@ -15234,12 +15234,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/marbrand.png",
+        "image": "sigils/marbrand.webp",
         "house": "marbrand"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/addam-marbrand--sigil-2.png"
+        "image": "sigils/addam-marbrand--sigil-2.webp"
       }
     ],
     "serves": "lannister",
@@ -15283,7 +15283,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/mallister.png",
+        "image": "sigils/mallister.webp",
         "house": "mallister"
       }
     ]
@@ -15323,7 +15323,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/cotter-pyke--sigil-1.png"
+        "image": "sigils/aemon--sigil-2.webp"
       }
     ]
   },
@@ -15367,12 +15367,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/bywater.png",
+        "image": "sigils/bywater.webp",
         "house": "bywater"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/jacelyn-bywater--sigil-2.png"
+        "image": "sigils/addam-marbrand--sigil-2.webp"
       }
     ],
     "serves": "tyrion-lannister"
@@ -15417,7 +15417,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/harlaw.png",
+        "image": "sigils/harlaw.webp",
         "house": "harlaw"
       }
     ]
@@ -15488,7 +15488,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/frey.png",
+        "image": "sigils/frey.webp",
         "house": "frey"
       }
     ]
@@ -15529,12 +15529,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/smallwood.png",
+        "image": "sigils/smallwood.webp",
         "house": "smallwood"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/thoren-smallwood--sigil-2.png"
+        "image": "sigils/aemon--sigil-2.webp"
       }
     ]
   },
@@ -15648,7 +15648,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/rosby.png",
+        "image": "sigils/rosby.webp",
         "house": "rosby"
       }
     ],
@@ -15721,7 +15721,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/hobb--sigil-1.png"
+        "image": "sigils/aemon--sigil-2.webp"
       }
     ],
     "screen": [
@@ -15764,7 +15764,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/stokeworth.png",
+        "image": "sigils/stokeworth.webp",
         "house": "stokeworth"
       }
     ]
@@ -15800,7 +15800,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/chett--sigil-1.png"
+        "image": "sigils/aemon--sigil-2.webp"
       }
     ]
   },
@@ -15839,7 +15839,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/iron-emmett--sigil-1.png"
+        "image": "sigils/aemon--sigil-2.webp"
       }
     ]
   },
@@ -15874,7 +15874,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/stonesnake--sigil-1.png"
+        "image": "sigils/aemon--sigil-2.webp"
       }
     ],
     "screen": [
@@ -16016,12 +16016,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/frey.png",
+        "image": "sigils/frey.webp",
         "house": "frey"
       },
       {
         "kind": "personal",
-        "image": "sigils/big-walder-frey--sigil-2.png"
+        "image": "sigils/big-walder-frey--sigil-2.webp"
       }
     ]
   },
@@ -16061,12 +16061,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/frey.png",
+        "image": "sigils/frey.webp",
         "house": "frey"
       },
       {
         "kind": "personal",
-        "image": "sigils/little-walder-frey--sigil-2.png"
+        "image": "sigils/little-walder-frey--sigil-2.webp"
       }
     ],
     "serves": "bolton"
@@ -16170,12 +16170,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/yarwyck.png",
+        "image": "sigils/yarwyck.webp",
         "house": "yarwyck"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/othell-yarwyck--sigil-2.png"
+        "image": "sigils/aemon--sigil-2.webp"
       }
     ],
     "screen": [
@@ -16214,7 +16214,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/manderly.png",
+        "image": "sigils/manderly.webp",
         "house": "manderly"
       }
     ]
@@ -16280,7 +16280,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/dywen--sigil-1.png"
+        "image": "sigils/aemon--sigil-2.webp"
       }
     ]
   },
@@ -16324,16 +16324,16 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/targaryen.png",
+        "image": "sigils/targaryen.webp",
         "house": "targaryen"
       },
       {
         "kind": "personal",
-        "image": "sigils/aerion-targaryen--sigil-2.png"
+        "image": "sigils/aerion-targaryen--sigil-2.webp"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/aerion-targaryen--sigil-3.png"
+        "image": "sigils/aegor-rivers--sigil-3.webp"
       }
     ]
   },
@@ -16410,12 +16410,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/royce.png",
+        "image": "sigils/royce.webp",
         "house": "royce"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/robar-royce--sigil-2.png"
+        "image": "sigils/brienne-of-tarth--sigil-2.webp"
       }
     ],
     "screen": [
@@ -16669,12 +16669,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/caron.png",
+        "image": "sigils/caron.webp",
         "house": "caron"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/bryce-caron--sigil-2.png"
+        "image": "sigils/brienne-of-tarth--sigil-2.webp"
       }
     ]
   },
@@ -16718,12 +16718,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/cuy.png",
+        "image": "sigils/cuy.webp",
         "house": "cuy"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/emmon-cuy--sigil-2.png"
+        "image": "sigils/brienne-of-tarth--sigil-2.webp"
       }
     ],
     "screen": [
@@ -16770,12 +16770,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/morrigen.png",
+        "image": "sigils/morrigen.webp",
         "house": "morrigen"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/guyard-morrigen--sigil-2.png"
+        "image": "sigils/brienne-of-tarth--sigil-2.webp"
       }
     ]
   },
@@ -16819,12 +16819,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/crane.png",
+        "image": "sigils/crane.webp",
         "house": "crane"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/parmen-crane--sigil-2.png"
+        "image": "sigils/brienne-of-tarth--sigil-2.webp"
       }
     ]
   },
@@ -16864,12 +16864,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/mallister.png",
+        "image": "sigils/mallister.webp",
         "house": "mallister"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/denys-mallister--sigil-2.png"
+        "image": "sigils/aemon--sigil-2.webp"
       }
     ],
     "screen": [
@@ -16912,7 +16912,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/piper.png",
+        "image": "sigils/piper.webp",
         "house": "piper"
       }
     ]
@@ -16984,12 +16984,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/stokeworth.png",
+        "image": "sigils/stokeworth.webp",
         "house": "stokeworth"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/falyse-stokeworth--sigil-2.png"
+        "image": "sigils/falyse-stokeworth--sigil-2.webp"
       }
     ]
   },
@@ -17028,7 +17028,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/ulmer--sigil-1.png"
+        "image": "sigils/aemon--sigil-2.webp"
       }
     ]
   },
@@ -17064,7 +17064,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/toyne.png",
+        "image": "sigils/toyne.webp",
         "house": "toyne"
       }
     ]
@@ -17233,7 +17233,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/karstark.png",
+        "image": "sigils/karstark.webp",
         "house": "karstark"
       }
     ]
@@ -17270,7 +17270,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/karstark.png",
+        "image": "sigils/karstark.webp",
         "house": "karstark"
       }
     ],
@@ -17318,7 +17318,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/karstark.png",
+        "image": "sigils/karstark.webp",
         "house": "karstark"
       }
     ],
@@ -17362,7 +17362,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/glover.png",
+        "image": "sigils/glover.webp",
         "house": "glover"
       }
     ],
@@ -17402,12 +17402,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/karstark.png",
+        "image": "sigils/karstark.webp",
         "house": "karstark"
       },
       {
         "kind": "house",
-        "image": "sigils/thenn.png",
+        "image": "sigils/thenn.webp",
         "house": "thenn"
       }
     ],
@@ -17456,7 +17456,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/lannister.png",
+        "image": "sigils/lannister.webp",
         "house": "lannister"
       }
     ],
@@ -17501,7 +17501,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/targaryen.png",
+        "image": "sigils/targaryen.webp",
         "house": "targaryen"
       }
     ]
@@ -17537,7 +17537,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/oznak-zo-pahl--sigil-1.png"
+        "image": "sigils/oznak-zo-pahl--sigil-1.webp"
       }
     ],
     "screen": [
@@ -17669,7 +17669,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/greyjoy.png",
+        "image": "sigils/greyjoy.webp",
         "house": "greyjoy"
       }
     ]
@@ -17706,7 +17706,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/greyjoy.png",
+        "image": "sigils/greyjoy.webp",
         "house": "greyjoy"
       }
     ]
@@ -17878,7 +17878,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/royce-of-the-gates-of-the-moon.png",
+        "image": "sigils/royce-of-the-gates-of-the-moon.webp",
         "house": "royce-of-the-gates-of-the-moon"
       }
     ],
@@ -18021,7 +18021,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/thenn.png"
+        "image": "sigils/thenn.webp"
       }
     ]
   },
@@ -18065,7 +18065,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/botley.png",
+        "image": "sigils/botley.webp",
         "house": "botley"
       }
     ]
@@ -18106,7 +18106,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/frey.png",
+        "image": "sigils/frey.webp",
         "house": "frey"
       }
     ]
@@ -18143,7 +18143,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/frey.png",
+        "image": "sigils/frey.webp",
         "house": "frey"
       }
     ]
@@ -18188,7 +18188,7 @@
     "sigils": [
       {
         "kind": "personal",
-        "image": "sigils/shadrich--sigil-1.png"
+        "image": "sigils/shadrich--sigil-1.webp"
       }
     ]
   },
@@ -18232,12 +18232,12 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/targaryen.png",
+        "image": "sigils/targaryen.webp",
         "house": "targaryen"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/daemon-targaryen--sigil-2.png"
+        "image": "sigils/addam-marbrand--sigil-2.webp"
       }
     ],
     "screen": [
@@ -18280,7 +18280,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/peckledon.png",
+        "image": "sigils/peckledon.webp",
         "house": "peckledon"
       }
     ]
@@ -18325,7 +18325,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/trystane-martell--sigil-1.png",
+        "image": "sigils/martell.webp",
         "house": "martell"
       }
     ],
@@ -18436,7 +18436,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/frey.png",
+        "image": "sigils/frey.webp",
         "house": "frey"
       }
     ],
@@ -18757,7 +18757,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/harlaw.png",
+        "image": "sigils/harlaw.webp",
         "house": "harlaw"
       }
     ]
@@ -18915,7 +18915,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/seaworth.png",
+        "image": "sigils/seaworth.webp",
         "house": "seaworth"
       }
     ]
@@ -18960,7 +18960,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/swyft.png",
+        "image": "sigils/swyft.webp",
         "house": "swyft"
       }
     ],
@@ -19005,7 +19005,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/rowan.png",
+        "image": "sigils/rowan.webp",
         "house": "rowan"
       }
     ]
@@ -19046,7 +19046,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/penrose.png",
+        "image": "sigils/penrose.webp",
         "house": "penrose"
       }
     ],
@@ -19121,7 +19121,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/lannister.png",
+        "image": "sigils/lannister.webp",
         "house": "lannister"
       }
     ],
@@ -19161,7 +19161,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/jack--sigil-1.png"
+        "image": "sigils/archibald-yronwood--sigil-2.webp"
       }
     ]
   },
@@ -19201,7 +19201,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/lucifer-long--sigil-2.png"
+        "image": "sigils/archibald-yronwood--sigil-2.webp"
       }
     ]
   },
@@ -19236,7 +19236,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/black-gerrold--sigil-1.png"
+        "image": "sigils/archibald-yronwood--sigil-2.webp"
       }
     ]
   },
@@ -19275,7 +19275,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/orson-stone--sigil-1.png"
+        "image": "sigils/archibald-yronwood--sigil-2.webp"
       }
     ]
   },
@@ -19310,7 +19310,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/myrio-myrakis--sigil-1.png"
+        "image": "sigils/archibald-yronwood--sigil-2.webp"
       }
     ]
   },
@@ -19345,7 +19345,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/dick-straw--sigil-1.png"
+        "image": "sigils/archibald-yronwood--sigil-2.webp"
       }
     ]
   },
@@ -19384,7 +19384,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/denzo-d-han--sigil-1.png"
+        "image": "sigils/archibald-yronwood--sigil-2.webp"
       }
     ]
   },
@@ -19423,7 +19423,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/beans--sigil-1.png"
+        "image": "sigils/archibald-yronwood--sigil-2.webp"
       }
     ]
   },
@@ -19458,11 +19458,11 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/webber--sigil-1.png"
+        "image": "sigils/webber--sigil-1.webp"
       },
       {
         "kind": "affiliation",
-        "image": "sigils/webber--sigil-2.png"
+        "image": "sigils/archibald-yronwood--sigil-2.webp"
       }
     ]
   },
@@ -19497,7 +19497,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/books--sigil-1.png"
+        "image": "sigils/archibald-yronwood--sigil-2.webp"
       }
     ]
   },
@@ -19532,7 +19532,7 @@
     "sigils": [
       {
         "kind": "affiliation",
-        "image": "sigils/will-of-the-woods--sigil-1.png"
+        "image": "sigils/archibald-yronwood--sigil-2.webp"
       }
     ]
   },
@@ -19576,7 +19576,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/massey.png",
+        "image": "sigils/massey.webp",
         "house": "massey"
       }
     ]
@@ -19617,17 +19617,17 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/ryswell.png",
+        "image": "sigils/ryswell.webp",
         "house": "ryswell"
       },
       {
         "kind": "house",
-        "image": "sigils/dustin.png",
+        "image": "sigils/dustin.webp",
         "house": "dustin"
       },
       {
         "kind": "personal",
-        "image": "sigils/barbrey-dustin--sigil-3.png"
+        "image": "sigils/barbrey-dustin--sigil-3.webp"
       }
     ],
     "serves": "dustin"
@@ -19672,7 +19672,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/caron.png",
+        "image": "sigils/caron.webp",
         "house": "caron"
       }
     ]
@@ -19717,17 +19717,17 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/targaryen.png",
+        "image": "sigils/targaryen.webp",
         "house": "targaryen"
       },
       {
         "kind": "house",
-        "image": "sigils/velaryon.png",
+        "image": "sigils/velaryon.webp",
         "house": "velaryon"
       },
       {
         "kind": "personal",
-        "image": "sigils/rhaenyra-targaryen--sigil-3.png"
+        "image": "sigils/rhaenyra-targaryen--sigil-3.webp"
       }
     ],
     "screen": [
@@ -19770,7 +19770,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/estermont.png",
+        "image": "sigils/estermont.webp",
         "house": "estermont"
       }
     ]
@@ -19815,7 +19815,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/farring.png",
+        "image": "sigils/farring.webp",
         "house": "farring"
       }
     ]
@@ -19856,7 +19856,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/farring.png",
+        "image": "sigils/farring.webp",
         "house": "farring"
       }
     ]
@@ -19936,7 +19936,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/farwynd-of-lonely-light.png",
+        "image": "sigils/farwynd-of-lonely-light.webp",
         "house": "farwynd-of-lonely-light"
       }
     ]
@@ -20016,7 +20016,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/drumm.png",
+        "image": "sigils/drumm.webp",
         "house": "drumm"
       }
     ]
@@ -20061,7 +20061,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/targaryen.png",
+        "image": "sigils/targaryen.webp",
         "house": "targaryen"
       }
     ]
@@ -20170,7 +20170,7 @@
     "sigils": [
       {
         "kind": "house",
-        "image": "sigils/connington.png",
+        "image": "sigils/connington.webp",
         "house": "connington"
       }
     ]

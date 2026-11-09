@@ -6,7 +6,7 @@
       "en": "House Arryn"
     },
     "sigil": {
-      "image": "sigils/arryn.png"
+      "image": "sigils/arryn.webp"
     },
     "words": {
       "ru": "Высокий как честь",
@@ -24,7 +24,7 @@
       "en": "House Baelish"
     },
     "sigil": {
-      "image": "sigils/baelish.png"
+      "image": "sigils/baelish.webp"
     }
   },
   {
@@ -42,7 +42,7 @@
         "ru": "Чёрный коронованный олень на золотом поле",
         "en": "A crowned black stag on a gold field"
       },
-      "image": "sigils/baratheon.png"
+      "image": "sigils/baratheon.webp"
     },
     "seat": {
       "ru": "Штормовой Предел",
@@ -56,7 +56,7 @@
       "en": "House Blackfyre"
     },
     "sigil": {
-      "image": "sigils/blackfyre.png"
+      "image": "sigils/blackfyre.webp"
     }
   },
   {
@@ -66,7 +66,7 @@
       "en": "House Blackwood"
     },
     "sigil": {
-      "image": "sigils/blackwood.png"
+      "image": "sigils/blackwood.webp"
     }
   },
   {
@@ -76,7 +76,7 @@
       "en": "House Blount"
     },
     "sigil": {
-      "image": "sigils/blount.png"
+      "image": "sigils/blount.webp"
     }
   },
   {
@@ -86,7 +86,7 @@
       "en": "House Bolton"
     },
     "sigil": {
-      "image": "sigils/bolton.png"
+      "image": "sigils/bolton.webp"
     },
     "words": {
       "ru": "Наши ножи остры",
@@ -104,7 +104,7 @@
       "en": "House Botley"
     },
     "sigil": {
-      "image": "sigils/botley.png"
+      "image": "sigils/botley.webp"
     }
   },
   {
@@ -114,7 +114,7 @@
       "en": "House Bracken"
     },
     "sigil": {
-      "image": "sigils/bracken.png"
+      "image": "sigils/bracken.webp"
     }
   },
   {
@@ -124,7 +124,7 @@
       "en": "House Brune of Brownhollow"
     },
     "sigil": {
-      "image": "sigils/brune.png"
+      "image": "sigils/brune.webp"
     }
   },
   {
@@ -134,7 +134,7 @@
       "en": "House Bywater"
     },
     "sigil": {
-      "image": "sigils/bywater.png"
+      "image": "sigils/bywater.webp"
     }
   },
   {
@@ -144,7 +144,7 @@
       "en": "House Caron"
     },
     "sigil": {
-      "image": "sigils/caron.png"
+      "image": "sigils/caron.webp"
     },
     "words": {
       "ru": "Нет песни слаще",
@@ -158,7 +158,7 @@
       "en": "House Cassel"
     },
     "sigil": {
-      "image": "sigils/cassel.png"
+      "image": "sigils/cassel.webp"
     }
   },
   {
@@ -168,7 +168,7 @@
       "en": "House Clegane"
     },
     "sigil": {
-      "image": "sigils/clegane.png"
+      "image": "sigils/clegane.webp"
     }
   },
   {
@@ -178,7 +178,7 @@
       "en": "House Connington"
     },
     "sigil": {
-      "image": "sigils/connington.png"
+      "image": "sigils/connington.webp"
     },
     "words": {
       "ru": "Мы — буря",
@@ -192,7 +192,7 @@
       "en": "House Corbray"
     },
     "sigil": {
-      "image": "sigils/corbray.png"
+      "image": "sigils/corbray.webp"
     }
   },
   {
@@ -210,7 +210,7 @@
       "en": "House Crakehall"
     },
     "sigil": {
-      "image": "sigils/crakehall.png"
+      "image": "sigils/crakehall.webp"
     },
     "words": {
       "ru": "Никто столь не свиреп",
@@ -224,7 +224,7 @@
       "en": "House Crane"
     },
     "sigil": {
-      "image": "sigils/crane.png"
+      "image": "sigils/crane.webp"
     }
   },
   {
@@ -234,7 +234,7 @@
       "en": "House Cuy"
     },
     "sigil": {
-      "image": "sigils/cuy.png"
+      "image": "sigils/cuy.webp"
     }
   },
   {
@@ -244,7 +244,7 @@
       "en": "House Dayne"
     },
     "sigil": {
-      "image": "sigils/dayne.png"
+      "image": "sigils/dayne.webp"
     },
     "seat": {
       "ru": "Звездопад",
@@ -258,7 +258,7 @@
       "en": "House Dondarrion"
     },
     "sigil": {
-      "image": "sigils/dondarrion.png"
+      "image": "sigils/dondarrion.webp"
     },
     "seat": {
       "ru": "Чёрный Приют",
@@ -280,7 +280,7 @@
       "en": "House Drumm"
     },
     "sigil": {
-      "image": "sigils/drumm.png"
+      "image": "sigils/drumm.webp"
     }
   },
   {
@@ -290,7 +290,7 @@
       "en": "House Dustin"
     },
     "sigil": {
-      "image": "sigils/dustin.png"
+      "image": "sigils/dustin.webp"
     }
   },
   {
@@ -300,7 +300,7 @@
       "en": "House Egen"
     },
     "sigil": {
-      "image": "sigils/egen.png"
+      "image": "sigils/egen.webp"
     },
     "words": {
       "ru": "Днём или ночью",
@@ -314,7 +314,7 @@
       "en": "House Estermont"
     },
     "sigil": {
-      "image": "sigils/estermont.png"
+      "image": "sigils/estermont.webp"
     }
   },
   {
@@ -324,7 +324,7 @@
       "en": "House Farring"
     },
     "sigil": {
-      "image": "sigils/farring.png"
+      "image": "sigils/farring.webp"
     }
   },
   {
@@ -334,7 +334,7 @@
       "en": "House Farwynd of the Lonely Light"
     },
     "sigil": {
-      "image": "sigils/farwynd-of-lonely-light.png"
+      "image": "sigils/farwynd-of-lonely-light.webp"
     }
   },
   {
@@ -344,7 +344,7 @@
       "en": "House Florent"
     },
     "sigil": {
-      "image": "sigils/florent.png"
+      "image": "sigils/florent.webp"
     }
   },
   {
@@ -354,7 +354,7 @@
       "en": "House Frey"
     },
     "sigil": {
-      "image": "sigils/frey.png"
+      "image": "sigils/frey.webp"
     },
     "words": {
       "ru": "Стоим плечом к плечу",
@@ -380,7 +380,7 @@
       "en": "House Glover"
     },
     "sigil": {
-      "image": "sigils/glover.png"
+      "image": "sigils/glover.webp"
     }
   },
   {
@@ -390,7 +390,7 @@
       "en": "House Greenfield"
     },
     "sigil": {
-      "image": "sigils/greenfield.png"
+      "image": "sigils/greenfield.webp"
     }
   },
   {
@@ -408,7 +408,7 @@
         "ru": "Золотой кракен на чёрном поле",
         "en": "A golden kraken on a black field"
       },
-      "image": "sigils/greyjoy.png"
+      "image": "sigils/greyjoy.webp"
     },
     "seat": {
       "ru": "Пайк",
@@ -422,7 +422,7 @@
       "en": "House Hardyng"
     },
     "sigil": {
-      "image": "sigils/hardyng.png"
+      "image": "sigils/hardyng.webp"
     }
   },
   {
@@ -432,7 +432,7 @@
       "en": "House Harlaw"
     },
     "sigil": {
-      "image": "sigils/harlaw.png"
+      "image": "sigils/harlaw.webp"
     }
   },
   {
@@ -442,7 +442,7 @@
       "en": "House Hasty"
     },
     "sigil": {
-      "image": "sigils/hasty.png"
+      "image": "sigils/hasty.webp"
     }
   },
   {
@@ -452,7 +452,7 @@
       "en": "House Hightower"
     },
     "sigil": {
-      "image": "sigils/hightower.png"
+      "image": "sigils/hightower.webp"
     },
     "words": {
       "ru": "Мы освещаем путь",
@@ -466,7 +466,7 @@
       "en": "House Hoare"
     },
     "sigil": {
-      "image": "sigils/hoare.png"
+      "image": "sigils/hoare.webp"
     }
   },
   {
@@ -476,7 +476,7 @@
       "en": "House Hollard"
     },
     "sigil": {
-      "image": "sigils/hollard.png"
+      "image": "sigils/hollard.webp"
     }
   },
   {
@@ -486,7 +486,7 @@
       "en": "House Hunt"
     },
     "sigil": {
-      "image": "sigils/hunt.png"
+      "image": "sigils/hunt.webp"
     }
   },
   {
@@ -512,7 +512,7 @@
       "en": "House Karstark"
     },
     "sigil": {
-      "image": "sigils/karstark.png"
+      "image": "sigils/karstark.webp"
     },
     "words": {
       "ru": "Солнце зимы",
@@ -530,7 +530,7 @@
       "en": "House Kettleblack"
     },
     "sigil": {
-      "image": "sigils/kettleblack.png"
+      "image": "sigils/kettleblack.webp"
     }
   },
   {
@@ -548,7 +548,7 @@
         "ru": "Золотой лев на алом поле",
         "en": "A golden lion on a red field"
       },
-      "image": "sigils/lannister.png"
+      "image": "sigils/lannister.webp"
     },
     "seat": {
       "ru": "Утёс Кастерли",
@@ -570,7 +570,7 @@
       "en": "House Loraq"
     },
     "sigil": {
-      "image": "sigils/loraq.png"
+      "image": "sigils/loraq.webp"
     }
   },
   {
@@ -580,7 +580,7 @@
       "en": "House Lorch"
     },
     "sigil": {
-      "image": "sigils/lorch.png"
+      "image": "sigils/lorch.webp"
     }
   },
   {
@@ -590,7 +590,7 @@
       "en": "House Mallister"
     },
     "sigil": {
-      "image": "sigils/mallister.png"
+      "image": "sigils/mallister.webp"
     },
     "words": {
       "ru": "Над прочими",
@@ -604,7 +604,7 @@
       "en": "House Manderly"
     },
     "sigil": {
-      "image": "sigils/manderly.png"
+      "image": "sigils/manderly.webp"
     }
   },
   {
@@ -614,7 +614,7 @@
       "en": "House Marbrand"
     },
     "sigil": {
-      "image": "sigils/marbrand.png"
+      "image": "sigils/marbrand.webp"
     },
     "words": {
       "ru": "Горю ярко",
@@ -628,7 +628,7 @@
       "en": "House Marsh"
     },
     "sigil": {
-      "image": "sigils/marsh.png"
+      "image": "sigils/marsh.webp"
     }
   },
   {
@@ -638,7 +638,7 @@
       "en": "House Martell"
     },
     "sigil": {
-      "image": "sigils/martell.png"
+      "image": "sigils/martell.webp"
     },
     "words": {
       "ru": "Непреклонные, несгибаемые, несдающиеся",
@@ -656,7 +656,7 @@
       "en": "House Massey"
     },
     "sigil": {
-      "image": "sigils/massey.png"
+      "image": "sigils/massey.webp"
     }
   },
   {
@@ -666,7 +666,7 @@
       "en": "House Merryweather"
     },
     "sigil": {
-      "image": "sigils/merryweather.png"
+      "image": "sigils/merryweather.webp"
     },
     "words": {
       "ru": "Узрите нашу щедрость",
@@ -680,7 +680,7 @@
       "en": "House Moore"
     },
     "sigil": {
-      "image": "sigils/moore.png"
+      "image": "sigils/moore.webp"
     }
   },
   {
@@ -690,7 +690,7 @@
       "en": "House Mormont"
     },
     "sigil": {
-      "image": "sigils/mormont.png"
+      "image": "sigils/mormont.webp"
     },
     "words": {
       "ru": "Здесь стоим",
@@ -704,7 +704,7 @@
       "en": "House Morrigen"
     },
     "sigil": {
-      "image": "sigils/morrigen.png"
+      "image": "sigils/morrigen.webp"
     }
   },
   {
@@ -714,7 +714,7 @@
       "en": "House Mullendore"
     },
     "sigil": {
-      "image": "sigils/mullendore.png"
+      "image": "sigils/mullendore.webp"
     }
   },
   {
@@ -732,7 +732,7 @@
       "en": "House Oakheart"
     },
     "sigil": {
-      "image": "sigils/oakheart.png"
+      "image": "sigils/oakheart.webp"
     },
     "words": {
       "ru": "Наши корни глубоки",
@@ -746,7 +746,7 @@
       "en": "House Payne"
     },
     "sigil": {
-      "image": "sigils/payne.png"
+      "image": "sigils/payne.webp"
     }
   },
   {
@@ -756,7 +756,7 @@
       "en": "House Peake"
     },
     "sigil": {
-      "image": "sigils/peake.png"
+      "image": "sigils/peake.webp"
     }
   },
   {
@@ -766,7 +766,7 @@
       "en": "House Peckledon"
     },
     "sigil": {
-      "image": "sigils/peckledon.png"
+      "image": "sigils/peckledon.webp"
     },
     "words": {
       "ru": "Непоколебимые",
@@ -780,7 +780,7 @@
       "en": "House Penrose"
     },
     "sigil": {
-      "image": "sigils/penrose.png"
+      "image": "sigils/penrose.webp"
     },
     "words": {
       "ru": "Запишем наши деяния",
@@ -794,7 +794,7 @@
       "en": "House Piper"
     },
     "sigil": {
-      "image": "sigils/piper.png"
+      "image": "sigils/piper.webp"
     },
     "words": {
       "ru": "Храбры и прекрасны",
@@ -808,7 +808,7 @@
       "en": "House Plumm"
     },
     "sigil": {
-      "image": "sigils/plumm.png"
+      "image": "sigils/plumm.webp"
     },
     "words": {
       "ru": "Попробуй меня",
@@ -822,7 +822,7 @@
       "en": "House Poole"
     },
     "sigil": {
-      "image": "sigils/poole.png"
+      "image": "sigils/poole.webp"
     }
   },
   {
@@ -840,7 +840,7 @@
       "en": "House Redwyne"
     },
     "sigil": {
-      "image": "sigils/redwyne.png"
+      "image": "sigils/redwyne.webp"
     }
   },
   {
@@ -850,7 +850,7 @@
       "en": "House Reed"
     },
     "sigil": {
-      "image": "sigils/reed.png"
+      "image": "sigils/reed.webp"
     }
   },
   {
@@ -868,7 +868,7 @@
       "en": "House Rosby"
     },
     "sigil": {
-      "image": "sigils/rosby.png"
+      "image": "sigils/rosby.webp"
     }
   },
   {
@@ -878,7 +878,7 @@
       "en": "House Rowan"
     },
     "sigil": {
-      "image": "sigils/rowan.png"
+      "image": "sigils/rowan.webp"
     }
   },
   {
@@ -888,7 +888,7 @@
       "en": "House Royce of Runestone"
     },
     "sigil": {
-      "image": "sigils/royce.png"
+      "image": "sigils/royce.webp"
     },
     "words": {
       "ru": "Мы помним",
@@ -902,7 +902,7 @@
       "en": "House Royce of the Gates of the Moon"
     },
     "sigil": {
-      "image": "sigils/royce-of-the-gates-of-the-moon.png"
+      "image": "sigils/royce-of-the-gates-of-the-moon.webp"
     }
   },
   {
@@ -912,7 +912,7 @@
       "en": "House Ryswell"
     },
     "sigil": {
-      "image": "sigils/ryswell.png"
+      "image": "sigils/ryswell.webp"
     }
   },
   {
@@ -930,7 +930,7 @@
       "en": "House Santagar"
     },
     "sigil": {
-      "image": "sigils/santagar.png"
+      "image": "sigils/santagar.webp"
     }
   },
   {
@@ -940,7 +940,7 @@
       "en": "House Seaworth"
     },
     "sigil": {
-      "image": "sigils/seaworth.png"
+      "image": "sigils/seaworth.webp"
     }
   },
   {
@@ -950,7 +950,7 @@
       "en": "House Selmy"
     },
     "sigil": {
-      "image": "sigils/selmy.png"
+      "image": "sigils/selmy.webp"
     },
     "seat": {
       "ru": "Дом Урожая",
@@ -964,7 +964,7 @@
       "en": "House Slynt"
     },
     "sigil": {
-      "image": "sigils/slynt.png"
+      "image": "sigils/slynt.webp"
     }
   },
   {
@@ -974,7 +974,7 @@
       "en": "House Smallwood"
     },
     "sigil": {
-      "image": "sigils/smallwood.png"
+      "image": "sigils/smallwood.webp"
     },
     "words": {
       "ru": "С этих начал",
@@ -988,7 +988,7 @@
       "en": "House Spicer"
     },
     "sigil": {
-      "image": "sigils/spicer.png"
+      "image": "sigils/spicer.webp"
     }
   },
   {
@@ -1006,7 +1006,7 @@
         "ru": "Серый лютоволк, бегущий по снежно-белому полю",
         "en": "A grey direwolf running across a white field"
       },
-      "image": "sigils/stark.png"
+      "image": "sigils/stark.webp"
     },
     "seat": {
       "ru": "Винтерфелл",
@@ -1028,7 +1028,7 @@
       "en": "House Stokeworth"
     },
     "sigil": {
-      "image": "sigils/stokeworth.png"
+      "image": "sigils/stokeworth.webp"
     },
     "words": {
       "ru": "Гордимся преданностью",
@@ -1050,7 +1050,7 @@
       "en": "House Swann"
     },
     "sigil": {
-      "image": "sigils/swann.png"
+      "image": "sigils/swann.webp"
     }
   },
   {
@@ -1060,7 +1060,7 @@
       "en": "House Swyft"
     },
     "sigil": {
-      "image": "sigils/swyft.png"
+      "image": "sigils/swyft.webp"
     },
     "words": {
       "ru": "Проснитесь! Проснитесь!",
@@ -1082,7 +1082,7 @@
         "ru": "Красный трёхглавый дракон на чёрном поле",
         "en": "A red three-headed dragon on a black field"
       },
-      "image": "sigils/targaryen.png"
+      "image": "sigils/targaryen.webp"
     },
     "seat": {
       "ru": "Великая пирамида Миэрина",
@@ -1096,7 +1096,7 @@
       "en": "House Tarly"
     },
     "sigil": {
-      "image": "sigils/tarly.png"
+      "image": "sigils/tarly.webp"
     },
     "words": {
       "ru": "Первые в битве",
@@ -1114,7 +1114,7 @@
       "en": "House Tarth"
     },
     "sigil": {
-      "image": "sigils/tarth.png"
+      "image": "sigils/tarth.webp"
     }
   },
   {
@@ -1124,7 +1124,7 @@
       "en": "House Thenn"
     },
     "sigil": {
-      "image": "sigils/thenn.png"
+      "image": "sigils/thenn.webp"
     }
   },
   {
@@ -1134,7 +1134,7 @@
       "en": "House Thorne"
     },
     "sigil": {
-      "image": "sigils/thorne.png"
+      "image": "sigils/thorne.webp"
     }
   },
   {
@@ -1144,7 +1144,7 @@
       "en": "House Tollett"
     },
     "sigil": {
-      "image": "sigils/tollett.png"
+      "image": "sigils/tollett.webp"
     },
     "words": {
       "ru": "В самый тёмный час",
@@ -1158,7 +1158,7 @@
       "en": "House Toyne"
     },
     "sigil": {
-      "image": "sigils/toyne.png"
+      "image": "sigils/toyne.webp"
     },
     "words": {
       "ru": "Лети высоко, лети далеко",
@@ -1172,7 +1172,7 @@
       "en": "House Trant"
     },
     "sigil": {
-      "image": "sigils/trant.png"
+      "image": "sigils/trant.webp"
     },
     "words": {
       "ru": "Так заканчивают наши враги",
@@ -1186,7 +1186,7 @@
       "en": "House Tully"
     },
     "sigil": {
-      "image": "sigils/tully.png"
+      "image": "sigils/tully.webp"
     },
     "words": {
       "ru": "Семья, долг, честь",
@@ -1204,7 +1204,7 @@
       "en": "House Tyrell"
     },
     "sigil": {
-      "image": "sigils/tyrell.png"
+      "image": "sigils/tyrell.webp"
     },
     "words": {
       "ru": "Вырастая — крепнем",
@@ -1222,7 +1222,7 @@
       "en": "House Uller"
     },
     "sigil": {
-      "image": "sigils/uller.png"
+      "image": "sigils/uller.webp"
     }
   },
   {
@@ -1232,7 +1232,7 @@
       "en": "House Umber"
     },
     "sigil": {
-      "image": "sigils/umber.png"
+      "image": "sigils/umber.webp"
     },
     "words": {
       "ru": "Смерть лучше цепей",
@@ -1250,7 +1250,7 @@
       "en": "House Velaryon"
     },
     "sigil": {
-      "image": "sigils/velaryon.png"
+      "image": "sigils/velaryon.webp"
     },
     "words": {
       "ru": "Старый, верный, отважный",
@@ -1264,7 +1264,7 @@
       "en": "House Westerling"
     },
     "sigil": {
-      "image": "sigils/westerling.png"
+      "image": "sigils/westerling.webp"
     },
     "words": {
       "ru": "Честь, а не поУдарениечести",
@@ -1278,7 +1278,7 @@
       "en": "House Whent"
     },
     "sigil": {
-      "image": "sigils/whent.png"
+      "image": "sigils/whent.webp"
     },
     "seat": {
       "ru": "Харренхолл",
@@ -1292,7 +1292,7 @@
       "en": "House Wull"
     },
     "sigil": {
-      "image": "sigils/wull.png"
+      "image": "sigils/wull.webp"
     }
   },
   {
@@ -1310,7 +1310,7 @@
       "en": "House Yarwyck"
     },
     "sigil": {
-      "image": "sigils/yarwyck.png"
+      "image": "sigils/yarwyck.webp"
     }
   },
   {
@@ -1320,7 +1320,7 @@
       "en": "House Yronwood"
     },
     "sigil": {
-      "image": "sigils/yronwood.png"
+      "image": "sigils/yronwood.webp"
     },
     "words": {
       "ru": "Мы храним путь",
