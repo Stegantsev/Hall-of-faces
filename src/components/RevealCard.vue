@@ -10,7 +10,7 @@ import SigilRow from './SigilRow.vue'
 
 const props = defineProps<{ character: Character; portraitIndex: number }>()
 
-const { lang, t, tr } = useI18n()
+const { t, tr, link, wikiName } = useI18n()
 const { byId } = useGame()
 
 const house = computed(() => (props.character.house ? houseById.get(props.character.house) : undefined))
@@ -81,7 +81,7 @@ const otherPortraits = computed(() => allPortraits(props.character).filter((_, i
       </figure>
     </div>
 
-    <a class="wiki" :href="character.wiki[lang]" target="_blank" rel="noopener">{{ t('reveal.wiki') }} ↗</a>
+    <a class="wiki" :href="link(character.wiki)" target="_blank" rel="noopener">{{ t('reveal.wiki', { site: wikiName(link(character.wiki)) }) }} ↗</a>
   </article>
 </template>
 

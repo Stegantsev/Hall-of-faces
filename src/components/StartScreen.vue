@@ -141,12 +141,27 @@ h1 {
     gap: 16px;
   }
 
-  .rules {
-    margin-top: 8px;
+  /* Small enough that the longest titles (es "Salón de los Rostros", mk) stay on one line at 375px wide,
+     with room to spare for Safari's slightly wider glyphs. */
+  h1 {
+    font-size: 34px;
   }
 
+  /* One line in every language (ru and mk wrap at the full size). */
+  .rules {
+    margin-top: 8px;
+    font-size: 15px;
+  }
+
+  /* A narrower rank column gives the descriptions room, so longer languages (es, pt-BR, mk) wrap less. */
   .level {
-    padding: 12px 16px;
+    grid-template-columns: 36px 1fr;
+    column-gap: 8px;
+    padding: 12px;
+  }
+
+  .level__rank {
+    font-size: 16px;
   }
 }
 
@@ -167,21 +182,18 @@ h1 {
     gap: 8px;
   }
 
-  h1 {
-    font-size: 36px;
-  }
-
   .choose {
     font-size: 22px;
     margin-top: 4px;
   }
 
   .level {
-    padding: 8px 16px;
+    padding: 8px 12px;
   }
 
   .level__name {
     font-size: 22px;
+    line-height: 1.2;
   }
 
   .level__desc {

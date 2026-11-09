@@ -2,7 +2,7 @@
 import { version } from '../../package.json'
 import { useI18n } from '../i18n/useI18n'
 
-const { t } = useI18n()
+const { t, wikis } = useI18n()
 
 // Hidden admin entrance, like Android's "tap build number" developer mode:
 // seven quick taps on the version open the admin table.
@@ -49,9 +49,8 @@ function onVersionTap() {
       <h2>{{ t('credits.sources') }}</h2>
       <p>{{ t('credits.sourcesText') }}</p>
       <ul>
-        <li><a href="https://7kingdoms.ru" target="_blank" rel="noopener">7kingdoms.ru</a></li>
-        <li>
-          <a href="https://awoiaf.westeros.org" target="_blank" rel="noopener">A Wiki of Ice and Fire</a>
+        <li v-for="w in wikis()" :key="w.home">
+          <a :href="w.home" target="_blank" rel="noopener">{{ w.name }}</a>
         </li>
       </ul>
     </section>

@@ -7,7 +7,7 @@ import { useGame } from '../game/useGame'
 import { useI18n } from '../i18n/useI18n'
 import PortraitFrame from './PortraitFrame.vue'
 
-const { lang, t, tr } = useI18n()
+const { t, tr, link } = useI18n()
 const { state, verdict, byId, restart, toMenu } = useGame()
 
 // Ladder characters may come from any level, so look them up in the whole DB.
@@ -43,7 +43,7 @@ const met = computed(() =>
     <h2 class="met-title">{{ t('result.met') }}</h2>
     <ul class="met">
       <li v-for="{ c, portrait } in met" :key="c.id">
-        <a :href="c.wiki[lang]" target="_blank" rel="noopener">
+        <a :href="link(c.wiki)" target="_blank" rel="noopener">
           <img :src="assetUrl(portrait.src)" :alt="tr(c.name)" loading="lazy" />
           <span>{{ tr(c.name) }}</span>
         </a>
