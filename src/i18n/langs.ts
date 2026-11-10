@@ -1,6 +1,6 @@
 import type { I18nText } from '../data/schema'
 
-export const LANGS = ['en', 'ru', 'mk', 'es', 'pt-BR', 'de'] as const
+export const LANGS = ['en', 'ru', 'mk', 'es', 'pt-BR', 'de', 'fr', 'it', 'pl'] as const
 export type Lang = (typeof LANGS)[number]
 
 /** Languages written straight into the game data as `{ ru, en }`; the rest live in locales/<lang>.json. */
@@ -15,6 +15,9 @@ export const LANG_NAMES: Record<Lang, string> = {
   es: 'Español',
   'pt-BR': 'Português (Brasil)',
   de: 'Deutsch',
+  fr: 'Français',
+  it: 'Italiano',
+  pl: 'Polski',
 }
 
 export function isLang(v: unknown): v is Lang {
@@ -31,6 +34,8 @@ export const WIKIS: Record<string, { name: string; short?: string; home: string 
   'awoiaf.westeros.org': { name: 'A Wiki of Ice and Fire', short: 'AWOIAF', home: 'https://awoiaf.westeros.org' },
   'hieloyfuego.fandom.com': { name: 'Hielo y Fuego', home: 'https://hieloyfuego.fandom.com' },
   'wiki.geloefogo.com': { name: 'Gelo e Fogo', home: 'https://wiki.geloefogo.com' },
+  'iltronodispade.fandom.com': { name: 'Il Trono di Spade Wiki', home: 'https://iltronodispade.fandom.com/it/wiki/' },
+  'gameofthrones.fandom.com': { name: 'Gra o tron Wiki', home: 'https://gameofthrones.fandom.com/pl/wiki/' },
   'eisundfeuer.fandom.com': { name: 'Das Lied von Eis und Feuer Wiki', short: 'Eis und Feuer Wiki', home: 'https://eisundfeuer.fandom.com/de/wiki/' },
 }
 
@@ -42,6 +47,8 @@ export const LANG_WIKI: Partial<Record<Lang, string>> = {
   es: 'hieloyfuego.fandom.com',
   'pt-BR': 'wiki.geloefogo.com',
   de: 'eisundfeuer.fandom.com',
+  it: 'iltronodispade.fandom.com',
+  pl: 'gameofthrones.fandom.com',
 }
 
 /** The wiki's short name for a link, e.g. "AWOIAF" or "Hielo y Fuego"; the bare host for unknown sites. */
