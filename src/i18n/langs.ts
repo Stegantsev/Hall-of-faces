@@ -1,6 +1,8 @@
 import type { I18nText } from '../data/schema'
 
-export const LANGS = ['en', 'ru', 'mk', 'es', 'pt-BR', 'de', 'fr', 'it', 'pl'] as const
+// Alphabetical by each language's own name, Cyrillic ones by their Latin spelling
+// (Makedonski, Russkij), as the switcher lists them.
+export const LANGS = ['de', 'en', 'es', 'fr', 'it', 'mk', 'pl', 'pt-BR', 'ru'] as const
 export type Lang = (typeof LANGS)[number]
 
 /** Languages written straight into the game data as `{ ru, en }`; the rest live in locales/<lang>.json. */
@@ -9,15 +11,15 @@ export const BASE_LANGS: readonly BaseLang[] = ['ru', 'en']
 
 /** Each language's name in that language, for the switcher. */
 export const LANG_NAMES: Record<Lang, string> = {
-  en: 'English',
-  ru: 'Русский',
-  mk: 'Македонски',
-  es: 'Español',
-  'pt-BR': 'Português (Brasil)',
   de: 'Deutsch',
+  en: 'English',
+  es: 'Español',
   fr: 'Français',
   it: 'Italiano',
+  mk: 'Македонски',
   pl: 'Polski',
+  'pt-BR': 'Português (Brasil)',
+  ru: 'Русский',
 }
 
 export function isLang(v: unknown): v is Lang {
