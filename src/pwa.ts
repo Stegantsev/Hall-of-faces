@@ -25,10 +25,14 @@ const installed = ref(isStandalone())
  * Registers the service worker (production only) and keeps the manifest link in the game's language.
  */
 export function initPwa() {
-  window.addEventListener('beforeinstallprompt', (e) => {
-    e.preventDefault() // Ours is the button on the start screen, not the browser's mini-infobar.
-    deferredPrompt.value = e as BeforeInstallPromptEvent
-  })
+  // Desktops get no install button (see useInstall), so leave the event to the browser there:
+  // intercepting it would only log "Banner not shown" each time a language switch swaps the manifest.
+  if (isTouch) {
+    window.addEventListener('beforeinstallprompt', (e) => {
+      e.preventDefault() // Ours is the button on the start screen, not the browser's mini-infobar.
+      deferredPrompt.value = e as BeforeInstallPromptEvent
+    })
+  }
   window.addEventListener('appinstalled', () => {
     installed.value = true
     deferredPrompt.value = null

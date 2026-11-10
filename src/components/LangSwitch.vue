@@ -16,7 +16,7 @@ function onChange(e: Event) {
       <span class="code">{{ lang.toUpperCase() }}</span>
       <span class="caret">▾</span>
     </span>
-    <select :value="lang" aria-label="Language" @change="onChange">
+    <select :value="lang" name="lang" aria-label="Language" @change="onChange">
       <option v-for="l in LANGS" :key="l" :value="l" :lang="l">{{ LANG_NAMES[l] }}</option>
     </select>
   </label>

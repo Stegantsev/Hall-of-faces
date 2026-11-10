@@ -101,7 +101,7 @@ const ariaSort = (key: string) =>
       <h1>Персонажи</h1>
       <span class="count">{{ rows.length }} из {{ characters.length }}</span>
 
-      <input v-model="search" class="search" type="search" placeholder="Поиск по всем полям…" aria-label="Поиск" />
+      <input v-model="search" class="search" type="search" name="search" placeholder="Поиск по всем полям…" aria-label="Поиск" />
 
       <button v-if="activeFilters" type="button" class="chip" @click="resetFilters">
         Сбросить фильтры ({{ activeFilters }})
@@ -116,7 +116,7 @@ const ariaSort = (key: string) =>
             <button type="button" @click="setAllColumns(false)">Минимум</button>
           </div>
           <label v-for="col in COLUMNS" :key="col.key">
-            <input v-model="visible" type="checkbox" :value="col.key" />
+            <input v-model="visible" type="checkbox" name="columns" :value="col.key" />
             {{ col.label }}
           </label>
         </div>
@@ -139,7 +139,7 @@ const ariaSort = (key: string) =>
           </tr>
           <tr class="filters">
             <th v-for="col in shown" :key="col.key" :class="col.kind">
-              <select v-if="col.kind === 'enum'" v-model="filters[col.key]" :aria-label="`Фильтр: ${col.label}`">
+              <select v-if="col.kind === 'enum'" v-model="filters[col.key]" :name="`filter-${col.key}`" :aria-label="`Фильтр: ${col.label}`">
                 <option :value="undefined">все</option>
                 <option :value="NON_EMPTY">заполнено</option>
                 <option :value="EMPTY">пусто</option>
@@ -151,6 +151,7 @@ const ariaSort = (key: string) =>
                 v-else-if="col.kind !== 'image'"
                 v-model="filters[col.key]"
                 type="text"
+                :name="`filter-${col.key}`"
                 :placeholder="col.kind === 'number' ? '>2, <=1, 3' : 'содержит…'"
                 :aria-label="`Фильтр: ${col.label}`"
                 :title="`${EMPTY} — пусто, ${NON_EMPTY} — заполнено`"
