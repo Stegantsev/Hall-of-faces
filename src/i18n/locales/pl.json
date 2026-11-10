@@ -280,8 +280,8 @@
       "text": "Dowodził zwiadowcami w armii Młodego Wilka."
     },
     "character.drogo.name": {
-      "en": "Drogo",
-      "text": "Drogo"
+      "en": "Khal Drogo",
+      "text": "Khal Drogo"
     },
     "character.drogo.title": {
       "en": "Khalakka; Khal",
@@ -2824,8 +2824,8 @@
       "text": "Spotkał Brienne w Szeptach wraz z Pygiem i Timeonem."
     },
     "character.utt.name": {
-      "en": "Utt",
-      "text": "Utt"
+      "en": "Septon Utt",
+      "text": "Septon Utt"
     },
     "character.utt.title": {
       "en": "Septon (formerly); Lieutenant",
@@ -3088,10 +3088,6 @@
       "text": "Walczył w Wojnie Dziewięciogroszowych Królów jeszcze jako nastolatek."
     },
     "character.hallyne.name": {
-      "en": "Hallyne",
-      "text": "Hallyne"
-    },
-    "character.hallyne.nickname": {
       "en": "Hallyne the Pyromancer",
       "text": "Hallyne Piromanta"
     },
@@ -3284,8 +3280,8 @@
       "text": "Wymaga od uczniów porzucenia dawnej tożsamości."
     },
     "character.styr.name": {
-      "en": "Styr",
-      "text": "Styr"
+      "en": "Magnar Styr",
+      "text": "Magnar Styr"
     },
     "character.styr.title": {
       "en": "Magnar of Thenn",
@@ -4112,8 +4108,8 @@
       "text": "Jest prababką Hodora."
     },
     "character.mordane.name": {
-      "en": "Mordane",
-      "text": "Mordane"
+      "en": "Septa Mordane",
+      "text": "Septa Mordane"
     },
     "character.mordane.title": {
       "en": "Septa",
@@ -6712,8 +6708,8 @@
       "text": "Dobrze zna drogi na ich zwykłej trasie."
     },
     "character.meribald.name": {
-      "en": "Meribald",
-      "text": "Meribald"
+      "en": "Septon Meribald",
+      "text": "Septon Meribald"
     },
     "character.meribald.title": {
       "en": "Septon",
@@ -7584,8 +7580,8 @@
       "text": "Opowiedziała pani legendę o pochodzeniu smoków."
     },
     "character.lemore.name": {
-      "en": "Lemore",
-      "text": "Lemore"
+      "en": "Septa Lemore",
+      "text": "Septa Lemore"
     },
     "character.lemore.nickname": {
       "en": "Lady Lemore",
@@ -9000,8 +8996,8 @@
       "text": "Pilnował pojmanego Jona w obozie dzikich."
     },
     "character.sigorn.name": {
-      "en": "Sigorn",
-      "text": "Sigorn"
+      "en": "Magnar Sigorn",
+      "text": "Magnar Sigorn"
     },
     "character.sigorn.title": {
       "en": "Magnar of Thenn",
@@ -9540,8 +9536,8 @@
       "text": "Odmówił wydania chłopca Stannisowi."
     },
     "character.jhaqo.name": {
-      "en": "Jhaqo",
-      "text": "Jhaqo"
+      "en": "Khal Jhaqo",
+      "text": "Khal Jhaqo"
     },
     "character.jhaqo.title": {
       "en": "Khal; Ko (formerly)",

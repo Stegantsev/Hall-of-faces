@@ -280,8 +280,8 @@
       "text": "Il a commandé les éclaireurs de l'armée du Jeune Loup."
     },
     "character.drogo.name": {
-      "en": "Drogo",
-      "text": "Drogo"
+      "en": "Khal Drogo",
+      "text": "Khal Drogo"
     },
     "character.drogo.title": {
       "en": "Khalakka; Khal",
@@ -2824,8 +2824,8 @@
       "text": "Il a rencontré Brienne aux Murmures avec Pyg et Timeon."
     },
     "character.utt.name": {
-      "en": "Utt",
-      "text": "Utt"
+      "en": "Septon Utt",
+      "text": "Septon Utt"
     },
     "character.utt.title": {
       "en": "Septon (formerly); Lieutenant",
@@ -3088,10 +3088,6 @@
       "text": "Il a combattu dans la guerre des Rois à Neuf Sous alors qu'il était encore adolescent."
     },
     "character.hallyne.name": {
-      "en": "Hallyne",
-      "text": "Hallyne"
-    },
-    "character.hallyne.nickname": {
       "en": "Hallyne the Pyromancer",
       "text": "Hallyne le Pyromant"
     },
@@ -3284,8 +3280,8 @@
       "text": "Il exige des élèves qu'ils renoncent à leur ancienne identité."
     },
     "character.styr.name": {
-      "en": "Styr",
-      "text": "Styr"
+      "en": "Magnar Styr",
+      "text": "Magnar Styr"
     },
     "character.styr.title": {
       "en": "Magnar of Thenn",
@@ -4112,8 +4108,8 @@
       "text": "Elle est l'arrière-grand-mère de Hodor."
     },
     "character.mordane.name": {
-      "en": "Mordane",
-      "text": "Mordane"
+      "en": "Septa Mordane",
+      "text": "Septa Mordane"
     },
     "character.mordane.title": {
       "en": "Septa",
@@ -6712,8 +6708,8 @@
       "text": "Il connaît bien les chemins de leur itinéraire habituel."
     },
     "character.meribald.name": {
-      "en": "Meribald",
-      "text": "Meribald"
+      "en": "Septon Meribald",
+      "text": "Septon Meribald"
     },
     "character.meribald.title": {
       "en": "Septon",
@@ -7584,8 +7580,8 @@
       "text": "Elle a raconté à sa maîtresse une légende sur l'origine des dragons."
     },
     "character.lemore.name": {
-      "en": "Lemore",
-      "text": "Lemore"
+      "en": "Septa Lemore",
+      "text": "Septa Lemore"
     },
     "character.lemore.nickname": {
       "en": "Lady Lemore",
@@ -9000,8 +8996,8 @@
       "text": "Il gardait Jon prisonnier dans le camp des sauvageons."
     },
     "character.sigorn.name": {
-      "en": "Sigorn",
-      "text": "Sigorn"
+      "en": "Magnar Sigorn",
+      "text": "Magnar Sigorn"
     },
     "character.sigorn.title": {
       "en": "Magnar of Thenn",
@@ -9540,8 +9536,8 @@
       "text": "Il a refusé de livrer le garçon à Stannis."
     },
     "character.jhaqo.name": {
-      "en": "Jhaqo",
-      "text": "Jhaqo"
+      "en": "Khal Jhaqo",
+      "text": "Khal Jhaqo"
     },
     "character.jhaqo.title": {
       "en": "Khal; Ko (formerly)",

@@ -435,8 +435,8 @@
     "level": "show",
     "race": "dothraki",
     "name": {
-      "ru": "Дрого",
-      "en": "Drogo"
+      "ru": "Кхал Дрого",
+      "en": "Khal Drogo"
     },
     "gender": "m",
     "facts": [
@@ -5673,8 +5673,8 @@
     "level": "fanfic",
     "race": "andal",
     "name": {
-      "ru": "Утт",
-      "en": "Utt"
+      "ru": "Септон Утт",
+      "en": "Septon Utt"
     },
     "gender": "m",
     "facts": [
@@ -6162,8 +6162,8 @@
     "level": "show",
     "race": "andal",
     "name": {
-      "ru": "Галлин",
-      "en": "Hallyne"
+      "ru": "Галлин-пиромант",
+      "en": "Hallyne the Pyromancer"
     },
     "gender": "m",
     "facts": [
@@ -6184,10 +6184,6 @@
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Галлин",
       "en": "https://awoiaf.westeros.org/index.php/Hallyne"
-    },
-    "nickname": {
-      "ru": "Галлин-Пиромант",
-      "en": "Hallyne the Pyromancer"
     },
     "title": {
       "ru": "Мудрость; Великий мастер Гильдии алхимиков; Лорд",
@@ -6584,8 +6580,8 @@
     "level": "show",
     "race": "free_folk",
     "name": {
-      "ru": "Стир",
-      "en": "Styr"
+      "ru": "Магнар Стир",
+      "en": "Magnar Styr"
     },
     "gender": "m",
     "facts": [
@@ -8273,8 +8269,8 @@
     "level": "show",
     "race": "andal",
     "name": {
-      "ru": "Мордейн",
-      "en": "Mordane"
+      "ru": "Септа Мордейн",
+      "en": "Septa Mordane"
     },
     "gender": "f",
     "facts": [
@@ -13432,8 +13428,8 @@
     "level": "book",
     "race": "andal",
     "name": {
-      "ru": "Мерибальд",
-      "en": "Meribald"
+      "ru": "Септон Мерибальд",
+      "en": "Septon Meribald"
     },
     "gender": "m",
     "facts": [
@@ -15164,8 +15160,8 @@
     "level": "book",
     "race": "andal",
     "name": {
-      "ru": "Лемора",
-      "en": "Lemore"
+      "ru": "Септа Лемора",
+      "en": "Septa Lemore"
     },
     "gender": "f",
     "facts": [
@@ -17990,8 +17986,8 @@
     "level": "book",
     "race": "free_folk",
     "name": {
-      "ru": "Сигорн",
-      "en": "Sigorn"
+      "ru": "Магнар Сигорн",
+      "en": "Magnar Sigorn"
     },
     "gender": "m",
     "facts": [
@@ -19057,8 +19053,8 @@
     "level": "fanfic",
     "race": "dothraki",
     "name": {
-      "ru": "Чхако",
-      "en": "Jhaqo"
+      "ru": "Кхал Чхако",
+      "en": "Khal Jhaqo"
     },
     "gender": "m",
     "facts": [

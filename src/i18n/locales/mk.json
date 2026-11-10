@@ -280,8 +280,8 @@
       "text": "Ги предводел извидниците во војската на Младиот Волк."
     },
     "character.drogo.name": {
-      "en": "Drogo",
-      "text": "Дрого"
+      "en": "Khal Drogo",
+      "text": "Кал Дрого"
     },
     "character.drogo.title": {
       "en": "Khalakka; Khal",
@@ -2824,8 +2824,8 @@
       "text": "Ја сретнал Бриен кај Шепотите заедно со Пиг и Тимеон."
     },
     "character.utt.name": {
-      "en": "Utt",
-      "text": "Ат"
+      "en": "Septon Utt",
+      "text": "Септон Ат"
     },
     "character.utt.title": {
       "en": "Septon (formerly); Lieutenant",
@@ -3088,10 +3088,6 @@
       "text": "Се борел во Војната на Деветте Грошови Кралеви уште како тинејџер."
     },
     "character.hallyne.name": {
-      "en": "Hallyne",
-      "text": "Халин"
-    },
-    "character.hallyne.nickname": {
       "en": "Hallyne the Pyromancer",
       "text": "Халин Пиромантот"
     },
@@ -3284,8 +3280,8 @@
       "text": "Бара од учениците да се откажат од поранешниот идентитет."
     },
     "character.styr.name": {
-      "en": "Styr",
-      "text": "Стир"
+      "en": "Magnar Styr",
+      "text": "Магнар Стир"
     },
     "character.styr.title": {
       "en": "Magnar of Thenn",
@@ -4112,8 +4108,8 @@
       "text": "Прабаба е на Ходор."
     },
     "character.mordane.name": {
-      "en": "Mordane",
-      "text": "Мордејн"
+      "en": "Septa Mordane",
+      "text": "Септа Мордејн"
     },
     "character.mordane.title": {
       "en": "Septa",
@@ -6712,8 +6708,8 @@
       "text": "Добро ги познава патиштата долж вообичаената рута."
     },
     "character.meribald.name": {
-      "en": "Meribald",
-      "text": "Мерибалд"
+      "en": "Septon Meribald",
+      "text": "Септон Мерибалд"
     },
     "character.meribald.title": {
       "en": "Septon",
@@ -7584,8 +7580,8 @@
       "text": "Ѝ раскажала на господарката легенда за потеклото на змејовите."
     },
     "character.lemore.name": {
-      "en": "Lemore",
-      "text": "Лемор"
+      "en": "Septa Lemore",
+      "text": "Септа Лемор"
     },
     "character.lemore.nickname": {
       "en": "Lady Lemore",
@@ -9000,8 +8996,8 @@
       "text": "Го чувал заробениот Џон во логорот на Дивјаците."
     },
     "character.sigorn.name": {
-      "en": "Sigorn",
-      "text": "Сигорн"
+      "en": "Magnar Sigorn",
+      "text": "Магнар Сигорн"
     },
     "character.sigorn.title": {
       "en": "Magnar of Thenn",
@@ -9540,8 +9536,8 @@
       "text": "Одбил да му го предаде момчето на Станис."
     },
     "character.jhaqo.name": {
-      "en": "Jhaqo",
-      "text": "Џако"
+      "en": "Khal Jhaqo",
+      "text": "Кал Џако"
     },
     "character.jhaqo.title": {
       "en": "Khal; Ko (formerly)",
