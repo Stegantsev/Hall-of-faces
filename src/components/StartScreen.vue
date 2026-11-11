@@ -4,6 +4,7 @@ import { useGame } from '../game/useGame'
 import { useI18n, type MessageKey } from '../i18n/useI18n'
 import { assetUrl } from '../assets'
 import InstallButton from './InstallButton.vue'
+import ShareButton from './ShareButton.vue'
 
 const { t } = useI18n()
 const { start } = useGame()
@@ -15,6 +16,7 @@ const backdrop = `url('${new URL(assetUrl('backgrounds/hall-of-faces.jpg'), docu
 
 <template>
   <section class="start" :style="{ '--start-bg': backdrop }">
+    <ShareButton />
     <header>
       <p class="eyebrow">{{ t('app.subtitle') }}</p>
       <h1>{{ t('app.title') }}</h1>
