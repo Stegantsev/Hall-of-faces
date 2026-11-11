@@ -99,6 +99,13 @@ img {
   font-size: 16px;
 }
 
+/* Short phones (iPhone SE): half the paragraph's default 1em gap below the subtitle. */
+@media (max-height: 700px) {
+  p.eyebrow {
+    margin-bottom: 0.5em;
+  }
+}
+
 @media (prefers-reduced-motion: reduce) {
   * {
     transition: none !important;
