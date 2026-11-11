@@ -6,8 +6,9 @@ import { allPortraits } from '../data/model'
 import { useGame } from '../game/useGame'
 import { useI18n } from '../i18n/useI18n'
 import PortraitFrame from './PortraitFrame.vue'
+import ShareButton from './ShareButton.vue'
 
-const { t, tr, link } = useI18n()
+const { t, tr, link, lang } = useI18n()
 const { state, verdict, byId, restart, toMenu } = useGame()
 
 // Ladder characters may come from any level, so look them up in the whole DB.
@@ -16,6 +17,12 @@ const caption = computed(() => {
   const step = verdict.value
   return step.fixedCaption ?? step.captions[Math.floor(state.captionSeed * step.captions.length)]
 })
+// The shared link opens the verdict's own page in the current language (r/<lang>/<id>/, built
+// by vite.config.ts), whose preview shows this character's portrait and name in that language.
+const shareText = computed(() =>
+  `${t('share.result', { name: hero.value ? tr(hero.value.name) : verdict.value.characterId })} ${t('share.text')}`,
+)
+
 const met = computed(() =>
   state.questions.map((q) => {
     const c = byId.get(q.answerId)!
@@ -26,6 +33,7 @@ const met = computed(() =>
 
 <template>
   <section class="result">
+    <ShareButton :path="`r/${lang}/${verdict.characterId}/`" :text="shareText" />
     <div class="stage">
       <p class="eyebrow you-are">{{ t('result.youAre') }}</p>
       <h1>{{ hero ? tr(hero.name) : verdict.characterId }}</h1>

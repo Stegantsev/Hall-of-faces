@@ -70,6 +70,7 @@
   "share.button": "Share",
   "share.text": "Guess the characters of A Song of Ice and Fire by their portraits",
   "share.copied": "Link copied",
+  "share.result": "I'm {name}! Who are you?",
   "credits.back": "Back to the game",
   "credits.about": "About the project",
   "credits.aboutText": "Friends, I built this game while learning Vue.js 3, with no ambitions of world domination :)\n\nThe idea goes back some fifteen years, to when the first season came out and I picked up the books. To keep track of all the plot threads, I kept turning to a fan encyclopedia and lingering over the illustrations by TheMico, concise and expressive. They captured the characters from the books far better than the show’s cast, and almost always matched how I pictured the heroes of the saga myself.\n\nNow and then I would quiz my friends like this, and around that time I came up with the idea for this game. But the project kept growing, and only now have I got round to it.",

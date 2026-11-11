@@ -71,6 +71,7 @@
     "share.button": "Condividi",
     "share.text": "Indovina i personaggi delle «Cronache del Ghiaccio e del Fuoco» dai ritratti",
     "share.copied": "Link copiato",
+    "share.result": "Sono {name}! E tu chi sei?",
     "credits.back": "Torna al gioco",
     "credits.about": "Il progetto",
     "credits.aboutText": "Amici, ho creato questo gioco mentre imparavo Vue.js 3, senza ambizioni di conquistare il mondo :)\n\nL'idea risale a una quindicina di anni fa, quando uscì la prima stagione e cominciai a leggere i libri. Per seguire tutti gli intrecci, consultavo spesso un'enciclopedia dei fan e mi soffermavo sulle illustrazioni di TheMico, essenziali ed espressive. Rendevano i personaggi dei libri molto meglio del cast della serie e corrispondevano quasi sempre a come immaginavo io gli eroi della saga.\n\nOgni tanto mettevo alla prova i miei amici in questo modo, e fu allora che mi venne l'idea del gioco. Ma il progetto continuava a crescere, e solo adesso sono riuscito a realizzarlo.",

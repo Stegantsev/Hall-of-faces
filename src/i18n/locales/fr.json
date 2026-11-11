@@ -71,6 +71,7 @@
     "share.button": "Partager",
     "share.text": "Devine les personnages du « Trône de fer » d'après leurs portraits",
     "share.copied": "Lien copié",
+    "share.result": "Je suis {name} ! Et toi, qui es-tu ?",
     "credits.back": "Retour au jeu",
     "credits.about": "À propos du projet",
     "credits.aboutText": "Les amis, j'ai créé ce jeu en apprenant Vue.js 3, sans ambition de conquérir le monde :)\n\nL'idée remonte à une quinzaine d'années, quand la première saison est sortie et que je me suis plongé dans les livres. Pour suivre tous les fils de l'intrigue, je consultais sans cesse une encyclopédie de fans et m'attardais sur les illustrations de TheMico, sobres et expressives. Elles saisissaient les personnages des livres bien mieux que les acteurs de la série et correspondaient presque toujours à l'image que je me faisais des héros de la saga.\n\nDe temps en temps, je faisais deviner ces personnages à mes amis, et c'est à cette époque que l'idée du jeu m'est venue. Mais le projet ne cessait de prendre de l'ampleur, et ce n'est que maintenant que j'ai enfin trouvé le temps de m'y mettre.",

@@ -71,6 +71,7 @@
     "share.button": "Teilen",
     "share.text": "Errate die Figuren aus „Das Lied von Eis und Feuer“ anhand ihrer Porträts",
     "share.copied": "Link kopiert",
+    "share.result": "Ich bin {name}! Und wer bist du?",
     "credits.back": "Zurück zum Spiel",
     "credits.about": "Über das Projekt",
     "credits.aboutText": "Freunde, ich habe dieses Spiel gebaut, während ich Vue.js 3 gelernt habe, ganz ohne Weltherrschaftspläne :)\n\nDie Idee geht etwa fünfzehn Jahre zurück, als die erste Staffel erschien und ich zu den Büchern griff. Um bei all den Handlungssträngen den Überblick zu behalten, schlug ich immer wieder in einer Fan-Enzyklopädie nach und blieb bei den knappen, ausdrucksstarken Illustrationen von TheMico hängen. Sie trafen die Buchfiguren viel besser als die Besetzung der Serie und entsprachen fast immer meiner eigenen Vorstellung von den Helden der Saga.\n\nAb und zu ließ ich meine Freunde auf diese Weise raten, und ungefähr damals entstand die Idee zu diesem Spiel. Aber das Projekt wurde immer größer, und erst jetzt bin ich dazu gekommen.",

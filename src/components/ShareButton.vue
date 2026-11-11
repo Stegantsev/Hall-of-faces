@@ -2,6 +2,13 @@
 import { ref } from 'vue'
 import { useI18n } from '../i18n/useI18n'
 
+const props = defineProps<{
+  /** Page to share, relative to the game's address (a result's "r/<lang>/<id>/"); the game itself by default. */
+  path?: string
+  /** Message beside the link; the game's tagline by default. */
+  text?: string
+}>()
+
 const { t } = useI18n()
 const copied = ref(false)
 // Each platform's own Share icon: Apple devices (iPadOS says "Macintosh" too) know the box
@@ -10,13 +17,13 @@ const isApple = /iP(hone|od|ad)|Macintosh/.test(navigator.userAgent)
 let resetTimer: ReturnType<typeof setTimeout> | undefined
 
 // The game's own address without the route, so a friend lands on the start screen.
-function gameUrl() {
-  return location.origin + location.pathname
+function shareUrl() {
+  return location.origin + location.pathname + (props.path ?? '')
 }
 
 async function onClick() {
-  const url = gameUrl()
-  const data: ShareData = { title: t('app.title'), text: t('share.text'), url }
+  const url = shareUrl()
+  const data: ShareData = { title: t('app.title'), text: props.text ?? t('share.text'), url }
 
   // Phones, Safari and Chromium on Windows/macOS open the system share sheet.
   if (navigator.share && (navigator.canShare?.(data) ?? true)) {
