@@ -3,22 +3,24 @@ import { ref } from 'vue'
 import { useI18n } from '../i18n/useI18n'
 
 const props = defineProps<{
-  /** Page to share, relative to the game's address (a result's "r/<lang>/<id>/"); the game itself by default. */
+  /** Page to share, relative to the game's address (a result's "r/<lang>/<id>/"); the game in the current language by default. */
   path?: string
   /** Message beside the link; the game's tagline by default. */
   text?: string
 }>()
 
-const { t } = useI18n()
+const { t, lang } = useI18n()
 const copied = ref(false)
 // Each platform's own Share icon: Apple devices (iPadOS says "Macintosh" too) know the box
 // with an arrow, Android and the rest know Material's three linked dots.
 const isApple = /iP(hone|od|ad)|Macintosh/.test(navigator.userAgent)
 let resetTimer: ReturnType<typeof setTimeout> | undefined
 
-// The game's own address without the route, so a friend lands on the start screen.
+// The game's address without the route, plus the page to share: by default the game's own
+// page in the current language (<lang>/), so the link previews in the sender's language and
+// opens the game in it.
 function shareUrl() {
-  return location.origin + location.pathname + (props.path ?? '')
+  return location.origin + location.pathname + (props.path ?? `${lang.value}/`)
 }
 
 async function onClick() {

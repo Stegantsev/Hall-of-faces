@@ -33,8 +33,8 @@ function manifest(lang: Lang): string {
     icons: [
       { src: 'icons/icon-192.png', sizes: '192x192', type: 'image/png' },
       { src: 'icons/icon-512.png', sizes: '512x512', type: 'image/png' },
-      // A full-bleed picture with the mask in the middle, so any launcher shape crops it safely.
-      { src: 'icons/icon-512.png', sizes: '512x512', type: 'image/png', purpose: 'maskable' },
+      // The whole picture with the mask well inside the central circle, so any launcher shape crops it safely.
+      { src: 'icons/icon-maskable-512.png', sizes: '512x512', type: 'image/png', purpose: 'maskable' },
     ],
   })
 }
@@ -98,17 +98,25 @@ function uiText(lang: Lang, key: string, params: Record<string, string> = {}): s
   return text.replace(/\{(\w+)\}/g, (_, k: string) => params[k] ?? '')
 }
 
+type StubPage = {
+  lang: Lang
+  /** The page's own path under the site, for og:url ("ru/", "r/ru/<id>/"). */
+  path: string
+  title: string
+  description: string
+  /** Picture path under the site, and what it shows. */
+  image: string
+  imageAlt: string
+}
+
 /**
- * A shared result's page in one language: preview tags with the character's name and picture
- * in that language, and a script that sends a person on to the game.
+ * A page that exists only for link previews: tags in one language, and a script that sends
+ * a person on to the game in that language (?lang=, picked up by src/i18n/useI18n.ts).
  */
-function resultPage(lang: Lang, c: Character): string {
+function stubPage({ lang, path, title, description, image, imageAlt }: StubPage): string {
   const site = siteUrl()
-  const name = nameIn(lang, c)
-  // The same words the result screen shares, so the preview matches the message.
-  const title = escapeHtml(uiText(lang, 'share.result', { name }))
-  const description = escapeHtml(uiText(lang, 'share.text'))
   const game = escapeHtml(uiText(lang, 'app.title'))
+  const back = `${'../'.repeat(path.split('/').filter(Boolean).length)}?lang=${lang}`
   // The redirect is JS only: crawlers don't run it and read the tags; a meta refresh some would follow.
   return `<!doctype html>
 <html lang="${lang}">
@@ -116,26 +124,75 @@ function resultPage(lang: Lang, c: Character): string {
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="robots" content="noindex" />
-    <title>${title}</title>
-    <meta name="description" content="${description}" />
+    <title>${escapeHtml(title)}</title>
+    <meta name="description" content="${escapeHtml(description)}" />
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="${game}" />
-    <meta property="og:url" content="${site}r/${lang}/${c.id}/" />
-    <meta property="og:title" content="${title}" />
-    <meta property="og:description" content="${description}" />
-    <meta property="og:image" content="${site}og/${lang}/${c.id}.jpg" />
+    <meta property="og:url" content="${site}${path}" />
+    <meta property="og:title" content="${escapeHtml(title)}" />
+    <meta property="og:description" content="${escapeHtml(description)}" />
+    <meta property="og:image" content="${site}${image}" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
-    <meta property="og:image:alt" content="${escapeHtml(name)}" />
+    <meta property="og:image:alt" content="${escapeHtml(imageAlt)}" />
     <meta property="og:locale" content="${OG_LOCALES[lang]}" />
     <meta name="twitter:card" content="summary_large_image" />
-    <script>location.replace('../../../')</script>
+    <script>location.replace('${back}' + location.hash)</script>
   </head>
-  <body style="background: #13100d">
-    <a href="../../../" style="color: #d1a94f">${game}</a>
+  <body style="background: ${BG}">
+    <a href="${back}" style="color: #d1a94f">${game}</a>
   </body>
 </html>
 `
+}
+
+/** A shared result's page: the character's name and picture in that language. */
+function resultPage(lang: Lang, c: Character): string {
+  const name = nameIn(lang, c)
+  return stubPage({
+    lang,
+    path: `r/${lang}/${c.id}/`,
+    // The same words the result screen shares, so the preview matches the message.
+    title: uiText(lang, 'share.result', { name }),
+    description: uiText(lang, 'share.text'),
+    image: `og/${lang}/${c.id}.jpg`,
+    imageAlt: name,
+  })
+}
+
+/** The game shared from the start screen: its name and tagline in that language. */
+function langPage(lang: Lang): string {
+  const { title } = appTexts(lang)
+  return stubPage({
+    lang,
+    path: `${lang}/`,
+    title,
+    description: uiText(lang, 'share.text'),
+    image: 'og-image.jpg',
+    imageAlt: title,
+  })
+}
+
+/**
+ * One page per language (<lang>/index.html), so the game's link previews in the language it
+ * was shared in; the plain address previews in English (index.html).
+ */
+function langPages(): Plugin {
+  return {
+    name: 'lang-pages',
+    configureServer(server) {
+      server.middlewares.use((req, res, next) => {
+        const lang = req.url?.match(/^\/([\w-]+)\/?(?:\?.*)?$/)?.[1]
+        const l = LANGS.find((x) => x === lang)
+        if (!l) return next()
+        res.setHeader('Content-Type', 'text/html; charset=utf-8')
+        res.end(langPage(l))
+      })
+    },
+    generateBundle() {
+      for (const l of LANGS) this.emitFile({ type: 'asset', fileName: `${l}/index.html`, source: langPage(l) })
+    },
+  }
 }
 
 /**
@@ -175,5 +232,5 @@ function resultPages(): Plugin {
 // Relative base so the build works under any Pages path.
 export default defineConfig({
   base: './',
-  plugins: [vue(), webManifests(), resultPages()],
+  plugins: [vue(), webManifests(), langPages(), resultPages()],
 })

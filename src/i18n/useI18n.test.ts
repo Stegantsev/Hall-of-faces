@@ -5,9 +5,29 @@ import { describe, expect, it, vi } from 'vitest'
 await import('vue')
 vi.stubGlobal('document', { documentElement: {}, title: '' })
 vi.stubGlobal('navigator', { languages: ['en'], language: 'en' })
+vi.stubGlobal('location', { search: '' })
 
-const { detectLang } = await import('./useI18n')
+const { detectLang, langFromSearch } = await import('./useI18n')
 const { default: en } = await import('./en.json')
+
+describe('langFromSearch', () => {
+  it('reads the language a shared link asks for', () => {
+    expect(langFromSearch('?lang=ru')).toBe('ru')
+    expect(langFromSearch('?lang=pt-BR')).toBe('pt-BR')
+    expect(langFromSearch('?x=1&lang=de')).toBe('de')
+  })
+
+  it('ignores case in the code', () => {
+    expect(langFromSearch('?lang=pt-br')).toBe('pt-BR')
+    expect(langFromSearch('?lang=RU')).toBe('ru')
+  })
+
+  it('gives nothing for a missing or unknown language', () => {
+    expect(langFromSearch('')).toBeNull()
+    expect(langFromSearch('?lang=')).toBeNull()
+    expect(langFromSearch('?lang=uk')).toBeNull()
+  })
+})
 
 describe('detectLang', () => {
   it('takes the first browser language the game supports', () => {

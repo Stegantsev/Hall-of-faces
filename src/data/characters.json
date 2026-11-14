@@ -2537,8 +2537,7 @@
       "ru": "Силач Бельвас",
       "en": "Strong Belwas; Belwas the Strong"
     },
-    "serves": "targaryen",
-    "house": "targaryen"
+    "serves": "targaryen"
   },
   {
     "id": "tormund",
@@ -4855,7 +4854,6 @@
       }
     ],
     "serves": "targaryen",
-    "house": "targaryen",
     "screen": [
       "got"
     ]
@@ -4934,7 +4932,6 @@
       "en": "https://awoiaf.westeros.org/index.php/Grey_Worm"
     },
     "serves": "daenerys-targaryen",
-    "house": "targaryen",
     "screen": [
       "got"
     ]
@@ -5933,7 +5930,6 @@
       "en": "Magister of the Free City of Pentos"
     },
     "serves": "targaryen",
-    "house": "targaryen",
     "screen": [
       "got"
     ]
@@ -8560,7 +8556,6 @@
       "en": "Ko; Bloodrider of Daenerys Targaryen"
     },
     "serves": "daenerys-targaryen",
-    "house": "targaryen",
     "screen": [
       "got"
     ]
@@ -8598,7 +8593,6 @@
       "en": "Ko; Bloodrider of Daenerys Targaryen"
     },
     "serves": "daenerys-targaryen",
-    "house": "targaryen",
     "screen": [
       "got"
     ]
@@ -8636,7 +8630,6 @@
       "en": "Ko; Bloodrider"
     },
     "serves": "daenerys-targaryen",
-    "house": "targaryen",
     "screen": [
       "got"
     ]
@@ -9232,7 +9225,6 @@
       "en": "https://awoiaf.westeros.org/index.php/Missandei"
     },
     "serves": "daenerys-targaryen",
-    "house": "targaryen",
     "screen": [
       "got"
     ]
@@ -9845,7 +9837,6 @@
       "en": "https://awoiaf.westeros.org/index.php/Jhiqui"
     },
     "serves": "targaryen",
-    "house": "targaryen",
     "screen": [
       "got"
     ]
@@ -9911,7 +9902,6 @@
       "en": "https://awoiaf.westeros.org/index.php/Irri"
     },
     "serves": "targaryen",
-    "house": "targaryen",
     "screen": [
       "got"
     ]
@@ -15150,7 +15140,6 @@
       "en": "https://awoiaf.westeros.org/index.php/Doreah"
     },
     "serves": "targaryen",
-    "house": "targaryen",
     "screen": [
       "got"
     ]

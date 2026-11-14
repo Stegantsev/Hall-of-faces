@@ -84,7 +84,34 @@ export function detectLang(languages: readonly string[] = navigator.languages ??
   return 'en'
 }
 
-const initial = readStored() ?? detectLang()
+/** The language a shared link asks for (?lang=ru, set by the <lang>/ preview pages), if any. */
+export function langFromSearch(search: string): Lang | null {
+  const v = new URLSearchParams(search).get('lang')?.toLowerCase()
+  return LANGS.find((l) => l.toLowerCase() === v) ?? null
+}
+
+/**
+ * A shared link opens the game in the sender's language and keeps it, as if picked in the
+ * switcher; the parameter then leaves the address bar so a reload or a bookmark is clean.
+ */
+function takeLangFromUrl(): Lang | null {
+  const params = new URLSearchParams(location.search)
+  if (!params.has('lang')) return null
+  const l = langFromSearch(location.search)
+  params.delete('lang')
+  const query = params.toString()
+  history.replaceState(history.state, '', location.pathname + (query ? `?${query}` : '') + location.hash)
+  if (l) {
+    try {
+      localStorage.setItem(STORAGE_KEY, l)
+    } catch {
+      // No storage: the language still applies to this visit.
+    }
+  }
+  return l
+}
+
+const initial = takeLangFromUrl() ?? readStored() ?? detectLang()
 // Starts in English if the chosen language still has to be fetched; main.ts waits for it before mounting.
 const lang = ref<Lang>(dictionaries[initial] ? initial : 'en')
 export const i18nReady: Promise<void> = loadLang(initial).then(
