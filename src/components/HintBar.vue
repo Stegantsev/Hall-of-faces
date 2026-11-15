@@ -4,8 +4,8 @@ import { HINT_ICONS, HINT_KINDS, type HintKind } from '../game/engine'
 import { useGame } from '../game/useGame'
 import { useI18n, type MessageKey } from '../i18n/useI18n'
 
-/** A labelled row under the portrait instead of icons on top of it. */
-const props = defineProps<{ row?: boolean }>()
+/** row: a labelled row under the portrait instead of icons on top of it. lit: the hint nudge points here. */
+const props = defineProps<{ row?: boolean; lit?: boolean }>()
 const emit = defineEmits<{ show: [] }>()
 
 const { t } = useI18n()
@@ -63,7 +63,7 @@ onBeforeUnmount(() => {
 </script>
 
 <template>
-  <div ref="root" class="hints" :class="{ hover: canHover, 'hints--row': row }">
+  <div ref="root" class="hints" :class="{ hover: canHover, 'hints--row': row, 'hints--lit': lit }">
     <button
       v-for="kind in HINT_KINDS"
       :key="kind"
@@ -107,7 +107,7 @@ onBeforeUnmount(() => {
   -webkit-tap-highlight-color: transparent;
   -webkit-touch-callout: none;
   user-select: none;
-  transition: background 0.25s ease, border-color 0.25s ease, color 0.25s ease, opacity 0.2s;
+  transition: background 0.25s ease, border-color 0.25s ease, color 0.25s ease, opacity 0.2s, box-shadow 0.6s ease;
 
   &:disabled {
     opacity: 0.35;
@@ -196,5 +196,12 @@ onBeforeUnmount(() => {
     opacity: 1;
     padding: 0;
   }
+}
+
+/* Lit by the hint nudge: a solid gold border (the row's is dashed) and a soft glow around it. */
+.hints--lit .hint:not(:disabled) {
+  border-style: solid;
+  border-color: var(--gold);
+  box-shadow: 0 0 12px color-mix(in srgb, var(--gold) 55%, transparent);
 }
 </style>

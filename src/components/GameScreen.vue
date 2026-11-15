@@ -1,11 +1,11 @@
 <script setup lang="ts">
-import { computed, nextTick, onBeforeUnmount, onMounted, ref } from 'vue'
+import { computed, nextTick, onBeforeUnmount, onMounted, ref, watch } from 'vue'
 import { allPortraits } from '../data/model'
 import { HINTS_PER_GAME } from '../game/engine'
 import { useGame } from '../game/useGame'
 import { useI18n } from '../i18n/useI18n'
-import CoachMarks from './CoachMarks.vue'
 import HintBar from './HintBar.vue'
+import HintNudge from './HintNudge.vue'
 import HomeButton from './HomeButton.vue'
 import HintPanel from './HintPanel.vue'
 import PortraitFrame from './PortraitFrame.vue'
@@ -22,25 +22,46 @@ const isLast = computed(() => state.index === state.questions.length - 1)
 const revealEl = ref<HTMLElement>()
 const panelOpen = ref(false)
 
-// The tour of the card's controls runs once, on the first card of the player's first game.
-const COACH_KEY = 'got-coach-seen'
-function coachSeen() {
+// On the first card of the player's first game, a player who hesitates gets pointed at the hints.
+// Whoever answers or takes a hint first never sees it, and it never comes back either way.
+const NUDGE_KEY = 'got-hint-nudge-seen'
+const NUDGE_DELAY_MS = 6000
+function nudgeSeen() {
   try {
-    return localStorage.getItem(COACH_KEY) === '1'
+    return localStorage.getItem(NUDGE_KEY) === '1'
   } catch {
     return false
   }
 }
-const gameEl = ref<HTMLElement>()
-const coach = ref(state.index === 0 && state.phase !== 'reveal' && !coachSeen())
-function coachDone() {
-  coach.value = false
+function markNudgeSeen() {
   try {
-    localStorage.setItem(COACH_KEY, '1')
+    localStorage.setItem(NUDGE_KEY, '1')
   } catch {
-    // Without storage the tour just shows again next time.
+    // Without storage the nudge may just come again next time.
   }
 }
+const gameEl = ref<HTMLElement>()
+const nudge = ref(false)
+let nudgeTimer: ReturnType<typeof setTimeout> | undefined
+if (state.index === 0 && !revealed.value && !nudgeSeen()) {
+  nudgeTimer = setTimeout(() => {
+    if (revealed.value || panelOpen.value || state.hintsLeft === 0) return
+    nudge.value = true
+    markNudgeSeen()
+  }, NUDGE_DELAY_MS)
+}
+function stopNudge() {
+  if (!nudgeTimer && !nudge.value) return
+  clearTimeout(nudgeTimer)
+  nudgeTimer = undefined
+  nudge.value = false
+  markNudgeSeen()
+}
+watch(
+  () => [revealed.value, state.hintsLeft],
+  () => stopNudge(),
+)
+onBeforeUnmount(() => clearTimeout(nudgeTimer))
 
 // Matches --portrait-ratio and the hint row height plus the gap above it in the styles below.
 const PORTRAIT_RATIO = 425 / 601
@@ -79,7 +100,9 @@ function goNext() {
 <template>
   <section ref="gameEl" class="game">
     <HomeButton />
-    <CoachMarks v-if="coach && gameEl" :root="gameEl" @done="coachDone" />
+    <Transition name="nudge">
+      <HintNudge v-if="nudge && gameEl" :root="gameEl" @done="stopNudge" />
+    </Transition>
     <div class="stage">
       <div class="top">
         <span class="eyebrow" :aria-label="t('game.progress', { n: state.index + 1, total: state.questions.length })">
@@ -102,11 +125,11 @@ function goNext() {
             :state="revealed ? (correct ? 'good' : 'bad') : undefined"
           />
           <template v-if="!revealed">
-            <HintBar v-if="!roomy" class="hint-bar" @show="panelOpen = true" />
+            <HintBar v-if="!roomy" class="hint-bar" :lit="nudge" @show="panelOpen = true" />
             <HintPanel v-model:open="panelOpen" />
           </template>
         </div>
-        <HintBar v-if="!revealed && roomy" row class="hint-row" @show="panelOpen = true" />
+        <HintBar v-if="!revealed && roomy" row class="hint-row" :lit="nudge" @show="panelOpen = true" />
       </div>
 
       <div class="options">
@@ -309,5 +332,20 @@ function goNext() {
   z-index: 5;
   width: 100%;
   box-shadow: 0 0 0 6px var(--bg), 0 -8px 24px rgb(0 0 0 / 0.6);
+}
+
+/* The hint nudge fades in and out instead of popping up over the card. */
+.nudge-enter-active,
+.nudge-leave-active {
+  transition: opacity 0.6s ease;
+}
+
+.nudge-leave-active {
+  transition-duration: 0.3s;
+}
+
+.nudge-enter-from,
+.nudge-leave-to {
+  opacity: 0;
 }
 </style>
