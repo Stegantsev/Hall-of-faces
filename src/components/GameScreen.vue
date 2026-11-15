@@ -4,6 +4,7 @@ import { allPortraits } from '../data/model'
 import { HINTS_PER_GAME } from '../game/engine'
 import { useGame } from '../game/useGame'
 import { useI18n } from '../i18n/useI18n'
+import CoachMarks from './CoachMarks.vue'
 import HintBar from './HintBar.vue'
 import HomeButton from './HomeButton.vue'
 import HintPanel from './HintPanel.vue'
@@ -20,6 +21,26 @@ const isLast = computed(() => state.index === state.questions.length - 1)
 
 const revealEl = ref<HTMLElement>()
 const panelOpen = ref(false)
+
+// The tour of the card's controls runs once, on the first card of the player's first game.
+const COACH_KEY = 'got-coach-seen'
+function coachSeen() {
+  try {
+    return localStorage.getItem(COACH_KEY) === '1'
+  } catch {
+    return false
+  }
+}
+const gameEl = ref<HTMLElement>()
+const coach = ref(state.index === 0 && state.phase !== 'reveal' && !coachSeen())
+function coachDone() {
+  coach.value = false
+  try {
+    localStorage.setItem(COACH_KEY, '1')
+  } catch {
+    // Without storage the tour just shows again next time.
+  }
+}
 
 // Matches --portrait-ratio and the hint row height plus the gap above it in the styles below.
 const PORTRAIT_RATIO = 425 / 601
@@ -56,8 +77,9 @@ function goNext() {
 </script>
 
 <template>
-  <section class="game">
+  <section ref="gameEl" class="game">
     <HomeButton />
+    <CoachMarks v-if="coach && gameEl" :root="gameEl" @done="coachDone" />
     <div class="stage">
       <div class="top">
         <span class="eyebrow" :aria-label="t('game.progress', { n: state.index + 1, total: state.questions.length })">

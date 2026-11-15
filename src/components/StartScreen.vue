@@ -18,7 +18,7 @@ const backdrop = `url('${new URL(assetUrl('backgrounds/hall-of-faces.jpg'), docu
   <section class="start" :style="{ '--start-bg': backdrop }">
     <ShareButton />
     <header>
-      <p class="eyebrow">{{ t('app.subtitle') }}</p>
+      <p class="eyebrow">{{ t('start.tagline') }}</p>
       <h1>{{ t('app.title') }}</h1>
       <p class="rules">{{ t('start.rules') }}</p>
     </header>
@@ -73,8 +73,10 @@ const backdrop = `url('${new URL(assetUrl('backgrounds/hall-of-faces.jpg'), docu
   }
 }
 
+/* The tagline wraps to two lines in most languages: balance them so no single word hangs on the second. */
 .eyebrow {
   margin-top: 0;
+  text-wrap: balance;
 }
 
 h1 {
@@ -150,6 +152,11 @@ h1 {
 @media (max-height: 700px) {
   .start {
     gap: 16px;
+  }
+
+  /* A tighter two-line tagline keeps the longest one (fr) from pushing the links off the screen. */
+  .eyebrow {
+    line-height: 1.25;
   }
 
   /* Small enough that the longest titles (es "Salón de los Rostros", mk) stay on one line at 375px wide,
