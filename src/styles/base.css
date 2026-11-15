@@ -99,6 +99,30 @@ img {
   font-size: 16px;
 }
 
+/* Round icon button in a top corner, the twin of the language pill (share, home). */
+.round-btn {
+  display: grid;
+  place-items: center;
+  width: 44px;
+  height: 44px;
+  padding: 0;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--surface) 90%, transparent);
+  backdrop-filter: blur(6px);
+  color: var(--gold);
+  cursor: pointer;
+
+  &:hover {
+    border-color: var(--gold);
+  }
+
+  &:focus-visible {
+    outline: 2px solid var(--gold);
+    outline-offset: 2px;
+  }
+}
+
 /* Short phones (iPhone SE): half the paragraph's default 1em gap below the subtitle. */
 @media (max-height: 700px) {
   p.eyebrow {

@@ -5,11 +5,14 @@ import { characterById } from '../data'
 import { allPortraits } from '../data/model'
 import { useGame } from '../game/useGame'
 import { useI18n } from '../i18n/useI18n'
+import HomeButton from './HomeButton.vue'
 import PortraitFrame from './PortraitFrame.vue'
-import ShareButton from './ShareButton.vue'
+import { useShare } from '../share'
+import ShareIcon from './ShareIcon.vue'
 
 const { t, tr, link, lang } = useI18n()
 const { state, verdict, byId, restart, toMenu } = useGame()
+const { share, copied } = useShare()
 
 // Ladder characters may come from any level, so look them up in the whole DB.
 const hero = computed(() => characterById.get(verdict.value.characterId))
@@ -17,6 +20,7 @@ const caption = computed(() => {
   const step = verdict.value
   return step.fixedCaption ?? step.captions[Math.floor(state.captionSeed * step.captions.length)]
 })
+// Sharing is the main action here, so it is the big button under the verdict, where the thumb is.
 // The shared link opens the verdict's own page in the current language (r/<lang>/<id>/, built
 // by vite.config.ts), whose preview shows this character's portrait and name in that language.
 const shareText = computed(() =>
@@ -33,7 +37,7 @@ const met = computed(() =>
 
 <template>
   <section class="result">
-    <ShareButton :path="`r/${lang}/${verdict.characterId}/`" :text="shareText" />
+    <HomeButton />
     <div class="stage">
       <p class="eyebrow you-are">{{ t('result.youAre') }}</p>
       <h1>{{ hero ? tr(hero.name) : verdict.characterId }}</h1>
@@ -43,8 +47,15 @@ const met = computed(() =>
       <p class="caption">{{ tr(caption) }}</p>
 
       <div class="actions">
-        <button type="button" class="btn btn--primary" @click="restart">{{ t('result.again') }}</button>
-        <button type="button" class="btn" @click="toMenu">{{ t('result.menu') }}</button>
+        <button type="button" class="btn btn--primary share" @click="share(`r/${lang}/${verdict.characterId}/`, shareText)">
+          <ShareIcon />
+          <!-- Where the link is copied instead of shared, the button says so for a moment. -->
+          <span role="status">{{ copied ? t('share.copied') : t('share.button') }}</span>
+        </button>
+        <div class="actions__more">
+          <button type="button" class="btn" @click="restart">{{ t('result.again') }}</button>
+          <button type="button" class="btn" @click="toMenu">{{ t('result.menu') }}</button>
+        </div>
       </div>
     </div>
 
@@ -129,10 +140,28 @@ h1 {
 
 .actions {
   display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.share {
+  min-width: 220px;
+}
+
+/* The two secondary actions share one row, so they are a little smaller than the share button. */
+.actions__more {
+  display: flex;
   flex-wrap: wrap;
   justify-content: center;
   gap: 10px;
-  margin-top: 10px;
+
+  & .btn {
+    padding-inline: 16px;
+    font-size: 17px;
+    white-space: nowrap;
+  }
 }
 
 /* On phones the buttons sit at the bottom, and the verdict is centred in the space above them. */

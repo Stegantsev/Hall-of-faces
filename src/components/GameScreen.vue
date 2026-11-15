@@ -5,6 +5,7 @@ import { HINTS_PER_GAME } from '../game/engine'
 import { useGame } from '../game/useGame'
 import { useI18n } from '../i18n/useI18n'
 import HintBar from './HintBar.vue'
+import HomeButton from './HomeButton.vue'
 import HintPanel from './HintPanel.vue'
 import PortraitFrame from './PortraitFrame.vue'
 import RevealCard from './RevealCard.vue'
@@ -56,6 +57,7 @@ function goNext() {
 
 <template>
   <section class="game">
+    <HomeButton />
     <div class="stage">
       <div class="top">
         <span class="eyebrow" :aria-label="t('game.progress', { n: state.index + 1, total: state.questions.length })">
@@ -134,10 +136,12 @@ function goNext() {
   gap: 10px;
   flex: none;
   min-height: 42px;
-  padding-right: 100px;
+  /* Clear of the home button and the language switch, and centred between them like the result
+     screen's "You are". */
+  padding-inline: 100px;
 
   @media (min-width: 780px) {
-    padding-right: 0;
+    padding-inline: 0;
   }
 }
 
