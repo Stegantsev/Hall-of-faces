@@ -51,7 +51,9 @@ async function cacheFirst(req) {
   const hit = await cache.match(req)
   if (hit) return hit
   const res = await fetch(req)
-  if (res.ok) cache.put(req, res.clone())
+  // A host that answers a missing file with its HTML page (SPA fallback) must not get it kept as a chunk forever.
+  const html = res.headers.get('content-type')?.includes('text/html')
+  if (res.ok && !html) cache.put(req, res.clone())
   return res
 }
 

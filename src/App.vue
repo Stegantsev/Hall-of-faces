@@ -5,10 +5,50 @@ import StartScreen from './components/StartScreen.vue'
 import GameScreen from './components/GameScreen.vue'
 import ResultScreen from './components/ResultScreen.vue'
 import CreditsPage from './components/CreditsPage.vue'
+import AdminLoadError from './admin/AdminLoadError.vue'
 import { useGame } from './game/useGame'
 
-// Loaded on demand so the admin table stays out of the game bundle.
-const AdminPage = defineAsyncComponent(() => import('./admin/AdminPage.vue'))
+/** sessionStorage: set while a reload for a missing admin chunk is under way, so it's tried only once. */
+const ADMIN_RELOAD_KEY = 'admin-chunk-reload'
+
+/** sessionStorage that may be blocked: reads as "already tried", so a blocked store never loops. */
+const reloadTried = () => {
+  try {
+    return sessionStorage.getItem(ADMIN_RELOAD_KEY) !== null
+  } catch {
+    return true
+  }
+}
+const markReload = (on: boolean) => {
+  try {
+    if (on) sessionStorage.setItem(ADMIN_RELOAD_KEY, '1')
+    else sessionStorage.removeItem(ADMIN_RELOAD_KEY)
+  } catch {
+    // Storage blocked: nothing to remember.
+  }
+}
+
+// Loaded on demand so the admin table stays out of the game bundle. A page opened before a deploy
+// asks for a chunk name that no longer exists: reloading once fetches the new page and its chunks.
+// If that doesn't help (offline), the error screen offers a retry instead of a blank page.
+const AdminPage = defineAsyncComponent({
+  loader: () =>
+    import('./admin/AdminPage.vue').then((m) => {
+      markReload(false)
+      return m
+    }),
+  errorComponent: AdminLoadError,
+  onError(error, _retry, fail) {
+    console.error(error)
+    if (navigator.onLine && !reloadTried()) {
+      markReload(true)
+      location.reload()
+    } else {
+      markReload(false)
+      fail()
+    }
+  },
+})
 
 const { state } = useGame()
 
