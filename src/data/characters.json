@@ -22,7 +22,7 @@
         "en": "Overseas, he concealed his past by posing as a merchant’s servant."
       }
     ],
-    "portrait": "portraits/barristan-selmy.jpg",
+    "portrait": "portraits/barristan-selmy.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Барристан_Селми",
       "en": "https://awoiaf.westeros.org/index.php/Barristan_Selmy"
@@ -53,7 +53,7 @@
     ],
     "extraPortraits": [
       {
-        "src": "portraits/barristan-selmy--2.jpg"
+        "src": "portraits/barristan-selmy--2.webp"
       }
     ]
   },
@@ -94,7 +94,7 @@
         "en": "He follows the old gods and favors the godswood for prayer."
       }
     ],
-    "portrait": "portraits/eddard-stark.jpg",
+    "portrait": "portraits/eddard-stark.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Эддард_Старк",
       "en": "https://awoiaf.westeros.org/index.php/Eddard_Stark"
@@ -133,7 +133,7 @@
         "en": "He fears fire because of his elder brother’s cruelty during childhood."
       }
     ],
-    "portrait": "portraits/sandor-clegane.jpg",
+    "portrait": "portraits/sandor-clegane.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Сандор_Клиган",
       "en": "https://awoiaf.westeros.org/index.php/Sandor_Clegane"
@@ -194,7 +194,7 @@
         "en": "He served in the capital as acting Hand and later managed the royal treasury."
       }
     ],
-    "portrait": "portraits/tyrion-lannister.jpg",
+    "portrait": "portraits/tyrion-lannister.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Тирион_Ланнистер",
       "en": "https://awoiaf.westeros.org/index.php/Tyrion_Lannister"
@@ -219,7 +219,7 @@
     ],
     "extraPortraits": [
       {
-        "src": "portraits/tyrion-lannister--2.jpg"
+        "src": "portraits/tyrion-lannister--2.webp"
       }
     ]
   },
@@ -259,7 +259,7 @@
         "en": "She speaks Valyrian and learns Dothraki after her marriage."
       }
     ],
-    "portrait": "portraits/daenerys-targaryen.jpg",
+    "portrait": "portraits/daenerys-targaryen.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Дейнерис_Таргариен",
       "en": "https://awoiaf.westeros.org/index.php/Daenerys_Targaryen"
@@ -299,7 +299,7 @@
         "en": "He seldom leaves his lands except for campaigns and tournaments."
       }
     ],
-    "portrait": "portraits/gregor-clegane.jpg",
+    "portrait": "portraits/gregor-clegane.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Григор_Клиган",
       "en": "https://awoiaf.westeros.org/index.php/Gregor_Clegane"
@@ -348,7 +348,7 @@
         "en": "The lords of the Reach supported his claim to the crown."
       }
     ],
-    "portrait": "portraits/renly-baratheon.jpg",
+    "portrait": "portraits/renly-baratheon.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Ренли_Баратеон",
       "en": "https://awoiaf.westeros.org/index.php/Renly_Baratheon"
@@ -400,7 +400,7 @@
         "en": "He led the scouts in the Young Wolf’s army."
       }
     ],
-    "portrait": "portraits/brynden-tully.jpg",
+    "portrait": "portraits/brynden-tully.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Бринден_Талли",
       "en": "https://awoiaf.westeros.org/index.php/Brynden_Tully"
@@ -453,7 +453,7 @@
         "en": "His father was Khal Bharbo."
       }
     ],
-    "portrait": "portraits/drogo.jpg",
+    "portrait": "portraits/drogo.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Дрого",
       "en": "https://awoiaf.westeros.org/index.php/Drogo"
@@ -489,7 +489,7 @@
         "en": "His son acquired a nickname that distinguishes the younger man from his father."
       }
     ],
-    "portrait": "portraits/greatjon-umber.jpg",
+    "portrait": "portraits/greatjon-umber.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Джон_Амбер",
       "en": "https://awoiaf.westeros.org/index.php/Jon_Umber_(Greatjon)"
@@ -541,7 +541,7 @@
         "en": "He worships the Lord of Light alongside Thoros."
       }
     ],
-    "portrait": "portraits/beric-dondarrion.jpg",
+    "portrait": "portraits/beric-dondarrion.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Берик_Дондаррион",
       "en": "https://awoiaf.westeros.org/index.php/Beric_Dondarrion"
@@ -593,7 +593,7 @@
         "en": "He shares a warg bond with his direwolf."
       }
     ],
-    "portrait": "portraits/jon-snow.jpg",
+    "portrait": "portraits/jon-snow.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Джон_Сноу",
       "en": "https://awoiaf.westeros.org/index.php/Jon_Snow"
@@ -640,7 +640,7 @@
         "en": "His royal duties deprived him of the right to inherit his family’s castle."
       }
     ],
-    "portrait": "portraits/jaime-lannister.jpg",
+    "portrait": "portraits/jaime-lannister.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Джейме_Ланнистер",
       "en": "https://awoiaf.westeros.org/index.php/Jaime_Lannister"
@@ -670,7 +670,7 @@
     ],
     "extraPortraits": [
       {
-        "src": "portraits/jaime-lannister--2.jpg"
+        "src": "portraits/jaime-lannister--2.webp"
       }
     ]
   },
@@ -697,7 +697,7 @@
         "en": "He was married to Princess Elia of Dorne."
       }
     ],
-    "portrait": "portraits/rhaegar-targaryen.jpg",
+    "portrait": "portraits/rhaegar-targaryen.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Рейгар_Таргариен",
       "en": "https://awoiaf.westeros.org/index.php/Rhaegar_Targaryen"
@@ -745,7 +745,7 @@
         "en": "He never remarried after his wife’s death."
       }
     ],
-    "portrait": "portraits/tywin-lannister.jpg",
+    "portrait": "portraits/tywin-lannister.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Тайвин_Ланнистер",
       "en": "https://awoiaf.westeros.org/index.php/Tywin_Lannister"
@@ -797,7 +797,7 @@
         "en": "He chose a bride whose weight made the promised dowry especially profitable."
       }
     ],
-    "portrait": "portraits/roose-bolton.jpg",
+    "portrait": "portraits/roose-bolton.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Русе_Болтон",
       "en": "https://awoiaf.westeros.org/index.php/Roose_Bolton"
@@ -849,7 +849,7 @@
         "en": "He demanded a marriage alliance in exchange for letting the northern army cross."
       }
     ],
-    "portrait": "portraits/walder-frey.jpg",
+    "portrait": "portraits/walder-frey.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Уолдер_Фрей",
       "en": "https://awoiaf.westeros.org/index.php/Walder_Frey"
@@ -897,7 +897,7 @@
         "en": "He commanded the Rainbow Guard."
       }
     ],
-    "portrait": "portraits/loras-tyrell.jpg",
+    "portrait": "portraits/loras-tyrell.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Лорас_Тирелл",
       "en": "https://awoiaf.westeros.org/index.php/Loras_Tyrell"
@@ -957,7 +957,7 @@
         "en": "His eight bastard daughters are known as the Sand Snakes."
       }
     ],
-    "portrait": "portraits/oberyn-martell.jpg",
+    "portrait": "portraits/oberyn-martell.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Оберин_Мартелл",
       "en": "https://awoiaf.westeros.org/index.php/Oberyn_Martell"
@@ -1009,7 +1009,7 @@
         "en": "As a youth he challenged a rival to a duel over his love for Catelyn."
       }
     ],
-    "portrait": "portraits/petyr-baelish.jpg",
+    "portrait": "portraits/petyr-baelish.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Петир_Бейлиш",
       "en": "https://awoiaf.westeros.org/index.php/Petyr_Baelish"
@@ -1061,7 +1061,7 @@
         "en": "His marriage to Cersei secured an alliance with the wealthiest western house."
       }
     ],
-    "portrait": "portraits/robert-baratheon.jpg",
+    "portrait": "portraits/robert-baratheon.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Роберт_Баратеон",
       "en": "https://awoiaf.westeros.org/index.php/Robert_Baratheon"
@@ -1087,7 +1087,7 @@
     ],
     "extraPortraits": [
       {
-        "src": "portraits/robert-baratheon--2.jpg"
+        "src": "portraits/robert-baratheon--2.webp"
       }
     ]
   },
@@ -1114,7 +1114,7 @@
         "en": "He commanded the ship Sea Bitch."
       }
     ],
-    "portrait": "portraits/theon-greyjoy.jpg",
+    "portrait": "portraits/theon-greyjoy.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Теон_Грейджой",
       "en": "https://awoiaf.westeros.org/index.php/Theon_Greyjoy"
@@ -1140,7 +1140,7 @@
     ],
     "extraPortraits": [
       {
-        "src": "portraits/theon-greyjoy--2.jpg"
+        "src": "portraits/theon-greyjoy--2.webp"
       }
     ]
   },
@@ -1167,7 +1167,7 @@
         "en": "His second wife was Lynesse of Oldtown."
       }
     ],
-    "portrait": "portraits/jorah-mormont.jpg",
+    "portrait": "portraits/jorah-mormont.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Джорах_Мормонт",
       "en": "https://awoiaf.westeros.org/index.php/Jorah_Mormont"
@@ -1220,7 +1220,7 @@
         "en": "Robb sent her to find Howland Reed in the Neck."
       }
     ],
-    "portrait": "portraits/maege-mormont.jpg",
+    "portrait": "portraits/maege-mormont.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Мейдж_Мормонт",
       "en": "https://awoiaf.westeros.org/index.php/Maege_Mormont"
@@ -1268,7 +1268,7 @@
         "en": "His guiding rule is to serve, obey, and protect."
       }
     ],
-    "portrait": "portraits/areo-hotah.jpg",
+    "portrait": "portraits/areo-hotah.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Арео_Хотах",
       "en": "https://awoiaf.westeros.org/index.php/Areo_Hotah"
@@ -1316,7 +1316,7 @@
         "en": "During the islanders’ rebellion, he took part in the strike against the Lannisport fleet."
       }
     ],
-    "portrait": "portraits/victarion-greyjoy.jpg",
+    "portrait": "portraits/victarion-greyjoy.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Виктарион_Грейджой",
       "en": "https://awoiaf.westeros.org/index.php/Victarion_Greyjoy"
@@ -1352,7 +1352,7 @@
         "en": "At the kingsmoot he promised the islanders conquests with dragons."
       }
     ],
-    "portrait": "portraits/euron-greyjoy.jpg",
+    "portrait": "portraits/euron-greyjoy.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Эурон_Грейджой",
       "en": "https://awoiaf.westeros.org/index.php/Euron_Greyjoy"
@@ -1404,7 +1404,7 @@
         "en": "He gave a girl an iron coin connected with Braavos."
       }
     ],
-    "portrait": "portraits/jaqen-h-ghar.jpg",
+    "portrait": "portraits/jaqen-h-ghar.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Якен_Хгар",
       "en": "https://awoiaf.westeros.org/index.php/Jaqen_H%27ghar"
@@ -1442,7 +1442,7 @@
         "en": "When fighting outlaws, he won commoners’ support through fair treatment."
       }
     ],
-    "portrait": "portraits/arthur-dayne.jpg",
+    "portrait": "portraits/arthur-dayne.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Эртур_Дейн",
       "en": "https://awoiaf.westeros.org/index.php/Arthur_Dayne"
@@ -1490,7 +1490,7 @@
         "en": "He guarded the tower of joy with two other Kingsguard knights."
       }
     ],
-    "portrait": "portraits/gerold-hightower.jpg",
+    "portrait": "portraits/gerold-hightower.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Герольд_Хайтауэр",
       "en": "https://awoiaf.westeros.org/index.php/Gerold_Hightower"
@@ -1542,7 +1542,7 @@
         "en": "He guarded the tower of joy with Arthur and Gerold."
       }
     ],
-    "portrait": "portraits/oswell-whent.jpg",
+    "portrait": "portraits/oswell-whent.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Освелл_Уэнт",
       "en": "https://awoiaf.westeros.org/index.php/Oswell_Whent"
@@ -1587,7 +1587,7 @@
         "en": "She traveled to the riverlands to search for a missing girl."
       }
     ],
-    "portrait": "portraits/brienne-of-tarth.jpg",
+    "portrait": "portraits/brienne-of-tarth.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Бриенна_Тарт",
       "en": "https://awoiaf.westeros.org/index.php/Brienne_of_Tarth"
@@ -1636,7 +1636,7 @@
         "en": "He organized a major ranging beyond the Wall."
       }
     ],
-    "portrait": "portraits/jeor-mormont.jpg",
+    "portrait": "portraits/jeor-mormont.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Джиор_Мормонт",
       "en": "https://awoiaf.westeros.org/index.php/Jeor_Mormont"
@@ -1688,7 +1688,7 @@
         "en": "His office is the king’s executioner."
       }
     ],
-    "portrait": "portraits/ilyn-payne.jpg",
+    "portrait": "portraits/ilyn-payne.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Илин_Пейн",
       "en": "https://awoiaf.westeros.org/index.php/Ilyn_Payne"
@@ -1732,7 +1732,7 @@
         "en": "He values hereditary right above personal popularity."
       }
     ],
-    "portrait": "portraits/stannis-baratheon.jpg",
+    "portrait": "portraits/stannis-baratheon.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Станнис_Баратеон",
       "en": "https://awoiaf.westeros.org/index.php/Stannis_Baratheon"
@@ -1784,7 +1784,7 @@
         "en": "She considers Stannis the chosen hero of an ancient prophecy."
       }
     ],
-    "portrait": "portraits/melisandre.jpg",
+    "portrait": "portraits/melisandre.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Мелисандра",
       "en": "https://awoiaf.westeros.org/index.php/Melisandre"
@@ -1822,7 +1822,7 @@
         "en": "He served as castellan of Winterfell after the northern army departed."
       }
     ],
-    "portrait": "portraits/rodrik-cassel.jpg",
+    "portrait": "portraits/rodrik-cassel.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Родрик_Кассель",
       "en": "https://awoiaf.westeros.org/index.php/Rodrik_Cassel"
@@ -1867,7 +1867,7 @@
         "en": "As an adult, he began learning to read with a maester."
       }
     ],
-    "portrait": "portraits/davos-seaworth.jpg",
+    "portrait": "portraits/davos-seaworth.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Давос_Сиворт",
       "en": "https://awoiaf.westeros.org/index.php/Davos_Seaworth"
@@ -1916,7 +1916,7 @@
         "en": "He became fascinated with wildfire and the work of pyromancers."
       }
     ],
-    "portrait": "portraits/aerys-ii-targaryen.jpg",
+    "portrait": "portraits/aerys-ii-targaryen.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Эйрис_II_Таргариен",
       "en": "https://awoiaf.westeros.org/index.php/Aerys_II_Targaryen"
@@ -1964,7 +1964,7 @@
         "en": "He joined Mance’s host as it moved toward the Wall."
       }
     ],
-    "portrait": "portraits/varamyr.jpg",
+    "portrait": "portraits/varamyr.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Варамир_Шестишкурый",
       "en": "https://awoiaf.westeros.org/index.php/Varamyr"
@@ -1998,7 +1998,7 @@
         "en": "After the rebellion he became the new king’s Hand."
       }
     ],
-    "portrait": "portraits/jon-arryn.jpg",
+    "portrait": "portraits/jon-arryn.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Джон_Аррен",
       "en": "https://awoiaf.westeros.org/index.php/Jon_Arryn"
@@ -2046,7 +2046,7 @@
         "en": "He learns to understand his dreams and his bond with his direwolf."
       }
     ],
-    "portrait": "portraits/bran-stark.jpg",
+    "portrait": "portraits/bran-stark.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Бран_Старк",
       "en": "https://awoiaf.westeros.org/index.php/Bran_Stark"
@@ -2094,7 +2094,7 @@
         "en": "She disguised herself as a boy to travel with Watch recruits."
       }
     ],
-    "portrait": "portraits/arya-stark.jpg",
+    "portrait": "portraits/arya-stark.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Арья_Старк",
       "en": "https://awoiaf.westeros.org/index.php/Arya_Stark"
@@ -2146,7 +2146,7 @@
         "en": "At court she learned to conceal her true feelings."
       }
     ],
-    "portrait": "portraits/sansa-stark.jpg",
+    "portrait": "portraits/sansa-stark.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Санса_Старк",
       "en": "https://awoiaf.westeros.org/index.php/Sansa_Stark"
@@ -2203,7 +2203,7 @@
         "en": "Osha cared for him after he was separated from his family."
       }
     ],
-    "portrait": "portraits/rickon-stark.jpg",
+    "portrait": "portraits/rickon-stark.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Рикон_Старк",
       "en": "https://awoiaf.westeros.org/index.php/Rickon_Stark"
@@ -2247,7 +2247,7 @@
         "en": "He used a feint to launch a surprise attack near Riverrun."
       }
     ],
-    "portrait": "portraits/robb-stark.jpg",
+    "portrait": "portraits/robb-stark.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Робб_Старк",
       "en": "https://awoiaf.westeros.org/index.php/Robb_Stark"
@@ -2281,7 +2281,7 @@
     ],
     "extraPortraits": [
       {
-        "src": "portraits/robb-stark--2.jpg"
+        "src": "portraits/robb-stark--2.webp"
       }
     ]
   },
@@ -2308,7 +2308,7 @@
         "en": "He was sent to the Citadel to study."
       }
     ],
-    "portrait": "portraits/samwell-tarly.jpg",
+    "portrait": "portraits/samwell-tarly.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Сэмвелл_Тарли",
       "en": "https://awoiaf.westeros.org/index.php/Samwell_Tarly"
@@ -2360,7 +2360,7 @@
         "en": "He loves songs and plays the lute."
       }
     ],
-    "portrait": "portraits/mance-rayder.jpg",
+    "portrait": "portraits/mance-rayder.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Манс_Налётчик",
       "en": "https://awoiaf.westeros.org/index.php/Mance_Rayder"
@@ -2406,7 +2406,7 @@
         "en": "He distrusted a defector from the Night’s Watch."
       }
     ],
-    "portrait": "portraits/lord-of-bones.jpg",
+    "portrait": "portraits/lord-of-bones.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Гремучая_Рубашка",
       "en": "https://awoiaf.westeros.org/index.php/Lord_of_Bones"
@@ -2443,7 +2443,7 @@
         "en": "She took part in crossing the Wall with the Thenn’s raiding band."
       }
     ],
-    "portrait": "portraits/ygritte.jpg",
+    "portrait": "portraits/ygritte.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Игритт",
       "en": "https://awoiaf.westeros.org/index.php/Ygritte"
@@ -2476,7 +2476,7 @@
         "en": "He used his servant to conceal his own identity."
       }
     ],
-    "portrait": "portraits/ramsay-snow.jpg",
+    "portrait": "portraits/ramsay-snow.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Рамси_Сноу",
       "en": "https://awoiaf.westeros.org/index.php/Ramsay_Snow"
@@ -2528,7 +2528,7 @@
         "en": "Before winning, he usually lets his opponent strike him once."
       }
     ],
-    "portrait": "portraits/belwas.jpg",
+    "portrait": "portraits/belwas.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Бельвас",
       "en": "https://awoiaf.westeros.org/index.php/Belwas"
@@ -2562,7 +2562,7 @@
         "en": "He led his people toward the Wall as part of a great migration."
       }
     ],
-    "portrait": "portraits/tormund.jpg",
+    "portrait": "portraits/tormund.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Тормунд",
       "en": "https://awoiaf.westeros.org/index.php/Tormund"
@@ -2603,7 +2603,7 @@
         "en": "He is Old Nan’s great-grandson."
       }
     ],
-    "portrait": "portraits/hodor.jpg",
+    "portrait": "portraits/hodor.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Ходор",
       "en": "https://awoiaf.westeros.org/index.php/Hodor"
@@ -2641,7 +2641,7 @@
         "en": "He has a longstanding association with the Pentoshi magister Illyrio."
       }
     ],
-    "portrait": "portraits/varys.jpg",
+    "portrait": "portraits/varys.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Варис",
       "en": "https://awoiaf.westeros.org/index.php/Varys"
@@ -2682,7 +2682,7 @@
         "en": "His betrothal was used to ally the crown with the North."
       }
     ],
-    "portrait": "portraits/joffrey-baratheon.jpg",
+    "portrait": "portraits/joffrey-baratheon.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Джоффри_Баратеон",
       "en": "https://awoiaf.westeros.org/index.php/Joffrey_Baratheon"
@@ -2734,7 +2734,7 @@
         "en": "At Harrenhal he treated a gravely wounded captive knight."
       }
     ],
-    "portrait": "portraits/qyburn.jpg",
+    "portrait": "portraits/qyburn.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Квиберн",
       "en": "https://awoiaf.westeros.org/index.php/Qyburn"
@@ -2782,7 +2782,7 @@
         "en": "In political disputes he often supports Tywin."
       }
     ],
-    "portrait": "portraits/pycelle.jpg",
+    "portrait": "portraits/pycelle.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Пицель",
       "en": "https://awoiaf.westeros.org/index.php/Pycelle"
@@ -2819,7 +2819,7 @@
         "en": "He chose the Wall to prevent others from using him against his royal brother."
       }
     ],
-    "portrait": "portraits/aemon.jpg",
+    "portrait": "portraits/aemon.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Эймон_(мейстер)",
       "en": "https://awoiaf.westeros.org/index.php/Aemon"
@@ -2871,7 +2871,7 @@
         "en": "He urges his pupils to distinguish old legends from verifiable knowledge."
       }
     ],
-    "portrait": "portraits/luwin.jpg",
+    "portrait": "portraits/luwin.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Лювин",
       "en": "https://awoiaf.westeros.org/index.php/Luwin"
@@ -2909,7 +2909,7 @@
         "en": "His past and origins are concealed from the court."
       }
     ],
-    "portrait": "portraits/robert-strong.jpg",
+    "portrait": "portraits/robert-strong.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Роберт_Стронг",
       "en": "https://awoiaf.westeros.org/index.php/Robert_Strong"
@@ -2959,7 +2959,7 @@
         "en": "After her husband’s death she governed in her son’s name."
       }
     ],
-    "portrait": "portraits/cersei-lannister.jpg",
+    "portrait": "portraits/cersei-lannister.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Серсея_Ланнистер",
       "en": "https://awoiaf.westeros.org/index.php/Cersei_Lannister"
@@ -3012,7 +3012,7 @@
         "en": "He was knighted after the Battle of the Blackwater."
       }
     ],
-    "portrait": "portraits/bronn.jpg",
+    "portrait": "portraits/bronn.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Бронн",
       "en": "https://awoiaf.westeros.org/index.php/Bronn"
@@ -3064,7 +3064,7 @@
         "en": "He took part in defending the capital at the Blackwater."
       }
     ],
-    "portrait": "portraits/mandon-moore.jpg",
+    "portrait": "portraits/mandon-moore.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Мендон_Мур",
       "en": "https://awoiaf.westeros.org/index.php/Mandon_Moore"
@@ -3112,7 +3112,7 @@
         "en": "She put forward her own claim at the islanders’ kingsmoot."
       }
     ],
-    "portrait": "portraits/asha-greyjoy.jpg",
+    "portrait": "portraits/asha-greyjoy.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Аша_Грейджой",
       "en": "https://awoiaf.westeros.org/index.php/Asha_Greyjoy"
@@ -3160,7 +3160,7 @@
         "en": "He called on the islanders to choose a king at a kingsmoot."
       }
     ],
-    "portrait": "portraits/aeron-greyjoy.jpg",
+    "portrait": "portraits/aeron-greyjoy.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Эйрон_Грейджой",
       "en": "https://awoiaf.westeros.org/index.php/Aeron_Greyjoy"
@@ -3208,7 +3208,7 @@
         "en": "He was captured after the Battle of the Blackwater."
       }
     ],
-    "portrait": "portraits/mark-mullendore.jpg",
+    "portrait": "portraits/mark-mullendore.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Марк_Маллендор",
       "en": "https://awoiaf.westeros.org/index.php/Mark_Mullendore"
@@ -3249,7 +3249,7 @@
         "en": "He used the southern kings’ war to launch a new invasion of the North."
       }
     ],
-    "portrait": "portraits/balon-greyjoy.jpg",
+    "portrait": "portraits/balon-greyjoy.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Бейлон_Грейджой",
       "en": "https://awoiaf.westeros.org/index.php/Balon_Greyjoy"
@@ -3297,7 +3297,7 @@
         "en": "He led a scouting mission with two more experienced Watchmen."
       }
     ],
-    "portrait": "portraits/waymar-royce.jpg",
+    "portrait": "portraits/waymar-royce.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Уэймар_Ройс",
       "en": "https://awoiaf.westeros.org/index.php/Waymar_Royce"
@@ -3345,7 +3345,7 @@
         "en": "He took a young steward with him on a scouting mission."
       }
     ],
-    "portrait": "portraits/qhorin-halfhand.jpg",
+    "portrait": "portraits/qhorin-halfhand.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Куорен_Полурукий",
       "en": "https://awoiaf.westeros.org/index.php/Qhorin_Halfhand"
@@ -3383,7 +3383,7 @@
         "en": "He hid Eddard’s daughter among his recruits."
       }
     ],
-    "portrait": "portraits/yoren.jpg",
+    "portrait": "portraits/yoren.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Йорен",
       "en": "https://awoiaf.westeros.org/index.php/Yoren"
@@ -3421,7 +3421,7 @@
         "en": "He had his pupil catch cats to improve her agility."
       }
     ],
-    "portrait": "portraits/syrio-forel.jpg",
+    "portrait": "portraits/syrio-forel.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Сирио_Форель",
       "en": "https://awoiaf.westeros.org/index.php/Syrio_Forel"
@@ -3459,7 +3459,7 @@
         "en": "She negotiated the northern army’s crossing at the Twins."
       }
     ],
-    "portrait": "portraits/catelyn-tully.jpg",
+    "portrait": "portraits/catelyn-tully.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Кейтилин_Старк",
       "en": "https://awoiaf.westeros.org/index.php/Catelyn_Tully"
@@ -3495,7 +3495,7 @@
     ],
     "extraPortraits": [
       {
-        "src": "portraits/catelyn-tully--2.jpg"
+        "src": "portraits/catelyn-tully--2.webp"
       }
     ]
   },
@@ -3522,7 +3522,7 @@
         "en": "After being freed he joined the Brave Companions."
       }
     ],
-    "portrait": "portraits/biter.jpg",
+    "portrait": "portraits/biter.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Кусака",
       "en": "https://awoiaf.westeros.org/index.php/Biter"
@@ -3562,7 +3562,7 @@
         "en": "He changed sides during the war in the riverlands."
       }
     ],
-    "portrait": "portraits/vargo-hoat.jpg",
+    "portrait": "portraits/vargo-hoat.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Варго_Хоут",
       "en": "https://awoiaf.westeros.org/index.php/Vargo_Hoat"
@@ -3609,7 +3609,7 @@
         "en": "He joined the Brave Companions."
       }
     ],
-    "portrait": "portraits/rorge.jpg",
+    "portrait": "portraits/rorge.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Рорж",
       "en": "https://awoiaf.westeros.org/index.php/Rorge"
@@ -3653,7 +3653,7 @@
         "en": "He received the title Lord of Harrenhal for his service."
       }
     ],
-    "portrait": "portraits/janos-slynt.jpg",
+    "portrait": "portraits/janos-slynt.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Янос_Слинт",
       "en": "https://awoiaf.westeros.org/index.php/Janos_Slynt"
@@ -3709,7 +3709,7 @@
         "en": "He joined the lords seeking to curb Littlefinger’s power in the Vale."
       }
     ],
-    "portrait": "portraits/yohn-royce.jpg",
+    "portrait": "portraits/yohn-royce.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Джон_Ройс",
       "en": "https://awoiaf.westeros.org/index.php/Yohn_Royce"
@@ -3757,7 +3757,7 @@
         "en": "He arranged his sister’s marriage to a Dothraki khal."
       }
     ],
-    "portrait": "portraits/viserys-targaryen.jpg",
+    "portrait": "portraits/viserys-targaryen.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Визерис_Таргариен",
       "en": "https://awoiaf.westeros.org/index.php/Viserys_Targaryen"
@@ -3805,7 +3805,7 @@
         "en": "He later became associated with the Brotherhood Without Banners."
       }
     ],
-    "portrait": "portraits/gendry.jpg",
+    "portrait": "portraits/gendry.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Джендри",
       "en": "https://awoiaf.westeros.org/index.php/Gendry"
@@ -3846,7 +3846,7 @@
         "en": "In Essos he uses the identity Griff."
       }
     ],
-    "portrait": "portraits/jon-connington.jpg",
+    "portrait": "portraits/jon-connington.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Джон_Коннингтон",
       "en": "https://awoiaf.westeros.org/index.php/Jon_Connington"
@@ -3896,7 +3896,7 @@
         "en": "She hunts to feed her companions on their journey."
       }
     ],
-    "portrait": "portraits/meera-reed.jpg",
+    "portrait": "portraits/meera-reed.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Мира_Рид",
       "en": "https://awoiaf.westeros.org/index.php/Meera_Reed"
@@ -3937,7 +3937,7 @@
         "en": "He married Mellario of Norvos."
       }
     ],
-    "portrait": "portraits/doran-martell.jpg",
+    "portrait": "portraits/doran-martell.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Доран_Мартелл",
       "en": "https://awoiaf.westeros.org/index.php/Doran_Martell"
@@ -3985,7 +3985,7 @@
         "en": "He belongs to the six pups found beside their dead mother."
       }
     ],
-    "portrait": "portraits/grey-wind.jpg",
+    "portrait": "portraits/grey-wind.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Серый_Ветер",
       "en": "https://awoiaf.westeros.org/index.php/Grey_Wind"
@@ -4017,7 +4017,7 @@
         "en": "He left the castle with the boy and Osha."
       }
     ],
-    "portrait": "portraits/shaggydog.jpg",
+    "portrait": "portraits/shaggydog.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Лохматый_Пёсик",
       "en": "https://awoiaf.westeros.org/index.php/Shaggydog"
@@ -4053,7 +4053,7 @@
         "en": "She belongs to the pups the children found near Winterfell."
       }
     ],
-    "portrait": "portraits/lady-direwolf.jpg",
+    "portrait": "portraits/lady-direwolf.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Леди_(лютоволчица)",
       "en": "https://awoiaf.westeros.org/index.php/Lady_(direwolf)"
@@ -4085,7 +4085,7 @@
         "en": "He often operates alongside Tom and Anguy."
       }
     ],
-    "portrait": "portraits/lem.jpg",
+    "portrait": "portraits/lem.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Лим_Желтый_Плащ",
       "en": "https://awoiaf.westeros.org/index.php/Lem"
@@ -4125,7 +4125,7 @@
         "en": "He became the Brotherhood Without Banners’ spiritual guide."
       }
     ],
-    "portrait": "portraits/thoros-of-myr.jpg",
+    "portrait": "portraits/thoros-of-myr.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Торос_из_Мира",
       "en": "https://awoiaf.westeros.org/index.php/Thoros_of_Myr"
@@ -4143,7 +4143,7 @@
     ],
     "extraPortraits": [
       {
-        "src": "portraits/thoros-of-myr--2.jpg"
+        "src": "portraits/thoros-of-myr--2.webp"
       }
     ]
   },
@@ -4170,7 +4170,7 @@
         "en": "He guides children toward a refuge in the caves."
       }
     ],
-    "portrait": "portraits/coldhands.jpg",
+    "portrait": "portraits/coldhands.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Холодные_Руки",
       "en": "https://awoiaf.westeros.org/index.php/Coldhands"
@@ -4199,7 +4199,7 @@
         "en": "He later commanded the Night’s Watch."
       }
     ],
-    "portrait": "portraits/brynden-rivers.jpg",
+    "portrait": "portraits/brynden-rivers.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Бринден_Риверс",
       "en": "https://awoiaf.westeros.org/index.php/Brynden_Rivers"
@@ -4239,10 +4239,10 @@
     ],
     "extraPortraits": [
       {
-        "src": "portraits/brynden-rivers--2.jpg"
+        "src": "portraits/brynden-rivers--2.webp"
       },
       {
-        "src": "portraits/brynden-rivers--3.jpg"
+        "src": "portraits/brynden-rivers--3.webp"
       }
     ]
   },
@@ -4269,7 +4269,7 @@
         "en": "He refuses to recognize Mance’s authority."
       }
     ],
-    "portrait": "portraits/craster.jpg",
+    "portrait": "portraits/craster.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Крастер",
       "en": "https://awoiaf.westeros.org/index.php/Craster"
@@ -4301,7 +4301,7 @@
         "en": "His father fought at the tower of joy."
       }
     ],
-    "portrait": "portraits/jory-cassel.jpg",
+    "portrait": "portraits/jory-cassel.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Джори_Кассель",
       "en": "https://awoiaf.westeros.org/index.php/Jory_Cassel"
@@ -4346,7 +4346,7 @@
         "en": "He was appointed castellan of Harrenhal."
       }
     ],
-    "portrait": "portraits/amory-lorch.jpg",
+    "portrait": "portraits/amory-lorch.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Амори_Лорх",
       "en": "https://awoiaf.westeros.org/index.php/Amory_Lorch"
@@ -4391,7 +4391,7 @@
         "en": "She takes an active role in arranging her grandchildren’s marriages."
       }
     ],
-    "portrait": "portraits/olenna-redwyne.jpg",
+    "portrait": "portraits/olenna-redwyne.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Оленна_Тирелл",
       "en": "https://awoiaf.westeros.org/index.php/Olenna_Redwyne"
@@ -4449,7 +4449,7 @@
         "en": "He can display unusual magical phenomena to visitors."
       }
     ],
-    "portrait": "portraits/pyat-pree.jpg",
+    "portrait": "portraits/pyat-pree.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Пиат_Прей",
       "en": "https://awoiaf.westeros.org/index.php/Pyat_Pree"
@@ -4481,7 +4481,7 @@
         "en": "He warned his nephew about the cost of the Watch’s vows."
       }
     ],
-    "portrait": "portraits/benjen-stark.jpg",
+    "portrait": "portraits/benjen-stark.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Бенджен_Старк",
       "en": "https://awoiaf.westeros.org/index.php/Benjen_Stark"
@@ -4533,7 +4533,7 @@
         "en": "He led islanders in the campaign against Torrhen’s Square."
       }
     ],
-    "portrait": "portraits/dagmer.jpg",
+    "portrait": "portraits/dagmer.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Дагмер_Щербатый",
       "en": "https://awoiaf.westeros.org/index.php/Dagmer"
@@ -4571,7 +4571,7 @@
         "en": "It is used to eliminate opponents covertly."
       }
     ],
-    "portrait": "portraits/shadow-assassin.jpg",
+    "portrait": "portraits/shadow-assassin.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Тень-убийца",
       "en": "https://awoiaf.westeros.org/index.php/Shadow_assassin"
@@ -4600,7 +4600,7 @@
         "en": "His family retained the Faith of the Seven after moving north."
       }
     ],
-    "portrait": "portraits/wyman-manderly.jpg",
+    "portrait": "portraits/wyman-manderly.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Виман_Мандерли",
       "en": "https://awoiaf.westeros.org/index.php/Wyman_Manderly"
@@ -4648,7 +4648,7 @@
         "en": "He rules Karhold."
       }
     ],
-    "portrait": "portraits/rickard-karstark.jpg",
+    "portrait": "portraits/rickard-karstark.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Рикард_Карстарк",
       "en": "https://awoiaf.westeros.org/index.php/Rickard_Karstark"
@@ -4696,7 +4696,7 @@
         "en": "He founded a new capital at the mouth of the Blackwater."
       }
     ],
-    "portrait": "portraits/aegon-i-targaryen.jpg",
+    "portrait": "portraits/aegon-i-targaryen.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Эйгон_I_Таргариен",
       "en": "https://awoiaf.westeros.org/index.php/Aegon_I_Targaryen"
@@ -4741,7 +4741,7 @@
         "en": "He set out on a journey with Brienne."
       }
     ],
-    "portrait": "portraits/podrick-payne.jpg",
+    "portrait": "portraits/podrick-payne.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Подрик_Пейн",
       "en": "https://awoiaf.westeros.org/index.php/Podrick_Payne"
@@ -4786,7 +4786,7 @@
         "en": "He was later assigned to taste the king’s food."
       }
     ],
-    "portrait": "portraits/boros-blount.jpg",
+    "portrait": "portraits/boros-blount.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Борос_Блаунт",
       "en": "https://awoiaf.westeros.org/index.php/Boros_Blount"
@@ -4838,7 +4838,7 @@
         "en": "He took part in negotiations and warfare around Meereen."
       }
     ],
-    "portrait": "portraits/daario-naharis.jpg",
+    "portrait": "portraits/daario-naharis.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Даарио_Нахарис",
       "en": "https://awoiaf.westeros.org/index.php/Daario_Naharis"
@@ -4881,7 +4881,7 @@
         "en": "He helps Bran understand his skinchanging abilities."
       }
     ],
-    "portrait": "portraits/jojen-reed.jpg",
+    "portrait": "portraits/jojen-reed.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Жойен_Рид",
       "en": "https://awoiaf.westeros.org/index.php/Jojen_Reed"
@@ -4926,7 +4926,7 @@
         "en": "He kept his slave name to remember the day he was freed."
       }
     ],
-    "portrait": "portraits/grey-worm.jpg",
+    "portrait": "portraits/grey-worm.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Серый_Червь",
       "en": "https://awoiaf.westeros.org/index.php/Grey_Worm"
@@ -4959,7 +4959,7 @@
         "en": "She carries out the Tattered Prince’s orders."
       }
     ],
-    "portrait": "portraits/meris.jpg",
+    "portrait": "portraits/meris.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Крошка_Мерис",
       "en": "https://awoiaf.westeros.org/index.php/Meris"
@@ -4994,7 +4994,7 @@
         "en": "He calls himself a man of the night in contrast with his famous relative."
       }
     ],
-    "portrait": "portraits/gerold-dayne.jpg",
+    "portrait": "portraits/gerold-dayne.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Герольд_Дейн",
       "en": "https://awoiaf.westeros.org/index.php/Gerold_Dayne"
@@ -5032,7 +5032,7 @@
         "en": "He defended the river fords against Tywin’s army."
       }
     ],
-    "portrait": "portraits/edmure-tully.jpg",
+    "portrait": "portraits/edmure-tully.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Эдмар_Талли",
       "en": "https://awoiaf.westeros.org/index.php/Edmure_Tully"
@@ -5080,7 +5080,7 @@
         "en": "After his death she kept the Vale out of the war."
       }
     ],
-    "portrait": "portraits/lysa-tully.jpg",
+    "portrait": "portraits/lysa-tully.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Лиза_Аррен",
       "en": "https://awoiaf.westeros.org/index.php/Lysa_Tully"
@@ -5139,7 +5139,7 @@
         "en": "He faced Bronn in a trial by combat."
       }
     ],
-    "portrait": "portraits/vardis-egen.jpg",
+    "portrait": "portraits/vardis-egen.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Вардис_Иген",
       "en": "https://awoiaf.westeros.org/index.php/Vardis_Egen"
@@ -5184,7 +5184,7 @@
         "en": "He entered the Hand’s tourney."
       }
     ],
-    "portrait": "portraits/hugh.jpg",
+    "portrait": "portraits/hugh.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Хью_из_Долины",
       "en": "https://awoiaf.westeros.org/index.php/Hugh"
@@ -5222,7 +5222,7 @@
         "en": "He took part in the lords’ challenge to Littlefinger."
       }
     ],
-    "portrait": "portraits/lyn-corbray.jpg",
+    "portrait": "portraits/lyn-corbray.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Лин_Корбрей",
       "en": "https://awoiaf.westeros.org/index.php/Lyn_Corbray"
@@ -5263,7 +5263,7 @@
         "en": "He earned knighthood at a tourney."
       }
     ],
-    "portrait": "portraits/harrold-hardyng.jpg",
+    "portrait": "portraits/harrold-hardyng.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Гаррольд_Хардинг",
       "en": "https://awoiaf.westeros.org/index.php/Harrold_Hardyng"
@@ -5309,7 +5309,7 @@
         "en": "She is considered a bastard daughter of King Robert."
       }
     ],
-    "portrait": "portraits/mya-stone.jpg",
+    "portrait": "portraits/mya-stone.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Мия_Стоун",
       "en": "https://awoiaf.westeros.org/index.php/Mya_Stone"
@@ -5340,7 +5340,7 @@
         "en": "He agreed to carry a prisoner’s request in return for promised gold."
       }
     ],
-    "portrait": "portraits/mord.jpg",
+    "portrait": "portraits/mord.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Морд",
       "en": "https://awoiaf.westeros.org/index.php/Mord"
@@ -5374,7 +5374,7 @@
         "en": "He is married to Leonette Fossoway."
       }
     ],
-    "portrait": "portraits/garlan-tyrell.jpg",
+    "portrait": "portraits/garlan-tyrell.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Гарлан_Тирелл",
       "en": "https://awoiaf.westeros.org/index.php/Garlan_Tyrell"
@@ -5423,7 +5423,7 @@
         "en": "He breeds horses and hunting animals."
       }
     ],
-    "portrait": "portraits/willas-tyrell.jpg",
+    "portrait": "portraits/willas-tyrell.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Уиллас_Тирелл",
       "en": "https://awoiaf.westeros.org/index.php/Willas_Tyrell"
@@ -5460,7 +5460,7 @@
         "en": "She seeks the goodwill of the capital’s common people."
       }
     ],
-    "portrait": "portraits/margaery-tyrell.jpg",
+    "portrait": "portraits/margaery-tyrell.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Маргери_Тирелл",
       "en": "https://awoiaf.westeros.org/index.php/Margaery_Tyrell"
@@ -5519,7 +5519,7 @@
         "en": "He forced his eldest son to join the Night’s Watch."
       }
     ],
-    "portrait": "portraits/randyll-tarly.jpg",
+    "portrait": "portraits/randyll-tarly.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Рендилл_Тарли",
       "en": "https://awoiaf.westeros.org/index.php/Randyll_Tarly"
@@ -5567,7 +5567,7 @@
         "en": "She was King Maegor’s mother."
       }
     ],
-    "portrait": "portraits/visenya-targaryen.jpg",
+    "portrait": "portraits/visenya-targaryen.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Висенья_Таргариен",
       "en": "https://awoiaf.westeros.org/index.php/Visenya_Targaryen"
@@ -5608,7 +5608,7 @@
         "en": "She was King Aenys’s mother."
       }
     ],
-    "portrait": "portraits/rhaenys-targaryen.jpg",
+    "portrait": "portraits/rhaenys-targaryen.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Рейнис_Таргариен",
       "en": "https://awoiaf.westeros.org/index.php/Rhaenys_Targaryen"
@@ -5649,7 +5649,7 @@
         "en": "He encountered Brienne at the Whispers with Pyg and Timeon."
       }
     ],
-    "portrait": "portraits/shagwell.jpg",
+    "portrait": "portraits/shagwell.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Шагвелл",
       "en": "https://awoiaf.westeros.org/index.php/Shagwell"
@@ -5688,7 +5688,7 @@
         "en": "He commanded foragers in the riverlands."
       }
     ],
-    "portrait": "portraits/utt.jpg",
+    "portrait": "portraits/utt.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Утт",
       "en": "https://awoiaf.westeros.org/index.php/Utt"
@@ -5727,7 +5727,7 @@
         "en": "He remained at Harrenhal after unsuccessful foraging expeditions."
       }
     ],
-    "portrait": "portraits/zollo.jpg",
+    "portrait": "portraits/zollo.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Жирный_Золло",
       "en": "https://awoiaf.westeros.org/index.php/Zollo"
@@ -5762,7 +5762,7 @@
         "en": "He rejected a captive’s offer of ransom in the capital."
       }
     ],
-    "portrait": "portraits/urswyck.jpg",
+    "portrait": "portraits/urswyck.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Урсвик",
       "en": "https://awoiaf.westeros.org/index.php/Urswyck"
@@ -5805,7 +5805,7 @@
         "en": "He joined the Brotherhood Without Banners."
       }
     ],
-    "portrait": "portraits/anguy.jpg",
+    "portrait": "portraits/anguy.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Энгай",
       "en": "https://awoiaf.westeros.org/index.php/Anguy"
@@ -5845,7 +5845,7 @@
         "en": "He stayed at Riverrun after the castle surrendered."
       }
     ],
-    "portrait": "portraits/tom-sevenstrings.jpg",
+    "portrait": "portraits/tom-sevenstrings.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Том_из_Семи_Ручьев",
       "en": "https://awoiaf.westeros.org/index.php/Tom_of_Sevenstreams"
@@ -5883,7 +5883,7 @@
         "en": "He is associated with the Lord of Bones’s band."
       }
     ],
-    "portrait": "portraits/orell.jpg",
+    "portrait": "portraits/orell.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Орелл",
       "en": "https://awoiaf.westeros.org/index.php/Orell"
@@ -5916,7 +5916,7 @@
         "en": "He gave Daenerys three petrified dragon eggs."
       }
     ],
-    "portrait": "portraits/illyrio-mopatis.jpg",
+    "portrait": "portraits/illyrio-mopatis.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Иллирио_Мопатис",
       "en": "https://awoiaf.westeros.org/index.php/Illyrio_Mopatis"
@@ -5957,7 +5957,7 @@
         "en": "In his youth he had feelings for Princess Rhaella."
       }
     ],
-    "portrait": "portraits/bonifer-hasty.jpg",
+    "portrait": "portraits/bonifer-hasty.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Бонифер_Хасти",
       "en": "https://awoiaf.westeros.org/index.php/Bonifer_Hasty"
@@ -6002,7 +6002,7 @@
         "en": "He holds the office of master-at-arms."
       }
     ],
-    "portrait": "portraits/samwell-stone.jpg",
+    "portrait": "portraits/samwell-stone.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Сэмвелл_Стоун",
       "en": "https://awoiaf.westeros.org/index.php/Samwell_Stone"
@@ -6042,7 +6042,7 @@
         "en": "He has been knighted."
       }
     ],
-    "portrait": "portraits/garth-hightower.jpg",
+    "portrait": "portraits/garth-hightower.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Гарт_Хайтауэр",
       "en": "https://awoiaf.westeros.org/index.php/Garth_Hightower"
@@ -6087,7 +6087,7 @@
         "en": "He trained Podrick in the use of weapons."
       }
     ],
-    "portrait": "portraits/aron-santagar.jpg",
+    "portrait": "portraits/aron-santagar.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Арон_Сантагар",
       "en": "https://awoiaf.westeros.org/index.php/Aron_Santagar"
@@ -6131,7 +6131,7 @@
         "en": "He fought in the War of the Ninepenny Kings while still a teenager."
       }
     ],
-    "portrait": "portraits/tygett-lannister.jpg",
+    "portrait": "portraits/tygett-lannister.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Тигетт_Ланнистер",
       "en": "https://awoiaf.westeros.org/index.php/Tygett_Lannister"
@@ -6176,7 +6176,7 @@
         "en": "He received a lordship without lands or income."
       }
     ],
-    "portrait": "portraits/hallyne.jpg",
+    "portrait": "portraits/hallyne.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Галлин",
       "en": "https://awoiaf.westeros.org/index.php/Hallyne"
@@ -6212,7 +6212,7 @@
         "en": "He traveled to Dorne on a royal mission."
       }
     ],
-    "portrait": "portraits/balon-swann.jpg",
+    "portrait": "portraits/balon-swann.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Бейлон_Сванн",
       "en": "https://awoiaf.westeros.org/index.php/Balon_Swann"
@@ -6260,7 +6260,7 @@
         "en": "He became involved in Arianne’s conspiracy."
       }
     ],
-    "portrait": "portraits/arys-oakheart.jpg",
+    "portrait": "portraits/arys-oakheart.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Арис_Окхарт",
       "en": "https://awoiaf.westeros.org/index.php/Arys_Oakheart"
@@ -6308,7 +6308,7 @@
         "en": "He secretly met a draper’s wife."
       }
     ],
-    "portrait": "portraits/preston-greenfield.jpg",
+    "portrait": "portraits/preston-greenfield.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Престон_Гринфилд",
       "en": "https://awoiaf.westeros.org/index.php/Preston_Greenfield"
@@ -6356,7 +6356,7 @@
         "en": "Rhaegar crowned her queen of love and beauty."
       }
     ],
-    "portrait": "portraits/lyanna-stark.jpg",
+    "portrait": "portraits/lyanna-stark.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Лианна_Старк",
       "en": "https://awoiaf.westeros.org/index.php/Lyanna_Stark"
@@ -6396,7 +6396,7 @@
         "en": "He defeated Petyr in a duel for his betrothed’s hand."
       }
     ],
-    "portrait": "portraits/brandon-stark.jpg",
+    "portrait": "portraits/brandon-stark.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Брандон_Старк",
       "en": "https://awoiaf.westeros.org/index.php/Brandon_Stark"
@@ -6437,7 +6437,7 @@
         "en": "He demanded a trial by combat from Aerys."
       }
     ],
-    "portrait": "portraits/rickard-stark.jpg",
+    "portrait": "portraits/rickard-stark.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Рикард_Старк",
       "en": "https://awoiaf.westeros.org/index.php/Rickard_Stark"
@@ -6485,7 +6485,7 @@
         "en": "He joined the great ranging beyond the Wall."
       }
     ],
-    "portrait": "portraits/eddison-tollett.jpg",
+    "portrait": "portraits/eddison-tollett.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Эддисон_Толлетт",
       "en": "https://awoiaf.westeros.org/index.php/Eddison_Tollett"
@@ -6533,7 +6533,7 @@
         "en": "He brought thirteen ships to Meereen as a gift."
       }
     ],
-    "portrait": "portraits/xaro-xhoan-daxos.jpg",
+    "portrait": "portraits/xaro-xhoan-daxos.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Ксаро_Ксоан_Даксос",
       "en": "https://awoiaf.westeros.org/index.php/Xaro_Xhoan_Daxos"
@@ -6565,7 +6565,7 @@
         "en": "He requires pupils to abandon their former identity."
       }
     ],
-    "portrait": "portraits/kindly-man.jpg",
+    "portrait": "portraits/kindly-man.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Добрый_человек",
       "en": "https://awoiaf.westeros.org/index.php/Kindly_Man"
@@ -6594,7 +6594,7 @@
         "en": "He led a force sent around the Wall."
       }
     ],
-    "portrait": "portraits/styr.jpg",
+    "portrait": "portraits/styr.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Стир",
       "en": "https://awoiaf.westeros.org/index.php/Styr"
@@ -6630,7 +6630,7 @@
         "en": "He promised Daenerys ninety days of peace before their wedding."
       }
     ],
-    "portrait": "portraits/hizdahr-zo-loraq.jpg",
+    "portrait": "portraits/hizdahr-zo-loraq.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Хиздар_зо_Лорак",
       "en": "https://awoiaf.westeros.org/index.php/Hizdahr_zo_Loraq"
@@ -6678,7 +6678,7 @@
         "en": "She appears to the queen from afar without passing her guards."
       }
     ],
-    "portrait": "portraits/quaithe.jpg",
+    "portrait": "portraits/quaithe.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Куэйта",
       "en": "https://awoiaf.westeros.org/index.php/Quaithe"
@@ -6714,7 +6714,7 @@
         "en": "He fought her teacher Syrio."
       }
     ],
-    "portrait": "portraits/meryn-trant.jpg",
+    "portrait": "portraits/meryn-trant.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Меррин_Трант",
       "en": "https://awoiaf.westeros.org/index.php/Meryn_Trant"
@@ -6762,7 +6762,7 @@
         "en": "She was assigned to accompany Balon in the search for Darkstar."
       }
     ],
-    "portrait": "portraits/obara-sand.jpg",
+    "portrait": "portraits/obara-sand.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Обара_Сэнд",
       "en": "https://awoiaf.westeros.org/index.php/Obara_Sand"
@@ -6795,7 +6795,7 @@
         "en": "Dorne’s ruler planned to send her to the small council."
       }
     ],
-    "portrait": "portraits/nymeria-sand.jpg",
+    "portrait": "portraits/nymeria-sand.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Нимерия_Сэнд",
       "en": "https://awoiaf.westeros.org/index.php/Nymeria_Sand"
@@ -6832,7 +6832,7 @@
         "en": "She was a close childhood friend of Arianne."
       }
     ],
-    "portrait": "portraits/tyene-sand.jpg",
+    "portrait": "portraits/tyene-sand.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Тиена_Сэнд",
       "en": "https://awoiaf.westeros.org/index.php/Tyene_Sand"
@@ -6865,7 +6865,7 @@
         "en": "He fought at the Green Fork."
       }
     ],
-    "portrait": "portraits/timett.jpg",
+    "portrait": "portraits/timett.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Тиметт",
       "en": "https://awoiaf.westeros.org/index.php/Timett"
@@ -6905,7 +6905,7 @@
         "en": "He took part in the war in the riverlands."
       }
     ],
-    "portrait": "portraits/shagga.jpg",
+    "portrait": "portraits/shagga.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Шагга",
       "en": "https://awoiaf.westeros.org/index.php/Shagga"
@@ -6937,7 +6937,7 @@
         "en": "She guarded Shae on Tyrion’s orders."
       }
     ],
-    "portrait": "portraits/chella.jpg",
+    "portrait": "portraits/chella.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Челла",
       "en": "https://awoiaf.westeros.org/index.php/Chella"
@@ -6969,7 +6969,7 @@
         "en": "His last rider was Viserys I."
       }
     ],
-    "portrait": "portraits/balerion.jpg",
+    "portrait": "portraits/balerion.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Балерион",
       "en": "https://awoiaf.westeros.org/index.php/Balerion"
@@ -7002,7 +7002,7 @@
         "en": "He refused to surrender to the Conqueror."
       }
     ],
-    "portrait": "portraits/harren-hoare.jpg",
+    "portrait": "portraits/harren-hoare.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Харрен_Хоар",
       "en": "https://awoiaf.westeros.org/index.php/Harren_Hoare"
@@ -7047,7 +7047,7 @@
         "en": "She served for a time as Sansa’s maid."
       }
     ],
-    "portrait": "portraits/shae.jpg",
+    "portrait": "portraits/shae.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Шая",
       "en": "https://awoiaf.westeros.org/index.php/Shae"
@@ -7079,7 +7079,7 @@
         "en": "He led a rebellion against his half-brother."
       }
     ],
-    "portrait": "portraits/daemon-blackfyre.jpg",
+    "portrait": "portraits/daemon-blackfyre.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Деймон_Блэкфайр",
       "en": "https://awoiaf.westeros.org/index.php/Daemon_I_Blackfyre"
@@ -7124,7 +7124,7 @@
         "en": "She protected the travelers from wights with fire."
       }
     ],
-    "portrait": "portraits/leaf.jpg",
+    "portrait": "portraits/leaf.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Листочек",
       "en": "https://awoiaf.westeros.org/index.php/Leaf"
@@ -7156,7 +7156,7 @@
         "en": "He discovered a cache of dragonglass weapons near the Fist of the First Men."
       }
     ],
-    "portrait": "portraits/ghost.jpg",
+    "portrait": "portraits/ghost.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Призрак",
       "en": "https://awoiaf.westeros.org/index.php/Ghost"
@@ -7188,7 +7188,7 @@
         "en": "He traveled beyond the Wall with his owner."
       }
     ],
-    "portrait": "portraits/summer-direwolf.jpg",
+    "portrait": "portraits/summer-direwolf.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Лето",
       "en": "https://awoiaf.westeros.org/index.php/Summer_(direwolf)"
@@ -7224,7 +7224,7 @@
         "en": "She came to lead a large wolf pack in the riverlands."
       }
     ],
-    "portrait": "portraits/nymeria-direwolf.jpg",
+    "portrait": "portraits/nymeria-direwolf.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Нимерия_(лютоволчица)",
       "en": "https://awoiaf.westeros.org/index.php/Nymeria_(direwolf)"
@@ -7256,7 +7256,7 @@
         "en": "He helped Sansa prepare to escape the capital."
       }
     ],
-    "portrait": "portraits/dontos-hollard.jpg",
+    "portrait": "portraits/dontos-hollard.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Донтос_Холлард",
       "en": "https://awoiaf.westeros.org/index.php/Dontos_Hollard"
@@ -7304,7 +7304,7 @@
         "en": "He keeps Shireen company on Dragonstone."
       }
     ],
-    "portrait": "portraits/patchface.jpg",
+    "portrait": "portraits/patchface.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Пестряк",
       "en": "https://awoiaf.westeros.org/index.php/Patchface"
@@ -7335,7 +7335,7 @@
         "en": "She is friends with the court fool Patchface."
       }
     ],
-    "portrait": "portraits/shireen-baratheon.jpg",
+    "portrait": "portraits/shireen-baratheon.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Ширен_Баратеон",
       "en": "https://awoiaf.westeros.org/index.php/Shireen_Baratheon"
@@ -7379,7 +7379,7 @@
         "en": "He later became regent for the young king."
       }
     ],
-    "portrait": "portraits/kevan-lannister.jpg",
+    "portrait": "portraits/kevan-lannister.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Киван_Ланнистер",
       "en": "https://awoiaf.westeros.org/index.php/Kevan_Lannister"
@@ -7423,7 +7423,7 @@
         "en": "She served in the northern king’s personal guard."
       }
     ],
-    "portrait": "portraits/dacey-mormont.jpg",
+    "portrait": "portraits/dacey-mormont.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Дейси_Мормонт",
       "en": "https://awoiaf.westeros.org/index.php/Dacey_Mormont"
@@ -7460,7 +7460,7 @@
         "en": "He stayed to work in an inn’s kitchen."
       }
     ],
-    "portrait": "portraits/hot-pie.jpg",
+    "portrait": "portraits/hot-pie.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Пирожок",
       "en": "https://awoiaf.westeros.org/index.php/Hot_Pie"
@@ -7492,7 +7492,7 @@
         "en": "He traveled with Arya, Gendry, and Hot Pie."
       }
     ],
-    "portrait": "portraits/lommy-greenhands.jpg",
+    "portrait": "portraits/lommy-greenhands.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Ломми_Зеленые_Руки",
       "en": "https://awoiaf.westeros.org/index.php/Lommy_Greenhands"
@@ -7524,7 +7524,7 @@
         "en": "He was sent to find Howland Reed."
       }
     ],
-    "portrait": "portraits/galbart-glover.jpg",
+    "portrait": "portraits/galbart-glover.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Галбарт_Гловер",
       "en": "https://awoiaf.westeros.org/index.php/Galbart_Glover"
@@ -7568,7 +7568,7 @@
         "en": "Davos traded with him before being knighted."
       }
     ],
-    "portrait": "portraits/salladhor-saan.jpg",
+    "portrait": "portraits/salladhor-saan.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Салладор_Саан",
       "en": "https://awoiaf.westeros.org/index.php/Salladhor_Saan"
@@ -7609,7 +7609,7 @@
         "en": "He trained recruits at Castle Black."
       }
     ],
-    "portrait": "portraits/alliser-thorne.jpg",
+    "portrait": "portraits/alliser-thorne.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Аллисер_Торн",
       "en": "https://awoiaf.westeros.org/index.php/Alliser_Thorne"
@@ -7657,7 +7657,7 @@
         "en": "He gave up his worldly holdings to serve the Faith."
       }
     ],
-    "portrait": "portraits/lancel-lannister.jpg",
+    "portrait": "portraits/lancel-lannister.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Лансель_Ланнистер",
       "en": "https://awoiaf.westeros.org/index.php/Lancel_Lannister"
@@ -7709,7 +7709,7 @@
         "en": "She organized a plot to crown Myrcella."
       }
     ],
-    "portrait": "portraits/arianne-martell.jpg",
+    "portrait": "portraits/arianne-martell.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Арианна_Мартелл",
       "en": "https://awoiaf.westeros.org/index.php/Arianne_Martell"
@@ -7750,7 +7750,7 @@
         "en": "She befriended Arianne."
       }
     ],
-    "portrait": "portraits/myrcella-baratheon.jpg",
+    "portrait": "portraits/myrcella-baratheon.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Мирцелла_Баратеон",
       "en": "https://awoiaf.westeros.org/index.php/Myrcella_Baratheon"
@@ -7798,7 +7798,7 @@
         "en": "He claims a dragon princess among his ancestors."
       }
     ],
-    "portrait": "portraits/ben-plumm.jpg",
+    "portrait": "portraits/ben-plumm.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Бен_Пламм",
       "en": "https://awoiaf.westeros.org/index.php/Ben_Plumm"
@@ -7847,7 +7847,7 @@
         "en": "He is very fond of his kittens."
       }
     ],
-    "portrait": "portraits/tommen-baratheon.jpg",
+    "portrait": "portraits/tommen-baratheon.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Томмен_Баратеон",
       "en": "https://awoiaf.westeros.org/index.php/Tommen_Baratheon"
@@ -7899,7 +7899,7 @@
         "en": "He led the assault on the gate of Castle Black."
       }
     ],
-    "portrait": "portraits/mag-mar-tun-doh-weg.jpg",
+    "portrait": "portraits/mag-mar-tun-doh-weg.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Мег_Могучий",
       "en": "https://awoiaf.westeros.org/index.php/Mag_Mar_Tun_Doh_Weg"
@@ -7935,7 +7935,7 @@
         "en": "He accompanied Eddard to the tower of joy."
       }
     ],
-    "portrait": "portraits/howland-reed.jpg",
+    "portrait": "portraits/howland-reed.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Хоуленд_Рид",
       "en": "https://awoiaf.westeros.org/index.php/Howland_Reed"
@@ -7979,7 +7979,7 @@
         "en": "He fought beside Eddard at the tower of joy."
       }
     ],
-    "portrait": "portraits/martyn-cassel.jpg",
+    "portrait": "portraits/martyn-cassel.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Мартин_Кассель",
       "en": "https://awoiaf.westeros.org/index.php/Martyn_Cassel"
@@ -8016,7 +8016,7 @@
         "en": "He took part in the fight against three Kingsguard in Dorne."
       }
     ],
-    "portrait": "portraits/theo-wull.jpg",
+    "portrait": "portraits/theo-wull.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Тео_Вулл",
       "en": "https://awoiaf.westeros.org/index.php/Theo_Wull"
@@ -8056,7 +8056,7 @@
         "en": "He joined Eddard’s journey to the tower of joy."
       }
     ],
-    "portrait": "portraits/willam-dustin.jpg",
+    "portrait": "portraits/willam-dustin.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Виллам_Дастин",
       "en": "https://awoiaf.westeros.org/index.php/Willam_Dustin"
@@ -8097,7 +8097,7 @@
         "en": "He is remembered among the seven companions at the tower of joy."
       }
     ],
-    "portrait": "portraits/mark-ryswell.jpg",
+    "portrait": "portraits/mark-ryswell.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Марк_Рисвелл",
       "en": "https://awoiaf.westeros.org/index.php/Mark_Ryswell"
@@ -8138,7 +8138,7 @@
         "en": "He later traveled with Eddard to the Red Mountains."
       }
     ],
-    "portrait": "portraits/ethan-glover.jpg",
+    "portrait": "portraits/ethan-glover.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Этан_Гловер",
       "en": "https://awoiaf.westeros.org/index.php/Ethan_Glover"
@@ -8175,7 +8175,7 @@
         "en": "She helped Winterfell’s younger children escape the castle."
       }
     ],
-    "portrait": "portraits/osha.jpg",
+    "portrait": "portraits/osha.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Оша",
       "en": "https://awoiaf.westeros.org/index.php/Osha"
@@ -8209,7 +8209,7 @@
         "en": "She became a captive after a Dothraki raid."
       }
     ],
-    "portrait": "portraits/mirri-maz-duur.jpg",
+    "portrait": "portraits/mirri-maz-duur.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Мирри_Маз_Дуур",
       "en": "https://awoiaf.westeros.org/index.php/Mirri_Maz_Duur"
@@ -8245,7 +8245,7 @@
         "en": "She is Hodor’s great-grandmother."
       }
     ],
-    "portrait": "portraits/nan.jpg",
+    "portrait": "portraits/nan.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Нэн",
       "en": "https://awoiaf.westeros.org/index.php/Nan"
@@ -8283,7 +8283,7 @@
         "en": "She accompanied her pupils to the capital."
       }
     ],
-    "portrait": "portraits/mordane.jpg",
+    "portrait": "portraits/mordane.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Мордейн",
       "en": "https://awoiaf.westeros.org/index.php/Mordane"
@@ -8321,7 +8321,7 @@
         "en": "She went to find Tormund at Jon’s request."
       }
     ],
-    "portrait": "portraits/val.jpg",
+    "portrait": "portraits/val.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Вель",
       "en": "https://awoiaf.westeros.org/index.php/Val"
@@ -8355,7 +8355,7 @@
         "en": "She became Queen in the North through marriage."
       }
     ],
-    "portrait": "portraits/jeyne-westerling.jpg",
+    "portrait": "portraits/jeyne-westerling.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Джейн_Вестерлинг",
       "en": "https://awoiaf.westeros.org/index.php/Jeyne_Westerling"
@@ -8406,7 +8406,7 @@
         "en": "He claimed to have been knighted by Robert Stone."
       }
     ],
-    "portrait": "portraits/osmund-kettleblack.jpg",
+    "portrait": "portraits/osmund-kettleblack.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Осмунд_Кеттлблэк",
       "en": "https://awoiaf.westeros.org/index.php/Osmund_Kettleblack"
@@ -8454,7 +8454,7 @@
         "en": "He first backed Renly, then allied with the Iron Throne."
       }
     ],
-    "portrait": "portraits/mace-tyrell.jpg",
+    "portrait": "portraits/mace-tyrell.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Мейс_Тирелл",
       "en": "https://awoiaf.westeros.org/index.php/Mace_Tyrell"
@@ -8506,7 +8506,7 @@
         "en": "He traveled along the Rhoyne aboard the Shy Maid."
       }
     ],
-    "portrait": "portraits/young-griff.jpg",
+    "portrait": "portraits/young-griff.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Юный_Гриф",
       "en": "https://awoiaf.westeros.org/index.php/Young_Griff"
@@ -8546,7 +8546,7 @@
         "en": "He took part in the campaign to the cities of Slaver’s Bay."
       }
     ],
-    "portrait": "portraits/rakharo.jpg",
+    "portrait": "portraits/rakharo.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Ракхаро",
       "en": "https://awoiaf.westeros.org/index.php/Rakharo"
@@ -8583,7 +8583,7 @@
         "en": "He helped scout the red waste."
       }
     ],
-    "portrait": "portraits/aggo.jpg",
+    "portrait": "portraits/aggo.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Агго",
       "en": "https://awoiaf.westeros.org/index.php/Aggo"
@@ -8620,7 +8620,7 @@
         "en": "He received Drogo’s whip as a gift."
       }
     ],
-    "portrait": "portraits/jhogo.jpg",
+    "portrait": "portraits/jhogo.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Чхого",
       "en": "https://awoiaf.westeros.org/index.php/Jhogo"
@@ -8657,7 +8657,7 @@
         "en": "His family has lived in exile for several generations."
       }
     ],
-    "portrait": "portraits/harry-strickland.jpg",
+    "portrait": "portraits/harry-strickland.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Гарри_Стрикленд",
       "en": "https://awoiaf.westeros.org/index.php/Harry_Strickland"
@@ -8704,7 +8704,7 @@
         "en": "He claimed the Iron Throne."
       }
     ],
-    "portrait": "portraits/maelys-blackfyre.jpg",
+    "portrait": "portraits/maelys-blackfyre.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Мейлис_Блэкфайр",
       "en": "https://awoiaf.westeros.org/index.php/Maelys_Blackfyre"
@@ -8753,7 +8753,7 @@
         "en": "He supported rebellions against the reigning royal line."
       }
     ],
-    "portrait": "portraits/aegor-rivers.jpg",
+    "portrait": "portraits/aegor-rivers.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Эйгор_Риверс",
       "en": "https://awoiaf.westeros.org/index.php/Aegor_Rivers"
@@ -8811,7 +8811,7 @@
         "en": "He refused lands offered by Bonifer."
       }
     ],
-    "portrait": "portraits/shitmouth.jpg",
+    "portrait": "portraits/shitmouth.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Сраный_Рот",
       "en": "https://awoiaf.westeros.org/index.php/Shitmouth"
@@ -8842,7 +8842,7 @@
         "en": "During a duel Arthur allowed him to replace his damaged sword."
       }
     ],
-    "portrait": "portraits/smiling-knight.jpg",
+    "portrait": "portraits/smiling-knight.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Улыбающийся_Рыцарь",
       "en": "https://awoiaf.westeros.org/index.php/Smiling_Knight"
@@ -8875,7 +8875,7 @@
         "en": "He accompanied the force that captured Arya."
       }
     ],
-    "portrait": "portraits/tickler.jpg",
+    "portrait": "portraits/tickler.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Щекотун",
       "en": "https://awoiaf.westeros.org/index.php/Tickler"
@@ -8909,7 +8909,7 @@
         "en": "Two brothers’ rivalry for her love became well known at court."
       }
     ],
-    "portrait": "portraits/shiera-seastar.jpg",
+    "portrait": "portraits/shiera-seastar.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Шира_Морская_Звезда",
       "en": "https://awoiaf.westeros.org/index.php/Shiera_Seastar"
@@ -8950,7 +8950,7 @@
         "en": "He took part in defending the Wall against wildlings."
       }
     ],
-    "portrait": "portraits/pypar.jpg",
+    "portrait": "portraits/pypar.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Пип",
       "en": "https://awoiaf.westeros.org/index.php/Pypar"
@@ -8992,7 +8992,7 @@
         "en": "He directed the defense of Castle Black."
       }
     ],
-    "portrait": "portraits/donal-noye.jpg",
+    "portrait": "portraits/donal-noye.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Донал_Нойе",
       "en": "https://awoiaf.westeros.org/index.php/Donal_Noye"
@@ -9027,7 +9027,7 @@
         "en": "He was later assigned to Eastwatch."
       }
     ],
-    "portrait": "portraits/grenn.jpg",
+    "portrait": "portraits/grenn.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Гренн",
       "en": "https://awoiaf.westeros.org/index.php/Grenn"
@@ -9069,7 +9069,7 @@
         "en": "He concealed his origins while serving with the Windblown."
       }
     ],
-    "portrait": "portraits/quentyn-martell.jpg",
+    "portrait": "portraits/quentyn-martell.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Квентин_Мартелл",
       "en": "https://awoiaf.westeros.org/index.php/Quentyn_Martell"
@@ -9118,7 +9118,7 @@
         "en": "He tried to arrange his younger brother’s marriage to a wealthy heiress."
       }
     ],
-    "portrait": "portraits/hoster-tully.jpg",
+    "portrait": "portraits/hoster-tully.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Хостер_Талли",
       "en": "https://awoiaf.westeros.org/index.php/Hoster_Tully"
@@ -9166,7 +9166,7 @@
         "en": "She is the mother of Stannis’s only daughter."
       }
     ],
-    "portrait": "portraits/selyse-florent.jpg",
+    "portrait": "portraits/selyse-florent.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Селиса_Флорент",
       "en": "https://awoiaf.westeros.org/index.php/Selyse_Florent"
@@ -9219,7 +9219,7 @@
         "en": "After being freed she stayed in Daenerys’s service."
       }
     ],
-    "portrait": "portraits/missandei.jpg",
+    "portrait": "portraits/missandei.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Миссандея",
       "en": "https://awoiaf.westeros.org/index.php/Missandei"
@@ -9252,7 +9252,7 @@
         "en": "He refused to join Daenerys during negotiations."
       }
     ],
-    "portrait": "portraits/mero.jpg",
+    "portrait": "portraits/mero.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Меро",
       "en": "https://awoiaf.westeros.org/index.php/Mero"
@@ -9298,7 +9298,7 @@
         "en": "He continued resisting long after the northern king’s defeat."
       }
     ],
-    "portrait": "portraits/tytos-blackwood.jpg",
+    "portrait": "portraits/tytos-blackwood.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Титос_Блэквуд",
       "en": "https://awoiaf.westeros.org/index.php/Tytos_Blackwood"
@@ -9339,7 +9339,7 @@
         "en": "He later came to Winterfell with the Boltons’ allies."
       }
     ],
-    "portrait": "portraits/hosteen-frey.jpg",
+    "portrait": "portraits/hosteen-frey.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Хостин_Фрей",
       "en": "https://awoiaf.westeros.org/index.php/Hosteen_Frey"
@@ -9384,7 +9384,7 @@
         "en": "He refused to kill the fool rescued after a shipwreck."
       }
     ],
-    "portrait": "portraits/cressen.jpg",
+    "portrait": "portraits/cressen.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Крессен",
       "en": "https://awoiaf.westeros.org/index.php/Cressen"
@@ -9422,7 +9422,7 @@
         "en": "Before the wildlings united she fought the Lord of Bones."
       }
     ],
-    "portrait": "portraits/harma.jpg",
+    "portrait": "portraits/harma.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Харма_Собачья_Голова",
       "en": "https://awoiaf.westeros.org/index.php/Harma"
@@ -9452,7 +9452,7 @@
         "en": "In the books she argues against endless vengeance."
       }
     ],
-    "portrait": "portraits/ellaria-sand.jpg",
+    "portrait": "portraits/ellaria-sand.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Эллария_Сэнд",
       "en": "https://awoiaf.westeros.org/index.php/Ellaria_Sand"
@@ -9464,7 +9464,7 @@
     ],
     "extraPortraits": [
       {
-        "src": "portraits/ellaria-sand--2.jpg"
+        "src": "portraits/ellaria-sand--2.webp"
       }
     ]
   },
@@ -9491,7 +9491,7 @@
         "en": "She had a daughter and a son."
       }
     ],
-    "portrait": "portraits/elia-martell.jpg",
+    "portrait": "portraits/elia-martell.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Элия_Мартелл",
       "en": "https://awoiaf.westeros.org/index.php/Elia_Martell"
@@ -9542,7 +9542,7 @@
         "en": "He supported honoring the peace with Meereen."
       }
     ],
-    "portrait": "portraits/yezzan-zo-qaggaz.jpg",
+    "portrait": "portraits/yezzan-zo-qaggaz.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Еззан_зо_Каггаз",
       "en": "https://awoiaf.westeros.org/index.php/Yezzan_zo_Qaggaz"
@@ -9579,7 +9579,7 @@
         "en": "He mistakenly believes his customer cannot understand Valyrian."
       }
     ],
-    "portrait": "portraits/kraznys-mo-nakloz.jpg",
+    "portrait": "portraits/kraznys-mo-nakloz.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Кразнис_мо_Наклоз",
       "en": "https://awoiaf.westeros.org/index.php/Kraznys_mo_Nakloz"
@@ -9612,7 +9612,7 @@
         "en": "He held the office of Hand of the King."
       }
     ],
-    "portrait": "portraits/alester-florent.jpg",
+    "portrait": "portraits/alester-florent.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Алестер_Флорент",
       "en": "https://awoiaf.westeros.org/index.php/Alester_Florent"
@@ -9656,7 +9656,7 @@
         "en": "He later became Lord Commander of the Kingsguard."
       }
     ],
-    "portrait": "portraits/dunk.jpg",
+    "portrait": "portraits/dunk.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Дункан_Высокий",
       "en": "https://awoiaf.westeros.org/index.php/Dunk"
@@ -9705,7 +9705,7 @@
         "en": "Obsidian can destroy one of them."
       }
     ],
-    "portrait": "portraits/others.jpg",
+    "portrait": "portraits/others.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Иные",
       "en": "https://awoiaf.westeros.org/index.php/Others"
@@ -9715,7 +9715,7 @@
     ],
     "extraPortraits": [
       {
-        "src": "portraits/others--2.jpg"
+        "src": "portraits/others--2.webp"
       }
     ]
   },
@@ -9742,7 +9742,7 @@
         "en": "He refuses to marry despite his position in the family."
       }
     ],
-    "portrait": "portraits/black-walder-frey.jpg",
+    "portrait": "portraits/black-walder-frey.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Уолдер_Фрей_(Черный)",
       "en": "https://awoiaf.westeros.org/index.php/Black_Walder_Frey"
@@ -9786,7 +9786,7 @@
         "en": "He knighted Raymun Fossoway."
       }
     ],
-    "portrait": "portraits/lyonel-baratheon.jpg",
+    "portrait": "portraits/lyonel-baratheon.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Лионель_Баратеон",
       "en": "https://awoiaf.westeros.org/index.php/Lyonel_Baratheon"
@@ -9831,7 +9831,7 @@
         "en": "She taught her mistress the Dothraki language."
       }
     ],
-    "portrait": "portraits/jhiqui.jpg",
+    "portrait": "portraits/jhiqui.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Чхику",
       "en": "https://awoiaf.westeros.org/index.php/Jhiqui"
@@ -9864,7 +9864,7 @@
         "en": "Fire helps stop their attacks."
       }
     ],
-    "portrait": "portraits/wights.jpg",
+    "portrait": "portraits/wights.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Упыри",
       "en": "https://awoiaf.westeros.org/index.php/Wights"
@@ -9896,7 +9896,7 @@
         "en": "She stayed with her after the khalasar broke apart."
       }
     ],
-    "portrait": "portraits/irri.jpg",
+    "portrait": "portraits/irri.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Ирри",
       "en": "https://awoiaf.westeros.org/index.php/Irri"
@@ -9929,7 +9929,7 @@
         "en": "She asks Tom for a song in return for prophecies."
       }
     ],
-    "portrait": "portraits/ghost-of-high-heart.jpg",
+    "portrait": "portraits/ghost-of-high-heart.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Призрак_Высокого_Сердца",
       "en": "https://awoiaf.westeros.org/index.php/Ghost_of_High_Heart"
@@ -9958,7 +9958,7 @@
         "en": "He tried to improve the lot of the smallfolk."
       }
     ],
-    "portrait": "portraits/aegon-v-targaryen.jpg",
+    "portrait": "portraits/aegon-v-targaryen.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Эйгон_V_Таргариен",
       "en": "https://awoiaf.westeros.org/index.php/Aegon_V_Targaryen"
@@ -10003,7 +10003,7 @@
         "en": "Followers of the Lord of Light await his return."
       }
     ],
-    "portrait": "portraits/azor-ahai.jpg",
+    "portrait": "portraits/azor-ahai.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Азор_Ахай",
       "en": "https://awoiaf.westeros.org/index.php/Azor_Ahai"
@@ -10036,7 +10036,7 @@
         "en": "Her story is told to Davos by a Lysene seafarer."
       }
     ],
-    "portrait": "portraits/nissa-nissa.jpg",
+    "portrait": "portraits/nissa-nissa.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Нисса-Нисса",
       "en": "https://awoiaf.westeros.org/index.php/Nissa_Nissa"
@@ -10065,7 +10065,7 @@
         "en": "After a shipwreck he was picked up by the Iron Fleet."
       }
     ],
-    "portrait": "portraits/moqorro.jpg",
+    "portrait": "portraits/moqorro.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Мокорро",
       "en": "https://awoiaf.westeros.org/index.php/Moqorro"
@@ -10102,7 +10102,7 @@
         "en": "She first saw the sea while traveling south."
       }
     ],
-    "portrait": "portraits/gilly.jpg",
+    "portrait": "portraits/gilly.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Лилли",
       "en": "https://awoiaf.westeros.org/index.php/Gilly"
@@ -10134,7 +10134,7 @@
         "en": "He oversees supplies and fears food shortages."
       }
     ],
-    "portrait": "portraits/bowen-marsh.jpg",
+    "portrait": "portraits/bowen-marsh.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Боуэн_Марш",
       "en": "https://awoiaf.westeros.org/index.php/Bowen_Marsh"
@@ -10186,7 +10186,7 @@
         "en": "He is Joy Hill’s father."
       }
     ],
-    "portrait": "portraits/gerion-lannister.jpg",
+    "portrait": "portraits/gerion-lannister.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Герион_Ланнистер",
       "en": "https://awoiaf.westeros.org/index.php/Gerion_Lannister"
@@ -10227,7 +10227,7 @@
         "en": "He was granted Riverrun by the crown."
       }
     ],
-    "portrait": "portraits/emmon-frey.jpg",
+    "portrait": "portraits/emmon-frey.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Эммон_Фрей",
       "en": "https://awoiaf.westeros.org/index.php/Emmon_Frey"
@@ -10277,7 +10277,7 @@
         "en": "She has four sons by Emmon."
       }
     ],
-    "portrait": "portraits/genna-lannister.jpg",
+    "portrait": "portraits/genna-lannister.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Дженна_Ланнистер",
       "en": "https://awoiaf.westeros.org/index.php/Genna_Lannister"
@@ -10322,7 +10322,7 @@
         "en": "He negotiated Edmure’s marriage."
       }
     ],
-    "portrait": "portraits/lothar-frey.jpg",
+    "portrait": "portraits/lothar-frey.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Лотар_Фрей",
       "en": "https://awoiaf.westeros.org/index.php/Lothar_Frey"
@@ -10370,7 +10370,7 @@
         "en": "He secured the restoration of the Faith’s armed orders."
       }
     ],
-    "portrait": "portraits/high-sparrow.jpg",
+    "portrait": "portraits/high-sparrow.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Его_Воробейшество",
       "en": "https://awoiaf.westeros.org/index.php/High_Sparrow"
@@ -10406,7 +10406,7 @@
         "en": "He supported Stannis’s campaign against Winterfell."
       }
     ],
-    "portrait": "portraits/mors-umber.jpg",
+    "portrait": "portraits/mors-umber.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Морс_Амбер",
       "en": "https://awoiaf.westeros.org/index.php/Mors_Umber"
@@ -10451,7 +10451,7 @@
         "en": "He was nursed by the servant Wylla."
       }
     ],
-    "portrait": "portraits/edric-dayne.jpg",
+    "portrait": "portraits/edric-dayne.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Эдрик_Дейн",
       "en": "https://awoiaf.westeros.org/index.php/Edric_Dayne"
@@ -10500,7 +10500,7 @@
         "en": "He took part in capturing Jaime and Brienne."
       }
     ],
-    "portrait": "portraits/timeon.jpg",
+    "portrait": "portraits/timeon.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Тимеон-Дорниец",
       "en": "https://awoiaf.westeros.org/index.php/Timeon"
@@ -10535,7 +10535,7 @@
         "en": "His party encountered a large wolf pack."
       }
     ],
-    "portrait": "portraits/iggo.jpg",
+    "portrait": "portraits/iggo.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Игго",
       "en": "https://awoiaf.westeros.org/index.php/Iggo"
@@ -10570,7 +10570,7 @@
         "en": "He hid at the Whispers with Shagwell and Timeon."
       }
     ],
-    "portrait": "portraits/pyg.jpg",
+    "portrait": "portraits/pyg.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Пиг",
       "en": "https://awoiaf.westeros.org/index.php/Pyg"
@@ -10605,7 +10605,7 @@
         "en": "He went on the run after Harrenhal fell."
       }
     ],
-    "portrait": "portraits/togg-joth.jpg",
+    "portrait": "portraits/togg-joth.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Тогг_Йот",
       "en": "https://awoiaf.westeros.org/index.php/Togg_Joth"
@@ -10640,7 +10640,7 @@
         "en": "Vargo stopped him when he wanted to attack Jaime."
       }
     ],
-    "portrait": "portraits/three-toes.jpg",
+    "portrait": "portraits/three-toes.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Три_Пальца",
       "en": "https://awoiaf.westeros.org/index.php/Three_Toes"
@@ -10675,7 +10675,7 @@
         "en": "His cruelty drew Arya’s attention at Harrenhal."
       }
     ],
-    "portrait": "portraits/chiswyck.jpg",
+    "portrait": "portraits/chiswyck.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Чизвик",
       "en": "https://awoiaf.westeros.org/index.php/Chiswyck"
@@ -10706,7 +10706,7 @@
         "en": "He left Harrenhal in Tywin’s vanguard."
       }
     ],
-    "portrait": "portraits/dunsen.jpg",
+    "portrait": "portraits/dunsen.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Дансен",
       "en": "https://awoiaf.westeros.org/index.php/Dunsen"
@@ -10737,7 +10737,7 @@
         "en": "He took part in an attack on an innkeeper’s family."
       }
     ],
-    "portrait": "portraits/eggon.jpg",
+    "portrait": "portraits/eggon.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Иггон",
       "en": "https://awoiaf.westeros.org/index.php/Eggon"
@@ -10768,7 +10768,7 @@
         "en": "He brought his master a sword after his defeat by Loras."
       }
     ],
-    "portrait": "portraits/joss-stilwood.jpg",
+    "portrait": "portraits/joss-stilwood.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Джосс_Стилвуд",
       "en": "https://awoiaf.westeros.org/index.php/Joss_Stilwood"
@@ -10802,7 +10802,7 @@
         "en": "He was the force’s standard-bearer when it left Harrenhal."
       }
     ],
-    "portrait": "portraits/polliver.jpg",
+    "portrait": "portraits/polliver.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Полливер",
       "en": "https://awoiaf.westeros.org/index.php/Polliver"
@@ -10840,7 +10840,7 @@
         "en": "He later accompanied Harys Swyft to Braavos."
       }
     ],
-    "portrait": "portraits/rafford.jpg",
+    "portrait": "portraits/rafford.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Раффорд",
       "en": "https://awoiaf.westeros.org/index.php/Rafford"
@@ -10875,7 +10875,7 @@
         "en": "He is mentioned in Chiswyck’s account of an attack on an inn."
       }
     ],
-    "portrait": "portraits/tobbot.jpg",
+    "portrait": "portraits/tobbot.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Тоббот",
       "en": "https://awoiaf.westeros.org/index.php/Tobbot"
@@ -10906,7 +10906,7 @@
         "en": "He escorted Catelyn during her negotiations with Renly."
       }
     ],
-    "portrait": "portraits/wendel-manderly.jpg",
+    "portrait": "portraits/wendel-manderly.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Вендел_Мандерли",
       "en": "https://awoiaf.westeros.org/index.php/Wendel_Manderly"
@@ -10950,7 +10950,7 @@
         "en": "He is the father of Wynafryd and Wylla."
       }
     ],
-    "portrait": "portraits/wylis-manderly.jpg",
+    "portrait": "portraits/wylis-manderly.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Вилис_Мандерли",
       "en": "https://awoiaf.westeros.org/index.php/Wylis_Manderly"
@@ -10991,7 +10991,7 @@
         "en": "He helped capture Griffin’s Roost."
       }
     ],
-    "portrait": "portraits/balaq.jpg",
+    "portrait": "portraits/balaq.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Черный_Балак",
       "en": "https://awoiaf.westeros.org/index.php/Black_Balaq"
@@ -11026,7 +11026,7 @@
         "en": "He was succeeded by the company’s former paymaster."
       }
     ],
-    "portrait": "portraits/myles-toyne.jpg",
+    "portrait": "portraits/myles-toyne.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Майлс_Тойн",
       "en": "https://awoiaf.westeros.org/index.php/Myles_Toyne"
@@ -11075,7 +11075,7 @@
         "en": "He was knighted by Jon Connington."
       }
     ],
-    "portrait": "portraits/rolly-duckfield.jpg",
+    "portrait": "portraits/rolly-duckfield.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Ролли_Дакфилд",
       "en": "https://awoiaf.westeros.org/index.php/Rolly_Duckfield"
@@ -11120,7 +11120,7 @@
         "en": "He openly objected to Illyrio’s constantly changing plans."
       }
     ],
-    "portrait": "portraits/tristan-rivers.jpg",
+    "portrait": "portraits/tristan-rivers.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Тристан_Риверс",
       "en": "https://awoiaf.westeros.org/index.php/Tristan_Rivers"
@@ -11159,7 +11159,7 @@
         "en": "He occupied Mistwood with Young John."
       }
     ],
-    "portrait": "portraits/chains.jpg",
+    "portrait": "portraits/chains.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Чэйнс",
       "en": "https://awoiaf.westeros.org/index.php/Chain"
@@ -11202,7 +11202,7 @@
         "en": "He opposed marching on Storm’s End."
       }
     ],
-    "portrait": "portraits/brendel-byrne.jpg",
+    "portrait": "portraits/brendel-byrne.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Брендел_Бирн",
       "en": "https://awoiaf.westeros.org/index.php/Brendel_Byrne"
@@ -11241,7 +11241,7 @@
         "en": "He swore to a new claimant near Volon Therys."
       }
     ],
-    "portrait": "portraits/dick-cole.jpg",
+    "portrait": "portraits/dick-cole.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Дик_Коул",
       "en": "https://awoiaf.westeros.org/index.php/Dick_Cole"
@@ -11284,7 +11284,7 @@
         "en": "He attended the meeting with Jon Connington."
       }
     ],
-    "portrait": "portraits/will-cole.jpg",
+    "portrait": "portraits/will-cole.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Уилл_Коул",
       "en": "https://awoiaf.westeros.org/index.php/Will_Cole"
@@ -11327,7 +11327,7 @@
         "en": "He serves as a captain in the Golden Company."
       }
     ],
-    "portrait": "portraits/franklyn-flowers.jpg",
+    "portrait": "portraits/franklyn-flowers.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Франклин_Флауэрс",
       "en": "https://awoiaf.westeros.org/index.php/Franklyn_Flowers"
@@ -11370,7 +11370,7 @@
         "en": "He proposed pretending to accept a Yunkish contract."
       }
     ],
-    "portrait": "portraits/gorys-edoryen.jpg",
+    "portrait": "portraits/gorys-edoryen.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Горис_Эдориен",
       "en": "https://awoiaf.westeros.org/index.php/Gorys_Edoryen"
@@ -11409,7 +11409,7 @@
         "en": "He joined the invasion of Westeros."
       }
     ],
-    "portrait": "portraits/caspor-hill.jpg",
+    "portrait": "portraits/caspor-hill.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Каспор_Хилл",
       "en": "https://awoiaf.westeros.org/index.php/Caspor_Hill"
@@ -11448,7 +11448,7 @@
         "en": "He was one of the nine men at the council in Griffin’s Roost."
       }
     ],
-    "portrait": "portraits/malo-jayn.jpg",
+    "portrait": "portraits/malo-jayn.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Мало_Джайн",
       "en": "https://awoiaf.westeros.org/index.php/Malo_Jayn"
@@ -11487,7 +11487,7 @@
         "en": "He knew of the hidden prince before Connington’s announcement."
       }
     ],
-    "portrait": "portraits/jon-lothston.jpg",
+    "portrait": "portraits/jon-lothston.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Джон_Лотстон",
       "en": "https://awoiaf.westeros.org/index.php/Jon_Lothston"
@@ -11530,7 +11530,7 @@
         "en": "He tried to find ships from Volantis to Meereen."
       }
     ],
-    "portrait": "portraits/lysono-maar.jpg",
+    "portrait": "portraits/lysono-maar.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Лисоно_Маар",
       "en": "https://awoiaf.westeros.org/index.php/Lysono_Maar"
@@ -11565,7 +11565,7 @@
         "en": "He knew of Young Griff’s claimed origins before the official announcement."
       }
     ],
-    "portrait": "portraits/marq-mandrake.jpg",
+    "portrait": "portraits/marq-mandrake.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Марк_Мандрейк",
       "en": "https://awoiaf.westeros.org/index.php/Marq_Mandrake"
@@ -11604,7 +11604,7 @@
         "en": "He supported the claimant before the invasion."
       }
     ],
-    "portrait": "portraits/lorimas-mudd.jpg",
+    "portrait": "portraits/lorimas-mudd.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Лоримас_Мадд",
       "en": "https://awoiaf.westeros.org/index.php/Lorimas_Mudd"
@@ -11647,7 +11647,7 @@
         "en": "He is skilled at dice."
       }
     ],
-    "portrait": "portraits/john-mudd.jpg",
+    "portrait": "portraits/john-mudd.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Джон_Мадд",
       "en": "https://awoiaf.westeros.org/index.php/Young_John_Mudd"
@@ -11694,7 +11694,7 @@
         "en": "He came to war with his two brothers."
       }
     ],
-    "portrait": "portraits/laswell-peake.jpg",
+    "portrait": "portraits/laswell-peake.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Ласвелл_Пик",
       "en": "https://awoiaf.westeros.org/index.php/Laswell_Peake"
@@ -11739,7 +11739,7 @@
         "en": "He swore to the claimant before the campaign in Westeros."
       }
     ],
-    "portrait": "portraits/duncan-strong.jpg",
+    "portrait": "portraits/duncan-strong.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Дункан_Стронг",
       "en": "https://awoiaf.westeros.org/index.php/Duncan_Strong"
@@ -11782,7 +11782,7 @@
         "en": "He swore to a new claimant near Volon Therys."
       }
     ],
-    "portrait": "portraits/denys-strong.jpg",
+    "portrait": "portraits/denys-strong.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Денис_Стронг",
       "en": "https://awoiaf.westeros.org/index.php/Denys_Strong"
@@ -11825,7 +11825,7 @@
         "en": "He swore allegiance with the rest of the Golden Company."
       }
     ],
-    "portrait": "portraits/watkyn.jpg",
+    "portrait": "portraits/watkyn.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Уоткин",
       "en": "https://awoiaf.westeros.org/index.php/Watkyn"
@@ -11860,7 +11860,7 @@
         "en": "He swore to the claimant before the invasion of Westeros."
       }
     ],
-    "portrait": "portraits/torman-peake.jpg",
+    "portrait": "portraits/torman-peake.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Торман_Пик",
       "en": "https://awoiaf.westeros.org/index.php/Torman_Peake"
@@ -11901,7 +11901,7 @@
         "en": "He was introduced to Connington near Volon Therys."
       }
     ],
-    "portrait": "portraits/pykewood-peake.jpg",
+    "portrait": "portraits/pykewood-peake.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Пайквуд_Пик",
       "en": "https://awoiaf.westeros.org/index.php/Pykewood_Peake"
@@ -11946,7 +11946,7 @@
         "en": "He swore to the claimant before the invasion began."
       }
     ],
-    "portrait": "portraits/lymond-pease.jpg",
+    "portrait": "portraits/lymond-pease.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Лаймонд_Пиз",
       "en": "https://awoiaf.westeros.org/index.php/Lymond_Pease"
@@ -11985,7 +11985,7 @@
         "en": "He joined the campaign in Westeros."
       }
     ],
-    "portrait": "portraits/humfrey-stone.jpg",
+    "portrait": "portraits/humfrey-stone.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Хамфри_Стоун",
       "en": "https://awoiaf.westeros.org/index.php/Humfrey_Stone"
@@ -12024,7 +12024,7 @@
         "en": "He served on Cersei’s small council."
       }
     ],
-    "portrait": "portraits/orton-merryweather.jpg",
+    "portrait": "portraits/orton-merryweather.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Ортон_Мерривезер",
       "en": "https://awoiaf.westeros.org/index.php/Orton_Merryweather"
@@ -12065,7 +12065,7 @@
         "en": "Varys actually chose the annual gifts sent in his father’s name."
       }
     ],
-    "portrait": "portraits/edric-storm.jpg",
+    "portrait": "portraits/edric-storm.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Эдрик_Шторм",
       "en": "https://awoiaf.westeros.org/index.php/Edric_Storm"
@@ -12096,7 +12096,7 @@
         "en": "He returned to Daenerys during the arena games."
       }
     ],
-    "portrait": "portraits/drogon.jpg",
+    "portrait": "portraits/drogon.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Дрогон",
       "en": "https://awoiaf.westeros.org/index.php/Drogon"
@@ -12106,7 +12106,7 @@
     ],
     "extraPortraits": [
       {
-        "src": "portraits/drogon--2.jpg"
+        "src": "portraits/drogon--2.webp"
       }
     ]
   },
@@ -12133,7 +12133,7 @@
         "en": "He was confined beneath the Great Pyramid."
       }
     ],
-    "portrait": "portraits/rhaegal.jpg",
+    "portrait": "portraits/rhaegal.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Рейгаль",
       "en": "https://awoiaf.westeros.org/index.php/Rhaegal"
@@ -12165,7 +12165,7 @@
         "en": "Ben Plumm noted the dragon’s special fondness for him."
       }
     ],
-    "portrait": "portraits/viserion.jpg",
+    "portrait": "portraits/viserion.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Визерион",
       "en": "https://awoiaf.westeros.org/index.php/Viserion"
@@ -12197,7 +12197,7 @@
         "en": "She later left Pyke to live with her brother."
       }
     ],
-    "portrait": "portraits/alannys-harlaw.jpg",
+    "portrait": "portraits/alannys-harlaw.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Аланнис_Харлоу",
       "en": "https://awoiaf.westeros.org/index.php/Alannys_Harlaw"
@@ -12248,7 +12248,7 @@
         "en": "He was granted Castamere as a royal reward."
       }
     ],
-    "portrait": "portraits/rolph-spicer.jpg",
+    "portrait": "portraits/rolph-spicer.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Рольф_Спайсер",
       "en": "https://awoiaf.westeros.org/index.php/Rolph_Spicer"
@@ -12290,7 +12290,7 @@
         "en": "The song is performed at feasts and tourneys."
       }
     ],
-    "portrait": "portraits/bear.jpg",
+    "portrait": "portraits/bear.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Медведь_и_прекрасная_дева",
       "en": "https://awoiaf.westeros.org/index.php/The_Bear_and_the_Maiden_Fair"
@@ -12319,7 +12319,7 @@
         "en": "His grandfather usually hid him from noble visitors."
       }
     ],
-    "portrait": "portraits/jinglebell.jpg",
+    "portrait": "portraits/jinglebell.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Эйгон_Фрей_(Динь-Дон)",
       "en": "https://awoiaf.westeros.org/index.php/Aegon_Frey_(son_of_Stevron)"
@@ -12360,7 +12360,7 @@
         "en": "He crossed south of the Wall without permission."
       }
     ],
-    "portrait": "portraits/gared.jpg",
+    "portrait": "portraits/gared.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Гаред",
       "en": "https://awoiaf.westeros.org/index.php/Gared"
@@ -12398,7 +12398,7 @@
         "en": "He captured Sandor with the help of his dogs."
       }
     ],
-    "portrait": "portraits/mad-huntsman.jpg",
+    "portrait": "portraits/mad-huntsman.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Сумасшедший_Охотник",
       "en": "https://awoiaf.westeros.org/index.php/Mad_Huntsman"
@@ -12431,7 +12431,7 @@
         "en": "In four years he took part in a hundred rangings."
       }
     ],
-    "portrait": "portraits/will.jpg",
+    "portrait": "portraits/will.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Уилл",
       "en": "https://awoiaf.westeros.org/index.php/Will"
@@ -12469,7 +12469,7 @@
         "en": "He escorted Arya to Beric instead of Riverrun."
       }
     ],
-    "portrait": "portraits/greenbeard.jpg",
+    "portrait": "portraits/greenbeard.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Зеленая_Борода",
       "en": "https://awoiaf.westeros.org/index.php/Greenbeard"
@@ -12502,7 +12502,7 @@
         "en": "He later remained with Lady Stoneheart’s band."
       }
     ],
-    "portrait": "portraits/beardless-dick.jpg",
+    "portrait": "portraits/beardless-dick.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Безусый_Дик",
       "en": "https://awoiaf.westeros.org/index.php/Beardless_Dick"
@@ -12531,7 +12531,7 @@
         "en": "He was sent against Gregor by Eddard."
       }
     ],
-    "portrait": "portraits/harwin.jpg",
+    "portrait": "portraits/harwin.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Харвин",
       "en": "https://awoiaf.westeros.org/index.php/Harwin"
@@ -12566,7 +12566,7 @@
         "en": "His brother was sent to the Wall."
       }
     ],
-    "portrait": "portraits/jack-be-lucky.jpg",
+    "portrait": "portraits/jack-be-lucky.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Джек-Счастливчик",
       "en": "https://awoiaf.westeros.org/index.php/Jack-Be-Lucky"
@@ -12599,7 +12599,7 @@
         "en": "He was ordered to shoot at any sign of treachery."
       }
     ],
-    "portrait": "portraits/dennett.jpg",
+    "portrait": "portraits/dennett.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Деннет",
       "en": "https://awoiaf.westeros.org/index.php/Dennett"
@@ -12632,7 +12632,7 @@
         "en": "He carried out scouting duties after the battle."
       }
     ],
-    "portrait": "portraits/likely-luke.jpg",
+    "portrait": "portraits/likely-luke.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Люк-Любезник",
       "en": "https://awoiaf.westeros.org/index.php/Likely_Luke"
@@ -12665,7 +12665,7 @@
         "en": "He remained among Lady Stoneheart’s followers."
       }
     ],
-    "portrait": "portraits/mudge.jpg",
+    "portrait": "portraits/mudge.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Мадж",
       "en": "https://awoiaf.westeros.org/index.php/Mudge_(brotherhood)"
@@ -12698,7 +12698,7 @@
         "en": "Gendry offered to replace his horse’s lost shoe."
       }
     ],
-    "portrait": "portraits/merrit.jpg",
+    "portrait": "portraits/merrit.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Меррит_из_Лунного_города",
       "en": "https://awoiaf.westeros.org/index.php/Merrit"
@@ -12727,7 +12727,7 @@
         "en": "He told Arya how river lords were punished for loyalty to Aerys."
       }
     ],
-    "portrait": "portraits/notch.jpg",
+    "portrait": "portraits/notch.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Нотч",
       "en": "https://awoiaf.westeros.org/index.php/Notch"
@@ -12760,7 +12760,7 @@
         "en": "She did not stay with the band when its leadership changed."
       }
     ],
-    "portrait": "portraits/meg.jpg",
+    "portrait": "portraits/meg.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Болотная_Мег",
       "en": "https://awoiaf.westeros.org/index.php/Swampy_Meg"
@@ -12789,7 +12789,7 @@
         "en": "Such creatures are kept in menageries and sold in eastern markets."
       }
     ],
-    "portrait": "portraits/manticore.jpg",
+    "portrait": "portraits/manticore.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Мантикоры",
       "en": "https://awoiaf.westeros.org/index.php/Manticore"
@@ -12818,7 +12818,7 @@
         "en": "He was sent on campaign with Beric."
       }
     ],
-    "portrait": "portraits/alyn.jpg",
+    "portrait": "portraits/alyn.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Алин",
       "en": "https://awoiaf.westeros.org/index.php/Alyn"
@@ -12853,7 +12853,7 @@
         "en": "He parted from Lady Stoneheart’s followers."
       }
     ],
-    "portrait": "portraits/jon-o-nutten.jpg",
+    "portrait": "portraits/jon-o-nutten.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Джон_Нуттен",
       "en": "https://awoiaf.westeros.org/index.php/Jon_O%27_Nutten"
@@ -12886,7 +12886,7 @@
         "en": "He took part in the attack on the Brave Companions at the septry."
       }
     ],
-    "portrait": "portraits/kyle.jpg",
+    "portrait": "portraits/kyle.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Кайл_(Братство)",
       "en": "https://awoiaf.westeros.org/index.php/Kyle_(brotherhood)"
@@ -12919,7 +12919,7 @@
         "en": "He did not follow Lady Stoneheart after the change of leadership."
       }
     ],
-    "portrait": "portraits/watty.jpg",
+    "portrait": "portraits/watty.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Уотти-Мельник",
       "en": "https://awoiaf.westeros.org/index.php/Watty_the_Miller"
@@ -12952,7 +12952,7 @@
         "en": "He joined the Windblown alongside the prince."
       }
     ],
-    "portrait": "portraits/gerris-drinkwater.jpg",
+    "portrait": "portraits/gerris-drinkwater.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Геррис_Дринкуотер",
       "en": "https://awoiaf.westeros.org/index.php/Gerris_Drinkwater"
@@ -12997,7 +12997,7 @@
         "en": "He hoped to marry Val."
       }
     ],
-    "portrait": "portraits/patrek-of-king-s-mountain.jpg",
+    "portrait": "portraits/patrek-of-king-s-mountain.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Патрек_с_Королевской_Горы",
       "en": "https://awoiaf.westeros.org/index.php/Patrek_of_King%27s_Mountain"
@@ -13033,7 +13033,7 @@
         "en": "He was among the first over the Crag’s walls with Black Walder."
       }
     ],
-    "portrait": "portraits/smalljon-umber.jpg",
+    "portrait": "portraits/smalljon-umber.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Джон_Амбер_(Маленький_Джон)",
       "en": "https://awoiaf.westeros.org/index.php/Jon_Umber_(Smalljon)"
@@ -13073,7 +13073,7 @@
         "en": "He guards the tower where Val lives."
       }
     ],
-    "portrait": "portraits/wun-weg-wun-dar-wun.jpg",
+    "portrait": "portraits/wun-weg-wun-dar-wun.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Вун_Вун",
       "en": "https://awoiaf.westeros.org/index.php/Wun_Weg_Wun_Dar_Wun"
@@ -13105,7 +13105,7 @@
         "en": "He wanted to meet his bastard half-brother."
       }
     ],
-    "portrait": "portraits/domeric-bolton.jpg",
+    "portrait": "portraits/domeric-bolton.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Домерик_Болтон",
       "en": "https://awoiaf.westeros.org/index.php/Domeric_Bolton"
@@ -13142,7 +13142,7 @@
         "en": "She sent letters to her husband while he was at Harrenhal."
       }
     ],
-    "portrait": "portraits/fat-walda-frey.jpg",
+    "portrait": "portraits/fat-walda-frey.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Уолда_Фрей_(Толстая)",
       "en": "https://awoiaf.westeros.org/index.php/Fat_Walda_Frey"
@@ -13200,7 +13200,7 @@
         "en": "She was married off under another girl’s identity."
       }
     ],
-    "portrait": "portraits/jeyne-poole.jpg",
+    "portrait": "portraits/jeyne-poole.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Джейни_Пуль",
       "en": "https://awoiaf.westeros.org/index.php/Jeyne_Poole"
@@ -13258,7 +13258,7 @@
         "en": "She learned to read from Marei."
       }
     ],
-    "portrait": "portraits/alayaya.jpg",
+    "portrait": "portraits/alayaya.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Алаяйя",
       "en": "https://awoiaf.westeros.org/index.php/Alayaya"
@@ -13291,7 +13291,7 @@
         "en": "He has known Littlefinger since childhood."
       }
     ],
-    "portrait": "portraits/osfryd-kettleblack.jpg",
+    "portrait": "portraits/osfryd-kettleblack.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Осфрид_Кеттлблэк",
       "en": "https://awoiaf.westeros.org/index.php/Osfryd_Kettleblack"
@@ -13337,7 +13337,7 @@
         "en": "He was used in a plot against Margaery."
       }
     ],
-    "portrait": "portraits/osney-kettleblack.jpg",
+    "portrait": "portraits/osney-kettleblack.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Осни_Кеттлблэк",
       "en": "https://awoiaf.westeros.org/index.php/Osney_Kettleblack"
@@ -13378,7 +13378,7 @@
         "en": "He helps serve food to the septry’s guests."
       }
     ],
-    "portrait": "portraits/gravedigger.jpg",
+    "portrait": "portraits/gravedigger.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Тихий_остров#Могильщик",
       "en": "https://awoiaf.westeros.org/index.php/Gravedigger"
@@ -13407,7 +13407,7 @@
         "en": "He knows the roads along the usual route well."
       }
     ],
-    "portrait": "portraits/dog.jpg",
+    "portrait": "portraits/dog.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Собака_Мерибальда",
       "en": "https://awoiaf.westeros.org/index.php/Dog_(Meribald)"
@@ -13436,7 +13436,7 @@
         "en": "He guided Brienne to the Quiet Isle."
       }
     ],
-    "portrait": "portraits/meribald.jpg",
+    "portrait": "portraits/meribald.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Мерибальд",
       "en": "https://awoiaf.westeros.org/index.php/Meribald"
@@ -13469,7 +13469,7 @@
         "en": "He decided to sail to Daenerys."
       }
     ],
-    "portrait": "portraits/marwyn.jpg",
+    "portrait": "portraits/marwyn.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Марвин",
       "en": "https://awoiaf.westeros.org/index.php/Marwyn"
@@ -13506,7 +13506,7 @@
         "en": "He helped Sansa and Petyr leave the capital."
       }
     ],
-    "portrait": "portraits/lothor-brune.jpg",
+    "portrait": "portraits/lothor-brune.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Лотор_Брюн",
       "en": "https://awoiaf.westeros.org/index.php/Lothor_Brune"
@@ -13559,7 +13559,7 @@
         "en": "She came to the capital for the royal wedding."
       }
     ],
-    "portrait": "portraits/alerie-hightower.jpg",
+    "portrait": "portraits/alerie-hightower.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Алерия_Хайтауэр",
       "en": "https://awoiaf.westeros.org/index.php/Alerie_Hightower"
@@ -13610,7 +13610,7 @@
         "en": "He became Brienne’s guide to the Whispers."
       }
     ],
-    "portrait": "portraits/dick-crabb.jpg",
+    "portrait": "portraits/dick-crabb.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Дик_Крэбб",
       "en": "https://awoiaf.westeros.org/index.php/Dick_Crabb"
@@ -13644,7 +13644,7 @@
         "en": "He proposed marriage to Brienne."
       }
     ],
-    "portrait": "portraits/hyle-hunt.jpg",
+    "portrait": "portraits/hyle-hunt.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Хайл_Хант",
       "en": "https://awoiaf.westeros.org/index.php/Hyle_Hunt"
@@ -13685,7 +13685,7 @@
         "en": "He intended to find the Hound and fight him."
       }
     ],
-    "portrait": "portraits/lyle-crakehall.jpg",
+    "portrait": "portraits/lyle-crakehall.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Лайл_Крейкхолл",
       "en": "https://awoiaf.westeros.org/index.php/Lyle_Crakehall"
@@ -13730,7 +13730,7 @@
         "en": "He served several different lords during his life."
       }
     ],
-    "portrait": "portraits/arlan-of-pennytree.jpg",
+    "portrait": "portraits/arlan-of-pennytree.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Арлан_из_Пеннитри",
       "en": "https://awoiaf.westeros.org/index.php/Arlan_of_Pennytree"
@@ -13771,7 +13771,7 @@
         "en": "He attacked the boy during a library fire."
       }
     ],
-    "portrait": "portraits/catspaw.jpg",
+    "portrait": "portraits/catspaw.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Убийца_в_Винтерфелле",
       "en": "https://awoiaf.westeros.org/index.php/Catspaw"
@@ -13803,7 +13803,7 @@
         "en": "She formed an alliance with Mors through marriage."
       }
     ],
-    "portrait": "portraits/nymeria.jpg",
+    "portrait": "portraits/nymeria.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Нимерия_(королева)",
       "en": "https://awoiaf.westeros.org/index.php/Nymeria"
@@ -13858,7 +13858,7 @@
         "en": "She was expecting a child during the siege of Riverrun."
       }
     ],
-    "portrait": "portraits/roslin-frey.jpg",
+    "portrait": "portraits/roslin-frey.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Рослин_Фрей",
       "en": "https://awoiaf.westeros.org/index.php/Roslin_Frey"
@@ -13908,7 +13908,7 @@
         "en": "Traditions place him in the Age of Heroes."
       }
     ],
-    "portrait": "portraits/bran-the-builder.jpg",
+    "portrait": "portraits/bran-the-builder.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Брандон_Строитель",
       "en": "https://awoiaf.westeros.org/index.php/Bran_the_Builder"
@@ -13953,7 +13953,7 @@
         "en": "He coined the new High Septon’s nickname."
       }
     ],
-    "portrait": "portraits/moon-boy.jpg",
+    "portrait": "portraits/moon-boy.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Лунатик",
       "en": "https://awoiaf.westeros.org/index.php/Moon_Boy"
@@ -13983,7 +13983,7 @@
         "en": "He brought his house’s older warriors to Winterfell."
       }
     ],
-    "portrait": "portraits/hother-umber.jpg",
+    "portrait": "portraits/hother-umber.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Хозер_Амбер",
       "en": "https://awoiaf.westeros.org/index.php/Hother_Umber"
@@ -14028,7 +14028,7 @@
         "en": "He secretly supported Stannis’s enemies."
       }
     ],
-    "portrait": "portraits/arnolf-karstark.jpg",
+    "portrait": "portraits/arnolf-karstark.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Арнольф_Карстарк",
       "en": "https://awoiaf.westeros.org/index.php/Arnolf_Karstark"
@@ -14069,7 +14069,7 @@
         "en": "He distrusts the city’s old nobility."
       }
     ],
-    "portrait": "portraits/skahaz-mo-kandaq.jpg",
+    "portrait": "portraits/skahaz-mo-kandaq.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Скахаз_мо_Кандак",
       "en": "https://awoiaf.westeros.org/index.php/Skahaz_mo_Kandaq"
@@ -14108,7 +14108,7 @@
         "en": "He helped the prince reach the dragons beneath the pyramid."
       }
     ],
-    "portrait": "portraits/archibald-yronwood.jpg",
+    "portrait": "portraits/archibald-yronwood.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Арчибальд_Айронвуд",
       "en": "https://awoiaf.westeros.org/index.php/Archibald_Yronwood"
@@ -14157,7 +14157,7 @@
         "en": "He serves among Selyse’s queen’s men."
       }
     ],
-    "portrait": "portraits/axell-florent.jpg",
+    "portrait": "portraits/axell-florent.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Акселл_Флорент",
       "en": "https://awoiaf.westeros.org/index.php/Axell_Florent"
@@ -14201,7 +14201,7 @@
         "en": "He became Jon’s personal steward."
       }
     ],
-    "portrait": "portraits/satin.jpg",
+    "portrait": "portraits/satin.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Атлас",
       "en": "https://awoiaf.westeros.org/index.php/Satin"
@@ -14236,7 +14236,7 @@
         "en": "Her son remained at Longtable."
       }
     ],
-    "portrait": "portraits/taena-of-myr.jpg",
+    "portrait": "portraits/taena-of-myr.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Тейна_Мерривезер",
       "en": "https://awoiaf.westeros.org/index.php/Taena_of_Myr"
@@ -14276,7 +14276,7 @@
         "en": "She was captured by slavers."
       }
     ],
-    "portrait": "portraits/penny.jpg",
+    "portrait": "portraits/penny.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Пенни",
       "en": "https://awoiaf.westeros.org/index.php/Penny"
@@ -14305,7 +14305,7 @@
         "en": "After Robb’s defeat he changed sides to the crown."
       }
     ],
-    "portrait": "portraits/jonos-bracken.jpg",
+    "portrait": "portraits/jonos-bracken.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Джонос_Бракен",
       "en": "https://awoiaf.westeros.org/index.php/Jonos_Bracken"
@@ -14349,7 +14349,7 @@
         "en": "He reads letters to the Watch’s commanders."
       }
     ],
-    "portrait": "portraits/clydas.jpg",
+    "portrait": "portraits/clydas.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Клидас",
       "en": "https://awoiaf.westeros.org/index.php/Clydas"
@@ -14387,7 +14387,7 @@
         "en": "He installed bars in Bran’s room to help him move around."
       }
     ],
-    "portrait": "portraits/mikken.jpg",
+    "portrait": "portraits/mikken.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Миккен",
       "en": "https://awoiaf.westeros.org/index.php/Mikken"
@@ -14421,7 +14421,7 @@
         "en": "He became master of ships."
       }
     ],
-    "portrait": "portraits/paxter-redwyne.jpg",
+    "portrait": "portraits/paxter-redwyne.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Пакстер_Редвин",
       "en": "https://awoiaf.westeros.org/index.php/Paxter_Redwyne"
@@ -14462,7 +14462,7 @@
         "en": "According to the tale the gods transformed him into a rat."
       }
     ],
-    "portrait": "portraits/rat-cook.jpg",
+    "portrait": "portraits/rat-cook.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Повар-Крыса",
       "en": "https://awoiaf.westeros.org/index.php/Rat_Cook"
@@ -14497,7 +14497,7 @@
         "en": "He traveled with him along the Rhoyne."
       }
     ],
-    "portrait": "portraits/haldon.jpg",
+    "portrait": "portraits/haldon.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Хэлдон_Полумейстер",
       "en": "https://awoiaf.westeros.org/index.php/Haldon"
@@ -14528,7 +14528,7 @@
         "en": "He later enjoyed Lysa’s patronage."
       }
     ],
-    "portrait": "portraits/marillion.jpg",
+    "portrait": "portraits/marillion.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Мариллион",
       "en": "https://awoiaf.westeros.org/index.php/Marillion"
@@ -14560,7 +14560,7 @@
         "en": "He helped arrange her marriage."
       }
     ],
-    "portrait": "portraits/reznak-mo-reznak.jpg",
+    "portrait": "portraits/reznak-mo-reznak.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Резнак_мо_Резнак",
       "en": "https://awoiaf.westeros.org/index.php/Reznak_mo_Reznak"
@@ -14595,7 +14595,7 @@
         "en": "He carried peace terms between Riverrun and the capital."
       }
     ],
-    "portrait": "portraits/cleos-frey.jpg",
+    "portrait": "portraits/cleos-frey.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Клеос_Фрей",
       "en": "https://awoiaf.westeros.org/index.php/Cleos_Frey"
@@ -14644,7 +14644,7 @@
         "en": "She was outside Dorne when her sisters were arrested."
       }
     ],
-    "portrait": "portraits/sarella-sand.jpg",
+    "portrait": "portraits/sarella-sand.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Сарелла_Сэнд",
       "en": "https://awoiaf.westeros.org/index.php/Sarella_Sand"
@@ -14674,7 +14674,7 @@
         "en": "He previously served in several sellsword companies."
       }
     ],
-    "portrait": "portraits/tattered-prince.jpg",
+    "portrait": "portraits/tattered-prince.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Принц-Оборванец",
       "en": "https://awoiaf.westeros.org/index.php/Tattered_Prince"
@@ -14721,7 +14721,7 @@
         "en": "He was freed from Dornish captivity by King Baelor."
       }
     ],
-    "portrait": "portraits/aemon-targaryen.jpg",
+    "portrait": "portraits/aemon-targaryen.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Эймон_Рыцарь-Дракон",
       "en": "https://awoiaf.westeros.org/index.php/Dragonknight"
@@ -14774,7 +14774,7 @@
         "en": "His mother was a Dornish princess."
       }
     ],
-    "portrait": "portraits/baelor-targaryen.jpg",
+    "portrait": "portraits/baelor-targaryen.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Бейлор_Таргариен_(Сломи_Копье)",
       "en": "https://awoiaf.westeros.org/index.php/Baelor_Breakspear"
@@ -14819,7 +14819,7 @@
         "en": "He commanded part of the army at the Redgrass Field."
       }
     ],
-    "portrait": "portraits/maekar-i-targaryen.jpg",
+    "portrait": "portraits/maekar-i-targaryen.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Мейкар_Таргариен",
       "en": "https://awoiaf.westeros.org/index.php/Maekar_I_Targaryen"
@@ -14868,7 +14868,7 @@
         "en": "He lives at court in the Red Keep."
       }
     ],
-    "portrait": "portraits/jalabhar-xho.jpg",
+    "portrait": "portraits/jalabhar-xho.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Джалабхар_Ксо",
       "en": "https://awoiaf.westeros.org/index.php/Jalabhar_Xho"
@@ -14902,7 +14902,7 @@
         "en": "He took the new royal ships away from the capital."
       }
     ],
-    "portrait": "portraits/aurane-waters.jpg",
+    "portrait": "portraits/aurane-waters.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Ауран_Уотерс",
       "en": "https://awoiaf.westeros.org/index.php/Aurane_Waters"
@@ -14940,7 +14940,7 @@
         "en": "She later lived in Lys under a wealthy merchant’s protection."
       }
     ],
-    "portrait": "portraits/lynesse-hightower.jpg",
+    "portrait": "portraits/lynesse-hightower.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Линесса_Хайтауэр",
       "en": "https://awoiaf.westeros.org/index.php/Lynesse_Hightower"
@@ -14987,7 +14987,7 @@
         "en": "He reached Stannis’s northern camp."
       }
     ],
-    "portrait": "portraits/tycho-nestoris.jpg",
+    "portrait": "portraits/tycho-nestoris.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Тихо_Несторис",
       "en": "https://awoiaf.westeros.org/index.php/Tycho_Nestoris"
@@ -15023,7 +15023,7 @@
         "en": "He took part in an attempt to steal dragons."
       }
     ],
-    "portrait": "portraits/caggo.jpg",
+    "portrait": "portraits/caggo.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Кагго",
       "en": "https://awoiaf.westeros.org/index.php/Caggo"
@@ -15066,7 +15066,7 @@
         "en": "He blew the dragon horn three times."
       }
     ],
-    "portrait": "portraits/cragorn.jpg",
+    "portrait": "portraits/cragorn.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Крагорн",
       "en": "https://awoiaf.westeros.org/index.php/Cragorn"
@@ -15097,7 +15097,7 @@
         "en": "He returned with him to rescue Brienne."
       }
     ],
-    "portrait": "portraits/steelshanks-walton.jpg",
+    "portrait": "portraits/steelshanks-walton.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Уолтон_Железные_Икры",
       "en": "https://awoiaf.westeros.org/index.php/Steelshanks_Walton"
@@ -15134,7 +15134,7 @@
         "en": "She told her mistress a legend about dragons’ origins."
       }
     ],
-    "portrait": "portraits/doreah.jpg",
+    "portrait": "portraits/doreah.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Дорея",
       "en": "https://awoiaf.westeros.org/index.php/Doreah"
@@ -15167,7 +15167,7 @@
         "en": "She helped save Tyrion after he fell into the river."
       }
     ],
-    "portrait": "portraits/lemore.jpg",
+    "portrait": "portraits/lemore.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Лемора",
       "en": "https://awoiaf.westeros.org/index.php/Lemore"
@@ -15206,7 +15206,7 @@
         "en": "He is known as a skilled scout commander."
       }
     ],
-    "portrait": "portraits/addam-marbrand.jpg",
+    "portrait": "portraits/addam-marbrand.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Аддам_Марбранд",
       "en": "https://awoiaf.westeros.org/index.php/Addam_Marbrand"
@@ -15255,7 +15255,7 @@
         "en": "He supported Robb in the war."
       }
     ],
-    "portrait": "portraits/jason-mallister.jpg",
+    "portrait": "portraits/jason-mallister.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Джейсон_Маллистер",
       "en": "https://awoiaf.westeros.org/index.php/Jason_Mallister"
@@ -15296,7 +15296,7 @@
         "en": "He sailed to rescue people from Hardhome."
       }
     ],
-    "portrait": "portraits/cotter-pyke.jpg",
+    "portrait": "portraits/cotter-pyke.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Коттер_Пайк",
       "en": "https://awoiaf.westeros.org/index.php/Cotter_Pyke"
@@ -15335,7 +15335,7 @@
         "en": "He supported Tyrion’s efforts to maintain order in the capital."
       }
     ],
-    "portrait": "portraits/jacelyn-bywater.jpg",
+    "portrait": "portraits/jacelyn-bywater.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Джаселин_Байуотер",
       "en": "https://awoiaf.westeros.org/index.php/Jacelyn_Bywater"
@@ -15385,7 +15385,7 @@
         "en": "He warns the ironborn about the dangers of overseas campaigns."
       }
     ],
-    "portrait": "portraits/rodrik-harlaw.jpg",
+    "portrait": "portraits/rodrik-harlaw.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Родрик_Харлоу",
       "en": "https://awoiaf.westeros.org/index.php/Rodrik_Harlaw"
@@ -15430,7 +15430,7 @@
         "en": "He continued resisting after the defeat at the Wall."
       }
     ],
-    "portrait": "portraits/weeper.jpg",
+    "portrait": "portraits/weeper.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Плакальщик",
       "en": "https://awoiaf.westeros.org/index.php/Weeper"
@@ -15460,7 +15460,7 @@
         "en": "He went to Oldstones with a relative’s ransom."
       }
     ],
-    "portrait": "portraits/merrett-frey.jpg",
+    "portrait": "portraits/merrett-frey.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Мерретт_Фрей",
       "en": "https://awoiaf.westeros.org/index.php/Merrett_Frey"
@@ -15501,7 +15501,7 @@
         "en": "He previously told Jeor about the fate of Craster’s sons."
       }
     ],
-    "portrait": "portraits/thoren-smallwood.jpg",
+    "portrait": "portraits/thoren-smallwood.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Торен_Смоллвуд",
       "en": "https://awoiaf.westeros.org/index.php/Thoren_Smallwood"
@@ -15546,7 +15546,7 @@
         "en": "He tried to stop the ritual in the khal’s tent."
       }
     ],
-    "portrait": "portraits/qotho.jpg",
+    "portrait": "portraits/qotho.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Квото",
       "en": "https://awoiaf.westeros.org/index.php/Qotho"
@@ -15582,7 +15582,7 @@
         "en": "He advised Theon to abandon the castle."
       }
     ],
-    "portrait": "portraits/black-lorren.jpg",
+    "portrait": "portraits/black-lorren.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Черный_Лоррен",
       "en": "https://awoiaf.westeros.org/index.php/Lorren"
@@ -15620,7 +15620,7 @@
         "en": "He supplied the capital with food from his lands."
       }
     ],
-    "portrait": "portraits/gyles-rosby.jpg",
+    "portrait": "portraits/gyles-rosby.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Джайлс_Росби",
       "en": "https://awoiaf.westeros.org/index.php/Gyles_Rosby"
@@ -15664,7 +15664,7 @@
         "en": "He sailed with Asha on trading and raiding voyages."
       }
     ],
-    "portrait": "portraits/qarl-the-maid.jpg",
+    "portrait": "portraits/qarl-the-maid.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Кварл_Девица",
       "en": "https://awoiaf.westeros.org/index.php/Qarl_the_Maid"
@@ -15694,7 +15694,7 @@
         "en": "He promised voters roast mammoth during the Lord Commander election."
       }
     ],
-    "portrait": "portraits/hobb.jpg",
+    "portrait": "portraits/hobb.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Хобб",
       "en": "https://awoiaf.westeros.org/index.php/Hobb"
@@ -15736,7 +15736,7 @@
         "en": "She tried to arrange her younger daughter’s marriage to Tyrion."
       }
     ],
-    "portrait": "portraits/tanda-stokeworth.jpg",
+    "portrait": "portraits/tanda-stokeworth.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Танда_Стокворт",
       "en": "https://awoiaf.westeros.org/index.php/Tanda_Stokeworth"
@@ -15777,7 +15777,7 @@
         "en": "He tended the Watch’s dogs during the ranging."
       }
     ],
-    "portrait": "portraits/chett.jpg",
+    "portrait": "portraits/chett.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Четт",
       "en": "https://awoiaf.westeros.org/index.php/Chett"
@@ -15812,7 +15812,7 @@
         "en": "He later received command of Long Barrow."
       }
     ],
-    "portrait": "portraits/iron-emmett.jpg",
+    "portrait": "portraits/iron-emmett.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Железный_Эммет",
       "en": "https://awoiaf.westeros.org/index.php/Iron_Emmett"
@@ -15851,7 +15851,7 @@
         "en": "He left the party to cross the mountains for help."
       }
     ],
-    "portrait": "portraits/stonesnake.jpg",
+    "portrait": "portraits/stonesnake.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Каменный_Змей",
       "en": "https://awoiaf.westeros.org/index.php/Stonesnake"
@@ -15889,7 +15889,7 @@
         "en": "He dreams of the girl Rosey."
       }
     ],
-    "portrait": "portraits/pate-novice.jpg",
+    "portrait": "portraits/pate-novice.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Пейт_из_Цитадели",
       "en": "https://awoiaf.westeros.org/index.php/Pate_(Novice)"
@@ -15922,7 +15922,7 @@
         "en": "She married secretly without his father’s consent."
       }
     ],
-    "portrait": "portraits/tysha.jpg",
+    "portrait": "portraits/tysha.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Тиша",
       "en": "https://awoiaf.westeros.org/index.php/Tysha"
@@ -15955,7 +15955,7 @@
         "en": "He practiced with her using wooden sticks."
       }
     ],
-    "portrait": "portraits/mycah.jpg",
+    "portrait": "portraits/mycah.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Мика",
       "en": "https://awoiaf.westeros.org/index.php/Mycah"
@@ -15988,7 +15988,7 @@
         "en": "He became Ramsay’s squire."
       }
     ],
-    "portrait": "portraits/big-walder-frey.jpg",
+    "portrait": "portraits/big-walder-frey.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Уолдер_Фрей_(Большой)",
       "en": "https://awoiaf.westeros.org/index.php/Big_Walder_Frey"
@@ -16033,7 +16033,7 @@
         "en": "He served as Ramsay’s squire."
       }
     ],
-    "portrait": "portraits/little-walder-frey.jpg",
+    "portrait": "portraits/little-walder-frey.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Уолдер_Фрей_(Малый)",
       "en": "https://awoiaf.westeros.org/index.php/Little_Walder_Frey"
@@ -16079,7 +16079,7 @@
         "en": "She advised Daenerys to marry a local nobleman."
       }
     ],
-    "portrait": "portraits/galazza-galare.jpg",
+    "portrait": "portraits/galazza-galare.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Галацца_Галар",
       "en": "https://awoiaf.westeros.org/index.php/Galazza_Galare"
@@ -16113,7 +16113,7 @@
         "en": "Three of his sons became the Watch’s hostages."
       }
     ],
-    "portrait": "portraits/alfyn-crowkiller.jpg",
+    "portrait": "portraits/alfyn-crowkiller.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Альфин_Убийца_Ворон",
       "en": "https://awoiaf.westeros.org/index.php/Alfyn_Crowkiller"
@@ -16142,7 +16142,7 @@
         "en": "He helps restore abandoned castles along the Wall."
       }
     ],
-    "portrait": "portraits/othell-yarwyck.jpg",
+    "portrait": "portraits/othell-yarwyck.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Отелл_Ярвик",
       "en": "https://awoiaf.westeros.org/index.php/Othell_Yarwyck"
@@ -16190,7 +16190,7 @@
         "en": "She lives at White Harbor."
       }
     ],
-    "portrait": "portraits/wylla-manderly.jpg",
+    "portrait": "portraits/wylla-manderly.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Вилла_Мандерли",
       "en": "https://awoiaf.westeros.org/index.php/Wylla_Manderly"
@@ -16227,7 +16227,7 @@
         "en": "She gave birth to a son in the camp by the Wall."
       }
     ],
-    "portrait": "portraits/dalla.jpg",
+    "portrait": "portraits/dalla.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Далла",
       "en": "https://awoiaf.westeros.org/index.php/Dalla"
@@ -16257,7 +16257,7 @@
         "en": "He joined Jeor’s great ranging."
       }
     ],
-    "portrait": "portraits/dywen.jpg",
+    "portrait": "portraits/dywen.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Дайвин",
       "en": "https://awoiaf.westeros.org/index.php/Dywen"
@@ -16292,7 +16292,7 @@
         "en": "He lived in exile in Lys."
       }
     ],
-    "portrait": "portraits/aerion-targaryen.jpg",
+    "portrait": "portraits/aerion-targaryen.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Эйрион_Таргариен",
       "en": "https://awoiaf.westeros.org/index.php/Aerion_Targaryen"
@@ -16345,7 +16345,7 @@
         "en": "He was hired by Yunkai to fight Daenerys."
       }
     ],
-    "portrait": "portraits/bloodbeard.jpg",
+    "portrait": "portraits/bloodbeard.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Кровавая_Борода",
       "en": "https://awoiaf.westeros.org/index.php/Bloodbeard"
@@ -16378,7 +16378,7 @@
         "en": "He helped Catelyn and Brienne leave the royal tent."
       }
     ],
-    "portrait": "portraits/robar-royce.jpg",
+    "portrait": "portraits/robar-royce.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Робар_Ройс",
       "en": "https://awoiaf.westeros.org/index.php/Robar_Royce"
@@ -16430,7 +16430,7 @@
         "en": "She defended women’s right to compete in the arena."
       }
     ],
-    "portrait": "portraits/barsena.jpg",
+    "portrait": "portraits/barsena.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Барсена_Черноволосая",
       "en": "https://awoiaf.westeros.org/index.php/Barsena"
@@ -16459,7 +16459,7 @@
         "en": "He was appointed to the city’s ruling council."
       }
     ],
-    "portrait": "portraits/belaquo-bonebreaker.jpg",
+    "portrait": "portraits/belaquo-bonebreaker.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Белакво_Костолом",
       "en": "https://awoiaf.westeros.org/index.php/Belaquo_Bonebreaker"
@@ -16489,7 +16489,7 @@
         "en": "He joined the city council at Barristan’s insistence."
       }
     ],
-    "portrait": "portraits/goghor-the-giant.jpg",
+    "portrait": "portraits/goghor-the-giant.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Гогор_Великан",
       "en": "https://awoiaf.westeros.org/index.php/Goghor_the_Giant"
@@ -16519,7 +16519,7 @@
         "en": "He proposed attacking the Yunkish rear from the river."
       }
     ],
-    "portrait": "portraits/camarron.jpg",
+    "portrait": "portraits/camarron.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Камаррон_Несчетный",
       "en": "https://awoiaf.westeros.org/index.php/Camarron_of_the_Count"
@@ -16548,7 +16548,7 @@
         "en": "He joined the fighters gathered near the Spire of Skulls."
       }
     ],
-    "portrait": "portraits/fearless-ithoke.jpg",
+    "portrait": "portraits/fearless-ithoke.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Иток_Бесстрашный",
       "en": "https://awoiaf.westeros.org/index.php/Ithoke"
@@ -16577,7 +16577,7 @@
         "en": "He became Hizdahr’s protector."
       }
     ],
-    "portrait": "portraits/khrazz.jpg",
+    "portrait": "portraits/khrazz.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Кразз",
       "en": "https://awoiaf.westeros.org/index.php/Khrazz"
@@ -16607,7 +16607,7 @@
         "en": "He proposes settling the siege through a duel of champions."
       }
     ],
-    "portrait": "portraits/spotted-cat.jpg",
+    "portrait": "portraits/spotted-cat.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Пятнистый_Кот",
       "en": "https://awoiaf.westeros.org/index.php/Spotted_Cat"
@@ -16637,7 +16637,7 @@
         "en": "After Renly he supported Stannis."
       }
     ],
-    "portrait": "portraits/bryce-caron.jpg",
+    "portrait": "portraits/bryce-caron.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Брайс_Карон",
       "en": "https://awoiaf.westeros.org/index.php/Bryce_Caron"
@@ -16686,7 +16686,7 @@
         "en": "He was in Renly’s camp at Storm’s End."
       }
     ],
-    "portrait": "portraits/emmon-cuy.jpg",
+    "portrait": "portraits/emmon-cuy.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Эммон_Кью",
       "en": "https://awoiaf.westeros.org/index.php/Emmon_Cuy"
@@ -16738,7 +16738,7 @@
         "en": "He later fought for Stannis at the Blackwater."
       }
     ],
-    "portrait": "portraits/guyard-morrigen.jpg",
+    "portrait": "portraits/guyard-morrigen.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Гайард_Морриген",
       "en": "https://awoiaf.westeros.org/index.php/Guyard_Morrigen"
@@ -16787,7 +16787,7 @@
         "en": "He became a prisoner at Highgarden."
       }
     ],
-    "portrait": "portraits/parmen-crane.jpg",
+    "portrait": "portraits/parmen-crane.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Пармен_Крейн",
       "en": "https://awoiaf.westeros.org/index.php/Parmen_Crane"
@@ -16836,7 +16836,7 @@
         "en": "He yielded his votes to Jon after speaking with Sam."
       }
     ],
-    "portrait": "portraits/denys-mallister.jpg",
+    "portrait": "portraits/denys-mallister.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Денис_Маллистер",
       "en": "https://awoiaf.westeros.org/index.php/Denys_Mallister"
@@ -16884,7 +16884,7 @@
         "en": "He resisted the western armies in the riverlands."
       }
     ],
-    "portrait": "portraits/marq-piper.jpg",
+    "portrait": "portraits/marq-piper.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Марк_Пайпер",
       "en": "https://awoiaf.westeros.org/index.php/Marq_Piper"
@@ -16925,7 +16925,7 @@
         "en": "He became Ramsay’s constant companion."
       }
     ],
-    "portrait": "portraits/heke.jpg",
+    "portrait": "portraits/heke.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Хеке",
       "en": "https://awoiaf.westeros.org/index.php/Reek"
@@ -16960,7 +16960,7 @@
         "en": "She sought Cersei’s help in her dispute with Bronn."
       }
     ],
-    "portrait": "portraits/falyse-stokeworth.jpg",
+    "portrait": "portraits/falyse-stokeworth.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Фалиса_Стокворт",
       "en": "https://awoiaf.westeros.org/index.php/Falyse_Stokeworth"
@@ -17001,7 +17001,7 @@
         "en": "He learned archery from a famous master from the stormlands."
       }
     ],
-    "portrait": "portraits/ulmer.jpg",
+    "portrait": "portraits/ulmer.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Ульмер",
       "en": "https://awoiaf.westeros.org/index.php/Ulmer"
@@ -17040,7 +17040,7 @@
         "en": "He enjoyed the support of the forest folk."
       }
     ],
-    "portrait": "portraits/simon-toyne.jpg",
+    "portrait": "portraits/simon-toyne.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Саймон_Тойн",
       "en": "https://awoiaf.westeros.org/index.php/Simon_Toyne"
@@ -17077,7 +17077,7 @@
         "en": "Ulmer told stories about him to the brothers on the Wall."
       }
     ],
-    "portrait": "portraits/oswyn.jpg",
+    "portrait": "portraits/oswyn.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Освин",
       "en": "https://awoiaf.westeros.org/index.php/Oswyn_Longneck_the_Thrice-Hanged"
@@ -17110,7 +17110,7 @@
         "en": "She branded captives before releasing them."
       }
     ],
-    "portrait": "portraits/wenda.jpg",
+    "portrait": "portraits/wenda.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Венда",
       "en": "https://awoiaf.westeros.org/index.php/Wenda"
@@ -17143,7 +17143,7 @@
         "en": "A comic song pairs him with the High Septon’s goose."
       }
     ],
-    "portrait": "portraits/ben-big-belly.jpg",
+    "portrait": "portraits/ben-big-belly.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Бен",
       "en": "https://awoiaf.westeros.org/index.php/Big_Belly_Ben"
@@ -17176,7 +17176,7 @@
         "en": "He taught Ulmer to use a bow."
       }
     ],
-    "portrait": "portraits/dick.jpg",
+    "portrait": "portraits/dick.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Дик",
       "en": "https://awoiaf.westeros.org/index.php/Fletcher_Dick"
@@ -17205,7 +17205,7 @@
         "en": "He guarded the northern commander in the Whispering Wood."
       }
     ],
-    "portrait": "portraits/eddard-karstark.jpg",
+    "portrait": "portraits/eddard-karstark.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Эддард_Карстарк",
       "en": "https://awoiaf.westeros.org/index.php/Eddard_Karstark"
@@ -17246,7 +17246,7 @@
         "en": "He belonged to Robb’s guard."
       }
     ],
-    "portrait": "portraits/torrhen-karstark.jpg",
+    "portrait": "portraits/torrhen-karstark.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Торрхен_Карстарк",
       "en": "https://awoiaf.westeros.org/index.php/Torrhen_Karstark"
@@ -17286,7 +17286,7 @@
         "en": "He was captured at the Green Fork."
       }
     ],
-    "portrait": "portraits/harrion-karstark.jpg",
+    "portrait": "portraits/harrion-karstark.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Харрион_Карстарк",
       "en": "https://awoiaf.westeros.org/index.php/Harrion_Karstark"
@@ -17338,7 +17338,7 @@
         "en": "He later worked with the Lord of White Harbor."
       }
     ],
-    "portrait": "portraits/robett-glover.jpg",
+    "portrait": "portraits/robett-glover.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Робетт_Гловер",
       "en": "https://awoiaf.westeros.org/index.php/Robett_Glover"
@@ -17378,7 +17378,7 @@
         "en": "She married the Magnar of Thenn."
       }
     ],
-    "portrait": "portraits/alys-karstark.jpg",
+    "portrait": "portraits/alys-karstark.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Алис_Карстарк",
       "en": "https://awoiaf.westeros.org/index.php/Alys_Karstark"
@@ -17424,7 +17424,7 @@
         "en": "He arranged his daughter’s marriage to the Lord of the Crossing’s son."
       }
     ],
-    "portrait": "portraits/tytos-lannister.jpg",
+    "portrait": "portraits/tytos-lannister.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Титос_Ланнистер",
       "en": "https://awoiaf.westeros.org/index.php/Tytos_Lannister"
@@ -17473,7 +17473,7 @@
         "en": "She took refuge on Dragonstone during the rebellion."
       }
     ],
-    "portrait": "portraits/rhaella-targaryen.jpg",
+    "portrait": "portraits/rhaella-targaryen.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Рейла_Таргариен",
       "en": "https://awoiaf.westeros.org/index.php/Rhaella_Targaryen"
@@ -17514,7 +17514,7 @@
         "en": "He fought Belwas."
       }
     ],
-    "portrait": "portraits/oznak-zo-pahl.jpg",
+    "portrait": "portraits/oznak-zo-pahl.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Ознак_зо_Паль",
       "en": "https://awoiaf.westeros.org/index.php/Oznak_zo_Pahl"
@@ -17552,7 +17552,7 @@
         "en": "He was taken into custody by the Brazen Beasts."
       }
     ],
-    "portrait": "portraits/steelskin.jpg",
+    "portrait": "portraits/steelskin.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Стальная_Шкура",
       "en": "https://awoiaf.westeros.org/index.php/Steelskin"
@@ -17581,7 +17581,7 @@
         "en": "He settled in an ancient tomb near the castle."
       }
     ],
-    "portrait": "portraits/borroq.jpg",
+    "portrait": "portraits/borroq.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Боррок",
       "en": "https://awoiaf.westeros.org/index.php/Borroq"
@@ -17611,7 +17611,7 @@
         "en": "According to legend he bound the brothers to his will through sorcery."
       }
     ],
-    "portrait": "portraits/nights-king.jpg",
+    "portrait": "portraits/nights-king.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Король_Ночи",
       "en": "https://awoiaf.westeros.org/index.php/Night%27s_King"
@@ -17645,7 +17645,7 @@
         "en": "He led the attack on Seagard."
       }
     ],
-    "portrait": "portraits/rodrik-greyjoy.jpg",
+    "portrait": "portraits/rodrik-greyjoy.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Родрик_Грейджой",
       "en": "https://awoiaf.westeros.org/index.php/Rodrik_Greyjoy"
@@ -17682,7 +17682,7 @@
         "en": "He was on Pyke during the royal assault."
       }
     ],
-    "portrait": "portraits/maron-greyjoy.jpg",
+    "portrait": "portraits/maron-greyjoy.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Марон_Грейджой",
       "en": "https://awoiaf.westeros.org/index.php/Maron_Greyjoy"
@@ -17719,7 +17719,7 @@
         "en": "She received Queensgate to settle her people."
       }
     ],
-    "portrait": "portraits/morna-white-mask.jpg",
+    "portrait": "portraits/morna-white-mask.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Морна_Белая_Маска",
       "en": "https://awoiaf.westeros.org/index.php/Morna_White_Mask"
@@ -17749,7 +17749,7 @@
         "en": "She idolizes her elder sisters."
       }
     ],
-    "portrait": "portraits/obella-sand.jpg",
+    "portrait": "portraits/obella-sand.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Обелла_Сэнд",
       "en": "https://awoiaf.westeros.org/index.php/Obella_Sand"
@@ -17779,7 +17779,7 @@
         "en": "He began creating his own Unsullied."
       }
     ],
-    "portrait": "portraits/cleon.jpg",
+    "portrait": "portraits/cleon.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Клеон_Великий",
       "en": "https://awoiaf.westeros.org/index.php/Cleon"
@@ -17816,7 +17816,7 @@
         "en": "She spent time with her younger sisters at the Water Gardens."
       }
     ],
-    "portrait": "portraits/elia-sand.jpg",
+    "portrait": "portraits/elia-sand.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Элия_Сэнд",
       "en": "https://awoiaf.westeros.org/index.php/Elia_Sand"
@@ -17850,7 +17850,7 @@
         "en": "He is Myranda’s father."
       }
     ],
-    "portrait": "portraits/nestor-royce.jpg",
+    "portrait": "portraits/nestor-royce.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Нестор_Ройс",
       "en": "https://awoiaf.westeros.org/index.php/Nestor_Royce"
@@ -17892,7 +17892,7 @@
         "en": "He trained Gendry in his workshop."
       }
     ],
-    "portrait": "portraits/tobho-mott.jpg",
+    "portrait": "portraits/tobho-mott.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Тобхо_Мотт",
       "en": "https://awoiaf.westeros.org/index.php/Tobho_Mott"
@@ -17924,7 +17924,7 @@
         "en": "He helps prepare the court’s descent for winter."
       }
     ],
-    "portrait": "portraits/colemon.jpg",
+    "portrait": "portraits/colemon.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Колемон",
       "en": "https://awoiaf.westeros.org/index.php/Colemon"
@@ -17959,7 +17959,7 @@
         "en": "He guarded the captive Jon in the wildling camp."
       }
     ],
-    "portrait": "portraits/longspear-ryk.jpg",
+    "portrait": "portraits/longspear-ryk.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Рик",
       "en": "https://awoiaf.westeros.org/index.php/Ryk"
@@ -17993,7 +17993,7 @@
         "en": "His marriage established a new house."
       }
     ],
-    "portrait": "portraits/sigorn.jpg",
+    "portrait": "portraits/sigorn.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Сигорн",
       "en": "https://awoiaf.westeros.org/index.php/Sigorn"
@@ -18033,7 +18033,7 @@
         "en": "He proposed that the ironborn turn to overseas trade."
       }
     ],
-    "portrait": "portraits/tristifer-botley.jpg",
+    "portrait": "portraits/tristifer-botley.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Тристифер_Ботли",
       "en": "https://awoiaf.westeros.org/index.php/Tristifer_Botley"
@@ -18078,7 +18078,7 @@
         "en": "He commanded troops at besieged Riverrun."
       }
     ],
-    "portrait": "portraits/ryman-frey.jpg",
+    "portrait": "portraits/ryman-frey.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Риман_Фрей",
       "en": "https://awoiaf.westeros.org/index.php/Ryman_Frey"
@@ -18119,7 +18119,7 @@
         "en": "He is married to Jeyne Beesbury."
       }
     ],
-    "portrait": "portraits/rhaegar-frey.jpg",
+    "portrait": "portraits/rhaegar-frey.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Рейгар_Фрей",
       "en": "https://awoiaf.westeros.org/index.php/Rhaegar_Frey"
@@ -18156,7 +18156,7 @@
         "en": "He later entered Littlefinger’s service."
       }
     ],
-    "portrait": "portraits/shadrich.jpg",
+    "portrait": "portraits/shadrich.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Шадрик",
       "en": "https://awoiaf.westeros.org/index.php/Shadrich"
@@ -18200,7 +18200,7 @@
         "en": "He rides Caraxes."
       }
     ],
-    "portrait": "portraits/daemon-targaryen.jpg",
+    "portrait": "portraits/daemon-targaryen.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Деймон_Таргариен",
       "en": "https://awoiaf.westeros.org/index.php/Daemon_Targaryen"
@@ -18252,7 +18252,7 @@
         "en": "He cares for the servant Pia."
       }
     ],
-    "portrait": "portraits/josmyn-peckledon.jpg",
+    "portrait": "portraits/josmyn-peckledon.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Джосмин_Пеклдон",
       "en": "https://awoiaf.westeros.org/index.php/Josmyn_Peckledon"
@@ -18293,7 +18293,7 @@
         "en": "He plays cyvasse with his betrothed."
       }
     ],
-    "portrait": "portraits/trystane-martell.jpg",
+    "portrait": "portraits/trystane-martell.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Тристан_Мартелл",
       "en": "https://awoiaf.westeros.org/index.php/Trystane_Martell"
@@ -18341,7 +18341,7 @@
         "en": "He passed on information about the northern heirs at White Harbor."
       }
     ],
-    "portrait": "portraits/wex-pyke.jpg",
+    "portrait": "portraits/wex-pyke.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Векс_Пайк",
       "en": "https://awoiaf.westeros.org/index.php/Wex_Pyke"
@@ -18375,7 +18375,7 @@
         "en": "She was married to a spice trader."
       }
     ],
-    "portrait": "portraits/maggy-the-frog.jpg",
+    "portrait": "portraits/maggy-the-frog.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Мэгги_Лягушка",
       "en": "https://awoiaf.westeros.org/index.php/Maggy"
@@ -18408,7 +18408,7 @@
         "en": "He was married three times."
       }
     ],
-    "portrait": "portraits/stevron-frey.jpg",
+    "portrait": "portraits/stevron-frey.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Стеврон_Фрей",
       "en": "https://awoiaf.westeros.org/index.php/Stevron_Frey"
@@ -18452,7 +18452,7 @@
         "en": "She is knowledgeable about poisons."
       }
     ],
-    "portrait": "portraits/waif.jpg",
+    "portrait": "portraits/waif.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Бродяжка",
       "en": "https://awoiaf.westeros.org/index.php/Waif"
@@ -18484,7 +18484,7 @@
         "en": "Arya served under him for a time."
       }
     ],
-    "portrait": "portraits/weese.jpg",
+    "portrait": "portraits/weese.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Виз",
       "en": "https://awoiaf.westeros.org/index.php/Weese"
@@ -18522,7 +18522,7 @@
         "en": "He sailed with her to Deepwood Motte."
       }
     ],
-    "portrait": "portraits/droopeye-dale.jpg",
+    "portrait": "portraits/droopeye-dale.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Дрыхучий_Дейл",
       "en": "https://awoiaf.westeros.org/index.php/Droopeye_Dale"
@@ -18552,7 +18552,7 @@
         "en": "He was captured by Stannis’s army."
       }
     ],
-    "portrait": "portraits/cromm.jpg",
+    "portrait": "portraits/cromm.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Кромм",
       "en": "https://awoiaf.westeros.org/index.php/Cromm"
@@ -18582,7 +18582,7 @@
         "en": "He was ransomed by an Iron Bank representative."
       }
     ],
-    "portrait": "portraits/grimtongue.jpg",
+    "portrait": "portraits/grimtongue.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Злой_Язык",
       "en": "https://awoiaf.westeros.org/index.php/Grimtongue"
@@ -18612,7 +18612,7 @@
         "en": "After being ransomed he escorted Tycho to Stannis."
       }
     ],
-    "portrait": "portraits/fingers.jpg",
+    "portrait": "portraits/fingers.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Ловкий",
       "en": "https://awoiaf.westeros.org/index.php/Fingers_(ironman)"
@@ -18641,7 +18641,7 @@
         "en": "His daughter serves in the same force."
       }
     ],
-    "portrait": "portraits/hagen.jpg",
+    "portrait": "portraits/hagen.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Хаген",
       "en": "https://awoiaf.westeros.org/index.php/Hagen"
@@ -18674,7 +18674,7 @@
         "en": "During the retreat she fought off a northern warrior."
       }
     ],
-    "portrait": "portraits/hagen-s-daughter.jpg",
+    "portrait": "portraits/hagen-s-daughter.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Дочь_Хагена",
       "en": "https://awoiaf.westeros.org/index.php/Hagen%27s_daughter"
@@ -18704,7 +18704,7 @@
         "en": "He was sent to fetch Lady Sybelle and her maester."
       }
     ],
-    "portrait": "portraits/harl.jpg",
+    "portrait": "portraits/harl.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Шестипалый_Харл",
       "en": "https://awoiaf.westeros.org/index.php/Harl"
@@ -18733,7 +18733,7 @@
         "en": "He took part in her expedition to Deepwood Motte."
       }
     ],
-    "portrait": "portraits/eerl-harlaw.jpg",
+    "portrait": "portraits/eerl-harlaw.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Эрл_Харлоу",
       "en": "https://awoiaf.westeros.org/index.php/Earl_Harlaw"
@@ -18770,7 +18770,7 @@
         "en": "He brought the castle’s lady and maester to his commander."
       }
     ],
-    "portrait": "portraits/lorren-longaxe.jpg",
+    "portrait": "portraits/lorren-longaxe.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Лоррен_Длинный_Топор",
       "en": "https://awoiaf.westeros.org/index.php/Lorren_Longaxe"
@@ -18799,7 +18799,7 @@
         "en": "After captivity he was ransomed by Tycho."
       }
     ],
-    "portrait": "portraits/roggon-rustbeard.jpg",
+    "portrait": "portraits/roggon-rustbeard.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Роггон",
       "en": "https://awoiaf.westeros.org/index.php/Roggon_Rustbeard"
@@ -18833,7 +18833,7 @@
         "en": "He scouted the retreat route with Roggon."
       }
     ],
-    "portrait": "portraits/rolfe-the-dwarf.jpg",
+    "portrait": "portraits/rolfe-the-dwarf.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Рольф_Карлик",
       "en": "https://awoiaf.westeros.org/index.php/Rolfe_the_Dwarf"
@@ -18862,7 +18862,7 @@
         "en": "A banker ransomed him for an escort across the North."
       }
     ],
-    "portrait": "portraits/rook.jpg",
+    "portrait": "portraits/rook.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Грач",
       "en": "https://awoiaf.westeros.org/index.php/Rook"
@@ -18891,7 +18891,7 @@
         "en": "He adopted the faith of the Lord of Light."
       }
     ],
-    "portrait": "portraits/devan-seaworth.jpg",
+    "portrait": "portraits/devan-seaworth.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Деван_Сиворт",
       "en": "https://awoiaf.westeros.org/index.php/Devan_Seaworth"
@@ -18928,7 +18928,7 @@
         "en": "He later headed the royal treasury."
       }
     ],
-    "portrait": "portraits/harys-swyft.jpg",
+    "portrait": "portraits/harys-swyft.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Харис_Свифт",
       "en": "https://awoiaf.westeros.org/index.php/Harys_Swyft"
@@ -18977,7 +18977,7 @@
         "en": "He later joined the crown’s side."
       }
     ],
-    "portrait": "portraits/mathis-rowan.jpg",
+    "portrait": "portraits/mathis-rowan.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Матис_Рован",
       "en": "https://awoiaf.westeros.org/index.php/Mathis_Rowan"
@@ -19018,7 +19018,7 @@
         "en": "He refused to surrender the boy to Stannis."
       }
     ],
-    "portrait": "portraits/cortnay-penrose.jpg",
+    "portrait": "portraits/cortnay-penrose.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Кортни_Пенроз",
       "en": "https://awoiaf.westeros.org/index.php/Cortnay_Penrose"
@@ -19060,7 +19060,7 @@
         "en": "His riders encountered Daenerys in the Dothraki sea."
       }
     ],
-    "portrait": "portraits/jhaqo.jpg",
+    "portrait": "portraits/jhaqo.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Чхако",
       "en": "https://awoiaf.westeros.org/index.php/Jhaqo"
@@ -19093,7 +19093,7 @@
         "en": "In her youth she served Queen Rhaella."
       }
     ],
-    "portrait": "portraits/joanna-lannister.jpg",
+    "portrait": "portraits/joanna-lannister.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Джоанна_Ланнистер",
       "en": "https://awoiaf.westeros.org/index.php/Joanna_Lannister"
@@ -19138,7 +19138,7 @@
         "en": "He was sent to Daenerys posing as a deserter."
       }
     ],
-    "portrait": "portraits/jack.jpg",
+    "portrait": "portraits/jack.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Имбирный_Джек",
       "en": "https://awoiaf.westeros.org/index.php/Ginger_Jack"
@@ -19173,7 +19173,7 @@
         "en": "He was sent to Daenerys by the Tattered Prince."
       }
     ],
-    "portrait": "portraits/lucifer-long.jpg",
+    "portrait": "portraits/lucifer-long.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Люсифер_Лонг",
       "en": "https://awoiaf.westeros.org/index.php/Lucifer_Long"
@@ -19213,7 +19213,7 @@
         "en": "He took part in the siege of Astapor."
       }
     ],
-    "portrait": "portraits/black-gerrold.jpg",
+    "portrait": "portraits/black-gerrold.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Герольд_Черный",
       "en": "https://awoiaf.westeros.org/index.php/Black_Gerrold"
@@ -19248,7 +19248,7 @@
         "en": "He was sent to Daenerys with the deserters."
       }
     ],
-    "portrait": "portraits/orson-stone.jpg",
+    "portrait": "portraits/orson-stone.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Орсон_Стоун",
       "en": "https://awoiaf.westeros.org/index.php/Orson_Stone"
@@ -19287,7 +19287,7 @@
         "en": "He took part in the siege of Astapor."
       }
     ],
-    "portrait": "portraits/myrio-myrakis.jpg",
+    "portrait": "portraits/myrio-myrakis.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Мирио_Миракис",
       "en": "https://awoiaf.westeros.org/index.php/Myrio_Myrakis"
@@ -19322,7 +19322,7 @@
         "en": "He was imprisoned in the Great Pyramid."
       }
     ],
-    "portrait": "portraits/dick-straw.jpg",
+    "portrait": "portraits/dick-straw.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Дик-Соломинка",
       "en": "https://awoiaf.westeros.org/index.php/Dick_Straw"
@@ -19357,7 +19357,7 @@
         "en": "He writes poetry."
       }
     ],
-    "portrait": "portraits/denzo-d-han.jpg",
+    "portrait": "portraits/denzo-d-han.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Дензо_Дхан",
       "en": "https://awoiaf.westeros.org/index.php/Denzo_D%27han"
@@ -19396,7 +19396,7 @@
         "en": "He played dice with Archibald after the siege of Astapor."
       }
     ],
-    "portrait": "portraits/beans.jpg",
+    "portrait": "portraits/beans.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Боб",
       "en": "https://awoiaf.westeros.org/index.php/Beans"
@@ -19435,7 +19435,7 @@
         "en": "He was sent to Daenerys posing as a deserter."
       }
     ],
-    "portrait": "portraits/webber.jpg",
+    "portrait": "portraits/webber.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Веббер",
       "en": "https://awoiaf.westeros.org/index.php/Webber"
@@ -19474,7 +19474,7 @@
         "en": "He played dice with Archibald and other sellswords."
       }
     ],
-    "portrait": "portraits/books.jpg",
+    "portrait": "portraits/books.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Книжник",
       "en": "https://awoiaf.westeros.org/index.php/Books"
@@ -19509,7 +19509,7 @@
         "en": "He was sent to Daenerys on his commander’s secret orders."
       }
     ],
-    "portrait": "portraits/will-of-the-woods.jpg",
+    "portrait": "portraits/will-of-the-woods.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Уилл_Лесной",
       "en": "https://awoiaf.westeros.org/index.php/Will_of_the_Woods"
@@ -19544,7 +19544,7 @@
         "en": "He was tasked with hiring an overseas army."
       }
     ],
-    "portrait": "portraits/justin-massey.jpg",
+    "portrait": "portraits/justin-massey.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Джастин_Масси",
       "en": "https://awoiaf.westeros.org/index.php/Justin_Massey"
@@ -19589,7 +19589,7 @@
         "en": "She resents the failure to return her husband’s remains."
       }
     ],
-    "portrait": "portraits/barbrey-dustin.jpg",
+    "portrait": "portraits/barbrey-dustin.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Барбри_Дастин",
       "en": "https://awoiaf.westeros.org/index.php/Barbrey_Dustin"
@@ -19640,7 +19640,7 @@
         "en": "He helped Davos save Robert’s son."
       }
     ],
-    "portrait": "portraits/rolland-storm.jpg",
+    "portrait": "portraits/rolland-storm.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Ролланд_Шторм",
       "en": "https://awoiaf.westeros.org/index.php/Rolland_Storm"
@@ -19685,7 +19685,7 @@
         "en": "Her supporters are known as the blacks."
       }
     ],
-    "portrait": "portraits/rhaenyra-targaryen.jpg",
+    "portrait": "portraits/rhaenyra-targaryen.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Рейнира_Таргариен",
       "en": "https://awoiaf.westeros.org/index.php/Rhaenyra_Targaryen"
@@ -19742,7 +19742,7 @@
         "en": "He escorted the boy rescued by Davos across the sea."
       }
     ],
-    "portrait": "portraits/andrew-estermont.jpg",
+    "portrait": "portraits/andrew-estermont.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Эндрю_Эстермонт",
       "en": "https://awoiaf.westeros.org/index.php/Andrew_Estermont"
@@ -19783,7 +19783,7 @@
         "en": "He joins Stannis’s northern campaign."
       }
     ],
-    "portrait": "portraits/godry-farring.jpg",
+    "portrait": "portraits/godry-farring.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Годри_Фарринг",
       "en": "https://awoiaf.westeros.org/index.php/Godry_Farring"
@@ -19828,7 +19828,7 @@
         "en": "His son served as the king’s squire."
       }
     ],
-    "portrait": "portraits/gilbert-farring.jpg",
+    "portrait": "portraits/gilbert-farring.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Гилберт_Фарринг",
       "en": "https://awoiaf.westeros.org/index.php/Gilbert_Farring"
@@ -19869,7 +19869,7 @@
         "en": "He married Asha by proxy."
       }
     ],
-    "portrait": "portraits/erik-ironmaker.jpg",
+    "portrait": "portraits/erik-ironmaker.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Эрик_Айронмейкер",
       "en": "https://awoiaf.westeros.org/index.php/Erik_Ironmaker"
@@ -19908,7 +19908,7 @@
         "en": "He promised the ironborn new lands across the western sea."
       }
     ],
-    "portrait": "portraits/gylbert-farwynd.jpg",
+    "portrait": "portraits/gylbert-farwynd.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Гилберт_Фарвинд",
       "en": "https://awoiaf.westeros.org/index.php/Gylbert_Farwynd"
@@ -19949,7 +19949,7 @@
         "en": "He was granted Southshield by Euron."
       }
     ],
-    "portrait": "portraits/andrik-the-unsmiling.jpg",
+    "portrait": "portraits/andrik-the-unsmiling.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Андрик_Неулыба",
       "en": "https://awoiaf.westeros.org/index.php/Andrik_the_Unsmiling"
@@ -19984,7 +19984,7 @@
         "en": "He put himself forward as king of the ironborn."
       }
     ],
-    "portrait": "portraits/dunstan-drumm.jpg",
+    "portrait": "portraits/dunstan-drumm.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Дунстан_Драмм",
       "en": "https://awoiaf.westeros.org/index.php/Dunstan_Drumm"
@@ -20029,7 +20029,7 @@
         "en": "He faced opposition from the Faith Militant."
       }
     ],
-    "portrait": "portraits/aenys-i-targaryen.jpg",
+    "portrait": "portraits/aenys-i-targaryen.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Эйнис_Таргариен",
       "en": "https://awoiaf.westeros.org/index.php/Aenys_I_Targaryen"
@@ -20074,7 +20074,7 @@
         "en": "He worships the old gods."
       }
     ],
-    "portrait": "portraits/bartimus.jpg",
+    "portrait": "portraits/bartimus.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Бартимус",
       "en": "https://awoiaf.westeros.org/index.php/Bartimus"
@@ -20108,7 +20108,7 @@
         "en": "He stays at the court of the Gates of the Moon."
       }
     ],
-    "portrait": "portraits/morgarth-the-merry.jpg",
+    "portrait": "portraits/morgarth-the-merry.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Моргарт",
       "en": "https://awoiaf.westeros.org/index.php/Morgarth_the_Merry"
@@ -20138,7 +20138,7 @@
         "en": "He first supported Renly, then Stannis."
       }
     ],
-    "portrait": "portraits/ronnet-connington.jpg",
+    "portrait": "portraits/ronnet-connington.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Роннет_Коннингтон",
       "en": "https://awoiaf.westeros.org/index.php/Ronnet_Connington"
@@ -20183,7 +20183,7 @@
         "en": "He took part in the war for the Stepstones."
       }
     ],
-    "portrait": "portraits/caraxes.jpg",
+    "portrait": "portraits/caraxes.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Караксес",
       "en": "https://awoiaf.westeros.org/index.php/Caraxes"
@@ -20215,7 +20215,7 @@
         "en": "He led the army at Hardhome."
       }
     ],
-    "portrait": "portraits/night-king.jpg",
+    "portrait": "portraits/night-king.webp",
     "wiki": {
       "ru": "https://7kingdoms.ru/wiki/Король_Ночи",
       "en": "https://awoiaf.westeros.org/index.php/Others#Game_of_Thrones"

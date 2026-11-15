@@ -2,7 +2,8 @@
 // - The page itself is network-first, so a new deploy shows up on the next launch.
 // - Hashed build files (assets/) never change: cache-first.
 // - Portraits, sigils, icons and fonts: served from the cache and refreshed in the background.
-// Nothing is precached: pictures are kept as the player meets them.
+// Nothing is precached here: pictures are kept as the player meets them, and the installed app
+// fills MEDIA with all of them in the background (src/offline.ts, which uses the same cache name).
 
 const PAGES = 'pages-v1'
 const ASSETS = 'assets-v1'

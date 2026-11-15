@@ -8,7 +8,7 @@
 | `src/data/houses.json` | Дома, на которые ссылаются персонажи |
 | `src/data/results.json` | Лестница результатов: по одному персонажу на каждый счёт от 0 до 30 |
 | `src/data/*.sample.json` | Небольшой стабильный набор для юнит-тестов, в игру не попадает |
-| `public/portraits/`, `public/sigils/` | Иллюстрации и гербы. В JSON пути указываются без `public/` |
+| `public/portraits/`, `public/sigils/` | Иллюстрации и гербы в WebP. В JSON пути указываются без `public/` |
 | `public/placeholders/` | Заглушки для тестового набора |
 
 ## Персонаж
@@ -26,8 +26,8 @@
 | `house` | нет | id из `houses.json` |
 | `serves` | нет | id дома или персонажа |
 | `facts` | да | от 1 до 10 фактов, без имени персонажа: используются как подсказка |
-| `portrait` | да | `portraits/<id>.<ext>` |
-| `extraPortraits` | нет | `[{ "src": "portraits/<id>--2.jpg", "caption": {…} }]` |
+| `portrait` | да | `portraits/<id>.webp` |
+| `extraPortraits` | нет | `[{ "src": "portraits/<id>--2.webp", "caption": {…} }]` |
 | `wiki.ru` / `wiki.en` | да | `https://7kingdoms.ru/…` / `https://awoiaf.westeros.org/…` |
 
 ## Другие языки

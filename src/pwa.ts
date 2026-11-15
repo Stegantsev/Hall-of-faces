@@ -1,5 +1,8 @@
 import { computed, ref, watch } from 'vue'
 import { useI18n } from './i18n/useI18n'
+import { saveAllMedia } from './offline'
+
+const OFFLINE_START_DELAY_MS = 3000
 
 /** Chromium's install prompt event; not in the DOM typings. */
 interface BeforeInstallPromptEvent extends Event {
@@ -49,6 +52,9 @@ export function initPwa() {
       navigator.serviceWorker.register(`${import.meta.env.BASE_URL}sw.js`).catch(() => {
         // No offline mode (e.g. private browsing); the game itself works without it.
       })
+      // Only the installed app keeps every picture: on iOS it doesn't share storage with Safari,
+      // and in a browser tab ~18 MB nobody asked for would be rude. A pause lets the first card load first.
+      if (isStandalone()) setTimeout(() => void saveAllMedia(), OFFLINE_START_DELAY_MS)
     })
   }
 }

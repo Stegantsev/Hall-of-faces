@@ -80,7 +80,8 @@
     "credits.artRights": "© Mihajlo Dimitrievski (TheMico), tous droits réservés. La licence du code du jeu ne couvre pas les illustrations.",
     "credits.sources": "Sources",
     "credits.sourcesText": "Les anecdotes et les armoiries des personnages proviennent des wikis de fans :",
-    "credits.disclaimer": "Un projet de fans non officiel, sans affiliation avec George R. R. Martin, HBO ou les éditeurs des livres, bandes dessinées, fanfictions et autres. Le Trône de fer et Game of Thrones appartiennent à leurs détenteurs respectifs."
+    "credits.disclaimer": "Un projet de fans non officiel, sans affiliation avec George R. R. Martin, HBO ou les éditeurs des livres, bandes dessinées, fanfictions et autres. Le Trône de fer et Game of Thrones appartiennent à leurs détenteurs respectifs.",
+    "credits.offline": "Images pour jouer hors ligne : {done} sur {total}"
   },
   "data": {
     "character.barristan-selmy.name": {

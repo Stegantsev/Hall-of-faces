@@ -1,4 +1,5 @@
-import { readFileSync } from 'node:fs'
+import { createHash } from 'node:crypto'
+import { readdirSync, readFileSync } from 'node:fs'
 import { join } from 'node:path'
 import { defineConfig, type Plugin } from 'vite'
 import vue from '@vitejs/plugin-vue'
@@ -229,8 +230,44 @@ function resultPages(): Plugin {
   }
 }
 
+/** Folders under public/ whose pictures the installed game keeps for offline play. */
+const OFFLINE_DIRS = ['portraits', 'sigils', 'backgrounds']
+
+/** Every offline picture with a short hash of its bytes: { "portraits/x.webp": "3f9a…" }. */
+function mediaList(): string {
+  const list: Record<string, string> = {}
+  for (const dir of OFFLINE_DIRS) {
+    for (const name of readdirSync(join(import.meta.dirname, 'public', dir)).sort()) {
+      if (name.startsWith('.')) continue
+      const bytes = readFileSync(join(import.meta.dirname, 'public', dir, name))
+      list[`${dir}/${name}`] = createHash('sha1').update(bytes).digest('hex').slice(0, 12)
+    }
+  }
+  return JSON.stringify(list)
+}
+
+/**
+ * media.json: the list src/offline.ts downloads in the installed app. The hashes tell it which
+ * pictures changed in a deploy, so only those are fetched again.
+ */
+function offlineMedia(): Plugin {
+  return {
+    name: 'offline-media',
+    configureServer(server) {
+      server.middlewares.use((req, res, next) => {
+        if (!req.url?.match(/\/media\.json(\?.*)?$/)) return next()
+        res.setHeader('Content-Type', 'application/json')
+        res.end(mediaList())
+      })
+    },
+    generateBundle() {
+      this.emitFile({ type: 'asset', fileName: 'media.json', source: mediaList() })
+    },
+  }
+}
+
 // Relative base so the build works under any Pages path.
 export default defineConfig({
   base: './',
-  plugins: [vue(), webManifests(), langPages(), resultPages()],
+  plugins: [vue(), webManifests(), langPages(), resultPages(), offlineMedia()],
 })

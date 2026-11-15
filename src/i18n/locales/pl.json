@@ -80,7 +80,8 @@
     "credits.artRights": "© Mihajlo Dimitrievski (TheMico), wszelkie prawa zastrzeżone. Licencja kodu gry nie obejmuje ilustracji.",
     "credits.sources": "Źródła",
     "credits.sourcesText": "Fakty o postaciach i herby pochodzą z fanowskich wiki:",
-    "credits.disclaimer": "Nieoficjalny projekt fanowski, niezwiązany z George’em R. R. Martinem, HBO ani wydawcami książek, komiksów, fanfików i całej reszty. Pieśń Lodu i Ognia oraz Gra o tron należą do swoich właścicieli."
+    "credits.disclaimer": "Nieoficjalny projekt fanowski, niezwiązany z George’em R. R. Martinem, HBO ani wydawcami książek, komiksów, fanfików i całej reszty. Pieśń Lodu i Ognia oraz Gra o tron należą do swoich właścicieli.",
+    "credits.offline": "Obrazy do gry offline: {done} z {total}"
   },
   "data": {
     "character.barristan-selmy.name": {

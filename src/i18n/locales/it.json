@@ -80,7 +80,8 @@
     "credits.artRights": "© Mihajlo Dimitrievski (TheMico), tutti i diritti riservati. La licenza del codice del gioco non si applica alle illustrazioni.",
     "credits.sources": "Fonti",
     "credits.sourcesText": "Curiosità sui personaggi e stemmi provengono dalle wiki dei fan:",
-    "credits.disclaimer": "Un progetto non ufficiale di fan, senza affiliazione con George R. R. Martin, HBO o gli editori di libri, fumetti, fanfiction e quant'altro. Le Cronache del Ghiaccio e del Fuoco e Il Trono di Spade appartengono ai rispettivi titolari dei diritti."
+    "credits.disclaimer": "Un progetto non ufficiale di fan, senza affiliazione con George R. R. Martin, HBO o gli editori di libri, fumetti, fanfiction e quant'altro. Le Cronache del Ghiaccio e del Fuoco e Il Trono di Spade appartengono ai rispettivi titolari dei diritti.",
+    "credits.offline": "Immagini per giocare offline: {done} di {total}"
   },
   "data": {
     "character.barristan-selmy.name": {

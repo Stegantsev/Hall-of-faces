@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { version } from '../../package.json'
 import { useI18n } from '../i18n/useI18n'
+import { offlineProgress } from '../offline'
 
 const { t, wikis } = useI18n()
 
@@ -58,6 +59,11 @@ function onVersionTap() {
     <p class="note">{{ t('credits.disclaimer') }}</p>
 
     <footer>
+      <!-- Only in the installed app while it downloads every picture (src/offline.ts); gone once done. -->
+      <div v-if="offlineProgress && offlineProgress.done < offlineProgress.total" class="offline">
+        <span>{{ t('credits.offline', offlineProgress) }}</span>
+        <span class="bar"><span :style="{ width: `${(100 * offlineProgress.done) / offlineProgress.total}%` }" /></span>
+      </div>
       <span class="version" @click="onVersionTap">v{{ version }}</span>
     </footer>
   </article>
@@ -106,6 +112,31 @@ ul {
 
 footer {
   text-align: center;
+}
+
+.offline {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+  margin-bottom: 12px;
+  color: var(--muted);
+  font-size: 14px;
+}
+
+.bar {
+  width: 160px;
+  height: 2px;
+  border-radius: 1px;
+  background: color-mix(in srgb, var(--muted) 30%, transparent);
+  overflow: hidden;
+}
+
+.bar > span {
+  display: block;
+  height: 100%;
+  /* No width transition: restarted on every file, an eased one would barely move. */
+  background: var(--gold);
 }
 
 .version {

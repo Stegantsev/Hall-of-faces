@@ -4,7 +4,7 @@ import { LEVELS, RACES } from './model'
 
 export { LEVELS, RACES }
 
-// Paths are relative to public/, without a leading slash: "portraits/arya-stark.jpg"
+// Paths are relative to public/, without a leading slash: "portraits/arya-stark.webp"
 const assetPath = z
   .string()
   .regex(/^(portraits|sigils|placeholders)\/[^/].*\.(jpe?g|png|webp|gif|svg)$/i, 'asset path like "portraits/<id>.<ext>"')

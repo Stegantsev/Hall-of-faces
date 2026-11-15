@@ -9,7 +9,7 @@ const make = (id: string, extra: Partial<Character> = {}): Character => ({
   name: { ru: id, en: id },
   gender: 'm',
   facts: [{ ru: 'факт', en: 'fact' }],
-  portrait: `portraits/${id}.jpg`,
+  portrait: `portraits/${id}.webp`,
   wiki: { ru: 'https://7kingdoms.ru/wiki/x', en: 'https://awoiaf.westeros.org/index.php/X' },
   ...extra,
 })

@@ -80,7 +80,8 @@
     "credits.artRights": "© Mihajlo Dimitrievski (TheMico), todos los derechos reservados. La licencia del código del juego no cubre las ilustraciones.",
     "credits.sources": "Fuentes",
     "credits.sourcesText": "Los datos de los personajes y los blasones proceden de estas wikis de aficionados:",
-    "credits.disclaimer": "Un proyecto no oficial de aficionados, sin afiliación con George R. R. Martin, HBO ni las editoriales de los libros, cómics, fanfics y demás. Canción de hielo y fuego y Juego de tronos pertenecen a sus respectivos propietarios."
+    "credits.disclaimer": "Un proyecto no oficial de aficionados, sin afiliación con George R. R. Martin, HBO ni las editoriales de los libros, cómics, fanfics y demás. Canción de hielo y fuego y Juego de tronos pertenecen a sus respectivos propietarios.",
+    "credits.offline": "Imágenes para jugar sin conexión: {done} de {total}"
   },
   "data": {
     "character.barristan-selmy.name": {
