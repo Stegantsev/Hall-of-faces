@@ -82,6 +82,7 @@ const OG_LOCALES: Record<Lang, string> = {
   pl: 'pl_PL',
   'pt-BR': 'pt_BR',
   ru: 'ru_RU',
+  sr: 'sr_RS',
 }
 
 type Character = { id: string; name: { ru: string; en: string } }
