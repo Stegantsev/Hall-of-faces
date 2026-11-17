@@ -80,6 +80,8 @@
     "credits.back": "Nazad na igru",
     "credits.about": "O projektu",
     "credits.aboutText": "Prijatelji, napravio sam ovu igru dok sam učio Vue.js 3, bez ikakvih pretenzija da zavladam svetom :)\n\nIdeja se rodila pre petnaestak godina, kada je izašla prva sezona i kada sam počeo da čitam knjige. Da pohvatam sve niti radnje, stalno sam zavirivao u enciklopediju obožavalaca i zadržavao se na sažetim i izražajnim ilustracijama umetnika TheMico. Mnogo bolje od glumačke postave serije dočaravale su likove iz knjiga i gotovo uvek odgovarale tome kako sam zamišljao junake sage.\n\nPovremeno sam tako propitivao prijatelje i otprilike tada mi je pala na pamet ova igra. Projekat je stalno rastao, pa sam tek sad stigao da je napravim.",
+    "credits.author": "O autoru",
+    "credits.authorText": "Zovem se Anton, veb-programer sam iz Sankt Peterburga koji živi u Crnoj Gori. Ako imate nešto da mi kažete, pišite mi na [Telegramu].",
     "credits.art": "Ilustracije",
     "credits.artText": "Portrete likova nacrtao je Mihajlo Dimitrievski (TheMico) —",
     "credits.artRights": "© Mihajlo Dimitrievski (TheMico), sva prava zadržana. Ilustracije se koriste u ovoj nekomercijalnoj igri uz dozvolu umetnika.",

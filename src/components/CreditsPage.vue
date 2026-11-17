@@ -1,9 +1,16 @@
 <script setup lang="ts">
+import { computed } from 'vue'
 import { version } from '../../package.json'
 import { useI18n } from '../i18n/useI18n'
 import { offlineProgress } from '../offline'
 
 const { t, wikis } = useI18n()
+
+// Splits "... [link] ..." into before / link / after.
+const authorText = computed(() => {
+  const [, before = '', link = '', after = ''] = /^(.*)\[(.*)\](.*)$/s.exec(t('credits.authorText')) ?? []
+  return [before, link, after]
+})
 
 // Hidden admin entrance, like Android's "tap build number" developer mode:
 // seven quick taps on the version open the admin table.
@@ -44,6 +51,12 @@ function onVersionTap() {
         <a href="https://www.instagram.com/txemico/" target="_blank" rel="noopener">@txemico</a>
       </p>
       <p class="note">{{ t('credits.artRights') }}</p>
+    </section>
+
+    <section>
+      <h2>{{ t('credits.author') }}</h2>
+      <!-- The [bracketed] word in the translation becomes the Telegram link. -->
+      <p>{{ authorText[0] }}<a href="https://t.me/Stegantsev" target="_blank" rel="noopener">{{ authorText[1] }}</a>{{ authorText[2] }}</p>
     </section>
 
     <section>
