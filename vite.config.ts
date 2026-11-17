@@ -113,12 +113,14 @@ type StubPage = {
 
 /**
  * A page that exists only for link previews: tags in one language, and a script that sends
- * a person on to the game in that language (?lang=, picked up by src/i18n/useI18n.ts).
+ * a person on to the game in that language (?lang=, picked up by src/i18n/useI18n.ts), saying
+ * for the visit stats which page they landed on and where they came from (?from=&ref=, src/stats.ts).
  */
 function stubPage({ lang, path, title, description, image, imageAlt }: StubPage): string {
   const site = siteUrl()
   const game = escapeHtml(uiText(lang, 'app.title'))
   const back = `${'../'.repeat(path.split('/').filter(Boolean).length)}?lang=${lang}`
+  const from = `&from=${encodeURIComponent(path)}`
   // The redirect is JS only: crawlers don't run it and read the tags; a meta refresh some would follow.
   return `<!doctype html>
 <html lang="${lang}">
@@ -139,7 +141,11 @@ function stubPage({ lang, path, title, description, image, imageAlt }: StubPage)
     <meta property="og:image:alt" content="${escapeHtml(imageAlt)}" />
     <meta property="og:locale" content="${OG_LOCALES[lang]}" />
     <meta name="twitter:card" content="summary_large_image" />
-    <script>location.replace('${back}' + location.hash)</script>
+    <script>
+      var q = new URLSearchParams(location.search)
+      var ref = q.get('ref') || q.get('utm_source') || document.referrer
+      location.replace('${back}${from}&ref=' + encodeURIComponent(ref) + location.hash)
+    </script>
   </head>
   <body style="background: ${BG}">
     <a href="${back}" style="color: #d1a94f">${game}</a>

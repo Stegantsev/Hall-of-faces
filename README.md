@@ -26,7 +26,7 @@ Every push to `master` builds the site and publishes it to GitHub Pages (`.githu
 ## Credits and licenses
 
 - **Code** is released under the [MIT License](LICENSE).
-- **Character portraits** in `public/portraits/` are by the artist [TheMico](https://www.instagram.com/txemico/). © TheMico, all rights reserved. They are **not** covered by the MIT License and may not be reused without the artist's permission.
+- **Character portraits** in `public/portraits/` are by the artist Mihajlo Dimitrievski ([TheMico](https://www.instagram.com/txemico/)). © Mihajlo Dimitrievski (TheMico), all rights reserved. They are used in this non-commercial game with the artist's permission. They are **not** covered by the MIT License and may not be reused without the artist's permission.
 - Character facts and coats of arms come from the fan wikis [7kingdoms.ru](https://7kingdoms.ru) and [A Wiki of Ice and Fire](https://awoiaf.westeros.org).
 
 An unofficial fan project, not affiliated with George R. R. Martin, HBO or the publishers. *A Song of Ice and Fire* and *Game of Thrones* belong to their respective owners.
