@@ -45,18 +45,18 @@ function onVersionTap() {
     </section>
 
     <section>
+      <h2>{{ t('credits.author') }}</h2>
+      <!-- The [bracketed] word in the translation becomes the Telegram link. -->
+      <p>{{ authorText[0] }}<a href="https://t.me/Stegantsev" target="_blank" rel="noopener">{{ authorText[1] }}</a>{{ authorText[2] }}</p>
+    </section>
+
+    <section>
       <h2>{{ t('credits.art') }}</h2>
       <p>
         {{ t('credits.artText') }}
         <a href="https://www.instagram.com/txemico/" target="_blank" rel="noopener">@txemico</a>
       </p>
       <p class="note">{{ t('credits.artRights') }}</p>
-    </section>
-
-    <section>
-      <h2>{{ t('credits.author') }}</h2>
-      <!-- The [bracketed] word in the translation becomes the Telegram link. -->
-      <p>{{ authorText[0] }}<a href="https://t.me/Stegantsev" target="_blank" rel="noopener">{{ authorText[1] }}</a>{{ authorText[2] }}</p>
     </section>
 
     <section>
